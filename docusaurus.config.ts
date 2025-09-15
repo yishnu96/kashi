@@ -36,6 +36,26 @@ const config: Config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'temples',
+        path: 'temples',
+        routeBasePath: 'temples',
+        sidebarPath: require.resolve('./temples/sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'about-kashi',
+        path: 'about-kashi',
+        routeBasePath: 'about-kashi',
+        sidebarPath: require.resolve('./about-kashi/sidebars.js'),
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -84,6 +104,20 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'templesSidebar',
+          position: 'left',
+          label: 'Temples',
+          docsPluginId: 'temples',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'aboutKashiSidebar',
+          position: 'left',
+          label: 'About Kashi',
+          docsPluginId: 'about-kashi',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
