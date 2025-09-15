@@ -43,7 +43,7 @@ const config: Config = {
         id: 'temples',
         path: 'temples',
         routeBasePath: 'temples',
-        sidebarPath: require.resolve('./temples/sidebars.js'),
+        sidebarPath: require.resolve('./temples/templesSidebar.js'),
       },
     ],
     [

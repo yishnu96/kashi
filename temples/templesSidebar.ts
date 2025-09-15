@@ -10,20 +10,12 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Aditya Temples",
-      items: [
-        "aditya-temples/intro-aditya",
-        "aditya-temples/arun-aditya",
-        "aditya-temples/drupad-aditya",
-      ],
+      items: require('./aditya-temples/adityaSidebar.ts').adityaSidebar[0].items.map(item => `aditya-temples/${item}`),
     },
     {
       type: "category",
       label: "Bhairav Temples",
-      items: [
-        "bhairav-temples/intro",
-        "bhairav-temples/kaal-bhairav",
-        "bhairav-temples/chand-bhairav",
-      ],
+      items: require('./bhairav-temples/bhairavSidebar.ts').bhairavSidebar[0].items.map(item => `bhairav-temples/${item}`),
     },
   ],
 };
