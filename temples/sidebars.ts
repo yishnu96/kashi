@@ -1,24 +1,28 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
-const sidebars : SidebarsConfig = {
+const sidebars: SidebarsConfig = {
   templesSidebar: [
     {
-      type: 'category',
-      label: 'Temples of Kashi',
-      collapsed: false,
+      type: "doc",
+      id: "about-kashi-temples",
+      label: "Overview",
+    },
+    {
+      type: "category",
+      label: "Aditya Temples",
       items: [
-        'intro',
-        'vishwanath-temple',
-        {
-          type: 'category',
-          label: 'Famous Temples',
-          items: ['famous-temples-overview'],
-        },
-        {
-          type: 'category',
-          label: 'Ghats',
-          items: ['ghats-overview'],
-        },
+        "aditya-temples/intro-aditya",
+        "aditya-temples/arun-aditya",
+        "aditya-temples/drupad-aditya",
+      ],
+    },
+    {
+      type: "category",
+      label: "Bhairav Temples",
+      items: [
+        "bhairav-temples/intro",
+        "bhairav-temples/kaal-bhairav",
+        "bhairav-temples/chand-bhairav",
       ],
     },
   ],
