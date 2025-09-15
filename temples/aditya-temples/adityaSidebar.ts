@@ -7,7 +7,17 @@ const sidebars : SidebarsConfig = {
       items: [
         "intro-aditya",
         "arun-aditya",
-        "drupad-aditya",
+        "draupad-aditya",
+        "ganga-aditya",
+        "keshava-aditya",
+        "khakholkh-aditya",
+        "lolark-aditya",
+        "mayukh-aditya",
+        "saamba-aditya",
+        "uttarark-aditya",
+        "vimal-aditya",
+        "vriddh-aditya",
+        "yama-aditya"
       ],
     },
   ],
