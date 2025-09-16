@@ -1,5 +1,5 @@
 ---
-id: hayakanti-devi
+id: havakanti-devi
 sidebar_label: Hayakanti Devi Temple
 title: Hayakanti Devi Temple - The Obstacle Remover
 description: Hayakanti Devi Temple in Kashi is a powerful shrine where the goddess, with her divine sickle, removes all obstacles from her devotees' path.
