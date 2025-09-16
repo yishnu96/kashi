@@ -1,7 +1,7 @@
 ---
 
 id: chandi-devi
-sidebar_label: Chandi Devi Temple
+sidebar_label: Chandi Devi 
 title: Chandi Devi Temple - The Giver of Siddhis
 description: Chandi Devi Temple in Kashi is a powerful Shakti Peetha and one of the seven sacred Matrika Devis, revered for granting supernatural powers and removing obstacles.
 keywords: [Chandi Devi, Kashi, Varanasi, Shakti Peetha, Siddhis]
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-# Chandi Devi Temple
+# Chandi Devi 
 
 Chandi Devi Temple stands as one of Kashi's most powerful Shakti Peethas, revered as the seventh among the seven sacred Matrika Devis mentioned in the Kashi Khand. This ancient shrine, also known as Kaurmi Shakti, holds immense spiritual significance for devotees seeking divine blessings and Siddhis from the fierce manifestation of the Divine Mother.
 

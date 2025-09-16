@@ -13,7 +13,7 @@ tags:
 
 ---
 
-# Brahma Charini Devi Temple
+# Brahma Charini Devi 
 
 Nestled close to Durga Ghat on the sacred banks of the Ganga, the Brahma Charini Devi Temple is dedicated to the formidable ascetic form of Maa Durga, who performed intense penance to receive Lord Shiva as her husband. Scriptural sources proclaim this Kashi shrine as a powerhouse of spiritual energy and a vital destination for devotees seeking inner strength and wisdom.
 

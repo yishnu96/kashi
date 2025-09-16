@@ -1,7 +1,7 @@
 ---
 
 id: durga-devi
-sidebar_label: Durga Devi Temple
+sidebar_label: Durga Devi
 title: Durga Devi Temple - The Giver of Victory
 description: Durga Devi Temple in Kashi is a potent spiritual center where Goddess Durga protects the city, granting strength, victory, and courage to all devotees.
 keywords: [Durga Devi, Kashi, Varanasi, Durga Kund, Shakti, victory]
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-# Durga Devi Temple
+# Durga Devi
 
 Durga Devi Temple, nestled beside Durga Kund in the heart of Kashi, stands as one of the city's most potent spiritual centers where Goddess Durga eternally protects Varanasi, as described in the Devi-Bhagavata Purana. The temple radiates the living power of Shakti, bestowing strength and victory upon all who visit.
 

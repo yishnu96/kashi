@@ -1,7 +1,7 @@
 ---
 
 id: chamunda-devi
-sidebar_label: Chamunda Devi Temple
+sidebar_label: Chamunda Devi 
 title: Chamunda Devi Temple - The Fierce Protector
 description: The Chamunda Devi Temple in Kashi is a revered site dedicated to the fierce goddess Chamunda, known for granting protection, strength, and prosperity.
 keywords: [Chamunda Devi, Kashi, Varanasi, Devi temples, spiritual protection]
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# Chamunda Devi Temple
+# Chamunda Devi 
 
 The Chamunda Devi Temple in Kashi is a revered spiritual site, dedicated to the fierce goddess Chamunda Devi, who manifested to protect the cosmos from evil forces. Scripturally glorified for granting protection, strength, progeny, and wealth, this temple is a must-visit for devotees seeking blessings as described in the Kashi Khanda and Devi Bhagavata Purana.
 

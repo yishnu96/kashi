@@ -1,7 +1,7 @@
 ---
 
 id: bandi-devi
-sidebar_label: Bandi Devi Temple
+sidebar_label: Bandi Devi 
 title: Bandi Devi Temple - The Liberator of the Bound
 description: Bandi Devi Mandir is an ancient temple in Kashi revered for its power to free devotees from all forms of bondage, imprisonment, legal troubles, and spiritual obstacles.
 keywords: [Bandi Devi, Kashi, Varanasi, liberation from imprisonment, legal troubles, Dashashwamedh Ghat]
@@ -11,7 +11,7 @@ tags:
   - liberation
 ---
 
-# Bandi Devi Temple
+# Bandi Devi 
 
 Bandi Devi Temple in Kashi is the sacred abode of the liberator goddess, revered in the Kashi Khand for her divine power to free devotees from all forms of bondage. This ancient temple near Dashashwamedh Ghat grants freedom from imprisonment, legal troubles, and spiritual obstacles, making it an essential pilgrimage destination for those seeking divine intervention in their most challenging circumstances.
 

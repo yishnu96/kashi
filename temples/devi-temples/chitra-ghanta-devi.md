@@ -1,7 +1,7 @@
 ---
 
 id: chitra-ghanta-devi
-sidebar_label: Chitra Ghanta Devi Temple
+sidebar_label: Chitra Ghanta Devi 
 title: Chitra Ghanta Devi Temple - The Eradicator of Sins
 description: Chitra Ghanta Devi Temple in Kashi, dedicated to the third form of Maa Durga, is a sacred shrine where devotees' sins are erased from Chitra Gupta's records.
 keywords: [Chitra Ghanta Devi, Kashi, Varanasi, Durga, purification, Navratri]
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-# Chitra Ghanta Devi Temple
+# Chitra Ghanta Devi 
 
 Chitra Ghanta Devi Temple in Kashi stands as one of the most powerful Devi shrines, dedicated to the third form of Maa Durga. This sacred temple holds the divine promise that devotees who worship here with complete devotion will have their names erased from Chitra Gupta's sin records, ensuring complete purification of all past transgressions and a path to spiritual liberation.
 

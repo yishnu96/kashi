@@ -1,7 +1,7 @@
 ---
 
 id: bhavani-gauri
-sidebar_label: Bhavani Gauri Temple
+sidebar_label: Bhavani Gauri 
 title: Bhavani Gauri Temple - Guardian of Prosperity
 description: Bhavani Gauri is a fierce and benevolent manifestation of the Goddess, granting spiritual and worldly prosperity to all who seek her blessings in Kashi.
 keywords: [Bhavani Gauri, Nav Gauri, Kashi, Varanasi temples, Devi temples]
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# Bhavani Gauri Temple
+# Bhavani Gauri 
 
 The Bhavani Gauri Temple in Kashi stands among the nine ancient shrines dedicated to Goddess Gauri, representing her fierce and benevolent power. Scriptural texts, especially the Devi Bhagavata Purana and Kashi Khanda, declare this temple essential for attaining both spiritual and worldly prosperity, making it a must-visit for anyone seeking complete blessings during their sacred journey through Varanasi.
 

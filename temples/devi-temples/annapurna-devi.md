@@ -1,7 +1,7 @@
 ---
 
 id: annapurna-devi
-sidebar_label: Annapurna Temple
+sidebar_label: Annapurna Devi
 title: Annapurna Temple - The Goddess of Nourishment
 description: Annapurna Mandir is the sacred abode of Maa Annapurna, the goddess of nourishment and prosperity, who ensures her devotees never face hunger or poverty.
 keywords: [Annapurna Temple, Kashi, Varanasi, goddess of food, Annakoot, food charity]
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-# Annapurna Temple
+# Annapurna Devi
 
 Annapurna Mandir in Kashi is the sacred abode of Maa Annapurna, the goddess of nourishment and prosperity, and stands just beside the Kashi Vishwanath Temple. The scriptures describe that worshipping here ensures one will never face hunger, poverty, or scarcity, making it an essential destination for every seeker in Varanasi.
 
