@@ -10,12 +10,50 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Aditya Temples",
-      items: require('./aditya-temples/adityaSidebar.ts').adityaSidebar[0].items.map(item => `aditya-temples/${item}`),
+      items:
+        require("./aditya-temples/adityaSidebar.ts").adityaSidebar[0].items.map(
+          (item) => `aditya-temples/${item}`
+        ),
     },
     {
       type: "category",
       label: "Bhairav Temples",
-      items: require('./bhairav-temples/bhairavSidebar.ts').bhairavSidebar[0].items.map(item => `bhairav-temples/${item}`),
+      items:
+        require("./bhairav-temples/bhairavSidebar.ts").bhairavSidebar[0].items.map(
+          (item) => `bhairav-temples/${item}`
+        ),
+    },
+    {
+      type: "category",
+      label: "Devi Temples",
+      items:
+        require("./devi-temples/deviSidebar.ts").deviSidebar[0].items.map(
+          (item) => `devi-temples/${item}`
+        ),
+    },
+    {
+      type: "category",
+      label: "Shiva Temples",
+      items:
+        require("./shiva-temples/shivaSidebar.ts").shivaSidebar[0].items.map(
+          (item) => `shiva-temples/${item}`
+        ),
+    },
+    {
+      type: "category",
+      label: "Vinayak Temples",
+      items:
+        require("./vinayak-temples/vinayakSidebar.ts").vinayakSidebar[0].items.map(
+          (item) => `vinayak-temples/${item}`
+        ),
+    },
+    {
+      type: "category",
+      label: "Vishnu Temples",
+      items:
+        require("./vishnu-temples/vishnuSidebar.ts").vishnuSidebar[0].items.map(
+          (item) => `vishnu-temples/${item}`
+        ),
     },
   ],
 };
