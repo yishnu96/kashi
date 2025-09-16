@@ -8,7 +8,7 @@ Welcome to the About Kashi section. Here you'll discover the rich history, cultu
 
 ## Overview
 
-Kashi, also known as Varanasi or Benares, is considered one of the oldest continuously inhabited cities in the world. It holds immense religious, cultural, and historical significance in Indian civilization.
+Kashi, also known as Kashi or Benares, is considered one of the oldest continuously inhabited cities in the world. It holds immense religious, cultural, and historical significance in Indian civilization.
 
 ## What You'll Find Here
 

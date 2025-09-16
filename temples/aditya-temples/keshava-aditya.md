@@ -28,7 +28,7 @@ Keshava Aditya is the sacred Surya sthana at Adi Keshav Temple in Kashi where Lo
 * **Pooja Procedure**: Perform snan at Padodak Teerth/Koop, offer arghya to Surya, do abhishek and darshan at Keshava Aditya, and visit Sangameshwar Linga within the complex for complete Kashi Khand-ordained worship.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [Adikeshav & Keshav Aditya Temple (Dwadash Aditya Kashi Khand)](https://maps.app.goo.gl/NwPXYfDUcXV9Rm1R9)
 * **How to Reach**: Access Rajghat by auto/cycle rickshaw/car, or arrive by boat to Adi Keshav Ghat for direct entry to the temple precinct.
 * **Best Visiting Days**: Magh month Saptami falling on a Sunday (Suryavarita Saptami) is specially prescribed for Padodak snan and Keshava Aditya worship.
 
@@ -41,7 +41,7 @@ Here write about puran and means of it in Kashi Khand, Chapter 51, Shloka 74
 
 > **“केशवादित्यमाराध्य वाराणस्यां नरोत्तमः” — “परमं ज्ञानमाप्नोति येन निर्वाणभाग् भवेत्”**
 
-> **Meaning: “By worshipping Keshava Aditya in Varanasi, the ideal person attains supreme knowledge through which he reaches Nirvana.”**
+> **Meaning: “By worshipping Keshava Aditya in Kashi, the ideal person attains supreme knowledge through which he reaches Nirvana.”**
 
 ## Image 
 

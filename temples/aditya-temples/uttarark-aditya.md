@@ -35,8 +35,8 @@ Uttarark Aditya is the northern Surya sthana of Kashi established at Ark Kund (n
 
 #### Location
 
-  * **Location Marker**: 📍 Google Map Marker
-  * **How to Reach**: Take auto or cycle rickshaw from Varanasi City Station side towards Alaipur/Bakaria Kund; local conveyance is readily available.
+  * **Location Marker**: 📍 [Uttarark Aditya Temple (12 - Dwadasha Aditya Kashi Khand)](https://maps.app.goo.gl/LsFhQrSBQWeVcvNs8)
+  * **How to Reach**: Take auto or cycle rickshaw from Kashi City Station side towards Alaipur/Bakaria Kund; local conveyance is readily available.
   * **Best Visiting Days**: Sundays in Paush month (Dec–Jan) are specially prescribed for snan at Bakaria Kund and Uttarark Aditya worship.
 
 #### Contact Details
@@ -79,7 +79,7 @@ Traditional compilations record the name “Barkari/Bakaria Kund,” and local p
 Kashi Khand explains that Uttarark Aditya at Ark Kund grants joy, fearlessness, and equality to devotees, acting as a saviour of Kashi, with special fruit for those who combine Kund snan and Surya-puja in the Paush Sundays.
 
 Pilgrims follow a simple sequence: early snan at the Kund, arghya to Surya, Aditya mantra-japa, darshan at the temple, and charity as per capacity, aligning their steps with the compassionate decree of Shiva and Parvati.
-Over the years, the sacred geography remained constant: Alaipur side near Varanasi City Station, lanes leading to Bakaria Kund, and the temple precinct where Surya’s northern grace flows to householders, travellers, and tapasvins alike.
+Over the years, the sacred geography remained constant: Alaipur side near Kashi City Station, lanes leading to Bakaria Kund, and the temple precinct where Surya’s northern grace flows to householders, travellers, and tapasvins alike.
 
 Thus, the Uttarark Aditya kshetra stands as a testament that in Kashi even a goat’s steady faith becomes a bridge to boons, and a daughter’s sacrifice becomes Sakhi-hood with the Mother, blessing all who remember and worship.
 

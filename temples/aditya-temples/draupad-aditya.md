@@ -27,7 +27,7 @@ Draupad Aditya is a sacred Surya shrine of the Dwadash Aditya circuit in Kashi, 
 * **Pooja Procedure**: Perform simple self-pooja with darshan and prayers to Surya at this shrine first, then proceed to Sri Vishweshwar; offerings may be a lamp, flowers, and heartfelt stuti, as this spot is open for self-worship through the day.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [Draupad Aditya Temple](https://maps.app.goo.gl/f5oJ4QAHP69tfmqc9)
 * **How to Reach**: Enter via Dashashwamedh Road, Bansphatak, or Gyanvapi; police may regulate entry/exit routes on rush days—local guidance is helpful due to changing access within the corridor gullies.
 * **Best Visiting Days**: Sundays are traditionally auspicious for Surya worship; Ratha Saptami (Magha Shukla Saptami) is especially meritorious for honoring the Sun God.
 

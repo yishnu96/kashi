@@ -29,7 +29,7 @@ Saamba Aditya is the powerful Surya shrine at Surya Kund (Suraj Kund) in Kashi, 
 * **Pooja Procedure**: Take a holy dip in Surya Kund at dawn on Sunday; worship Saamba Aditya with devotion; on Magha Shukla Saptami (Rathasaptami) and Chaitra Sundays, perform puja with Aśoka flowers after the bath as prescribed in Kashi Khand. Offer arghya to Surya, do archana, and keep a Sunday vrata for health and prosperity as blessed in the scripture.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [Samba Aditya Temple (Dwadash Aditya Kashi Khand)](https://maps.app.goo.gl/WiZ1aZDt4HXuSpuF7)
 * **How to Reach**: The shrine stands near Suraj/Surya Kund close to Godaulia crossing in the heart of the city; reach by cycle-rickshaw to Surya Kund area and walk to the small Saambaditya shrine.
 * **Best Visiting Days**: Sunday sunrise; Ravisaptami in Magha (Magha Shukla Saptami) and the festival Sundays in Chaitra are specially auspicious per Kashi Khand.
 

@@ -35,7 +35,7 @@ Yama Aditya in Kashi is the Surya form consecrated by Yamraj at Yam Teerth, wher
 
 #### Location
 
-  * **Location Marker**: 📍 Google Map Marker
+  * **Location Marker**: 📍 [Yama Aditya Temple - Dwadash Aditya Kashi Khand](https://maps.app.goo.gl/6g94ToxvvrGumYGj7)
   * **How to Reach**: Come by rickshaw up to Chowk and walk through Sankata Gali, or take a boat to Sankata Ghat and climb the steps; use Sankata Devi Temple as reference point.
   * **Best Visiting Days**: Sunday is dedicated to Surya in Hindu tradition; the most auspicious observance here is when Tuesday, Bharani Nakshatra, and Chaturdashi fall together for Pitru rites.
 

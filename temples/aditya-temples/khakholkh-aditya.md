@@ -12,7 +12,7 @@ tags:
 ---
 # Khakholkh Aditya
 
-Khakholkh Aditya is a sacred Surya shrine of the Dwadash Aditya circuit in Kashi, extolled in Kashi Khand for darshan near Pilpila Teerth that grants freedom from sins, fulfillment of wishes, and relief from illness in an instant. Located within Kameshwar Mahadev Temple near the Trilochan area, it remains an important stop for Surya bhakti and the Aditya Yatra in Varanasi.
+Khakholkh Aditya is a sacred Surya shrine of the Dwadash Aditya circuit in Kashi, extolled in Kashi Khand for darshan near Pilpila Teerth that grants freedom from sins, fulfillment of wishes, and relief from illness in an instant. Located within Kameshwar Mahadev Temple near the Trilochan area, it remains an important stop for Surya bhakti and the Aditya Yatra in Kashi.
 
 ## Basic Temple Information
 
@@ -30,7 +30,7 @@ Khakholkh Aditya is a sacred Surya shrine of the Dwadash Aditya circuit in Kashi
 * **Pooja Procedure**: Have darshan of Khakholkh Aditya inside Kameshwar Mahadev Temple, participate in Mangala and Shayan Aarti, and offer simple Surya puja and archana as guided by the temple pujari.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [Arun/Khakholka Aditya Temple (Dwadash Aditya Kashi Khand)](https://maps.app.goo.gl/za9BC2YtVHCZ2YeFA)
 * **How to Reach**: Come to Machhodari, take a right circular turn towards Birla Hospital, then turn right into the gully for Kameshwar Temple (north of Trilochan); Khakholkh Aditya is worshipped here.
 * **Best Visiting Days**: Sunday sunrise is traditionally preferred for Aditya worship, and Kashi Khand praises worship of Surya on Sankranti and special Sundays for inexhaustible merit.
 
@@ -57,7 +57,7 @@ As a dutiful son, Garuda soared to the celestial realm, facing fierce defenses p
 
 Garuda presented the amrita before the serpents to fulfill the condition, and as they went to bathe before partaking, Indra reclaimed the nectar, leaving only the kusa grass on which the pot had rested, which the serpents licked hoping for a drop and thereby split their tongues upon its sharp blades, a mark they bear from that day. With the condition met and the nectar removed by divine will, Vinata obtained her freedom, and mother and son turned to Kashi for atonement and thanksgiving at the supreme pilgrimage city praised by the scriptures. In Kashi, Garuda installed a Shiva Lingam and worshipped steadfastly at the feet of Mahadev, and nearby Vinata fashioned the image of Surya and performed rigorous penance to the Sun God for grace and absolution.
 
-Pleased with Vinata’s devotion and the dharmic outcome of Garuda’s trials, Suryadev manifested at this sacred spot as Khakholkh Aditya, bestowing blessings upon devotees who come here in faith, especially for removal of sins, fulfillment of heartfelt wishes, and freedom from disease. Kashi Khand locates Khakholkh Aditya near the holy Pilpila Teerth in the Trilochan area, a site remembered today as a venerable well close to Trilochaneshwar, binding the Puranic account with the living cityscape of Kashi. In the wider Kashi narrative, Surya—sent once by Shiva to test King Divodas—chose to remain in Varanasi, and the Dwadash Aditya tradition flourished here, making Khakholkh Aditya a radiant link in the twelvefold worship of the Sun in the city of light.
+Pleased with Vinata’s devotion and the dharmic outcome of Garuda’s trials, Suryadev manifested at this sacred spot as Khakholkh Aditya, bestowing blessings upon devotees who come here in faith, especially for removal of sins, fulfillment of heartfelt wishes, and freedom from disease. Kashi Khand locates Khakholkh Aditya near the holy Pilpila Teerth in the Trilochan area, a site remembered today as a venerable well close to Trilochaneshwar, binding the Puranic account with the living cityscape of Kashi. In the wider Kashi narrative, Surya—sent once by Shiva to test King Divodas—chose to remain in Kashi, and the Dwadash Aditya tradition flourished here, making Khakholkh Aditya a radiant link in the twelvefold worship of the Sun in the city of light.
 
 ## Youtube
 

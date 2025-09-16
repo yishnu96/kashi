@@ -1,11 +1,11 @@
 ---
 
 id: intro-aditya
-title: How to Become an Expert in Anything
+title: About Adityas
 description: Practical PM guide to build deep expertise fast—goals, learning roadmap, mentors, feedback, and real‑world reps.
 date: 2025-05-08
 # sidebar\_position: 10
-sidebar_label: Expert Growth
+sidebar_label: About Adityas
 tags:
 
 - product-management

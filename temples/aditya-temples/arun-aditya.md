@@ -29,7 +29,7 @@ Arun Aditya in Kashi is the sacred form of Surya worshipped as the charioteer's 
 * **Pooja Procedure**: Regular darshan and participation in daily aartis are followed; for any special pooja, consult the temple pujari in advance.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [Arun/Khakholka Aditya Temple (Dwadash Aditya Kashi Khand)](https://maps.app.goo.gl/5HZD4eZdhxQwJ9Jz8)
 * **How to Reach**: Approach Trilochaneshwar Temple at A-2/80, Trilochan Ghat via Birla Hospital after Machhodari by auto or cycle rickshaw, or come by boat to Trilochan Ghat and climb the steps.
 * **Best Visiting Days**: *Sundays* are auspicious for Aditya worship; *Ratha Saptami* (*Magha Shukla Saptami*) is especially meritorious for Surya upasana.
 

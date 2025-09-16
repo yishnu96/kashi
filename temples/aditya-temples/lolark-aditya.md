@@ -27,7 +27,7 @@ Lolark Aditya stands at the sacred Assi–Ganga confluence near Tulsi Ghat, wher
 * **Pooja Procedure**: Perform self-worship any time; offer prayers on Sundays; take holy dip on auspicious days (Magha Shukla Saptami/Rathasaptami and Bhadrapada Shukla Shashti), then perform dāna, homa, arcana, and shraddha at Lolark-Sangam as praised in Kashi Khand; eclipse-bath here is said to be tenfold Kurukshetra.
 
 #### Location
-* **Location Marker**: 📍 Google Map Marker
+* **Location Marker**: 📍 [LOLARK ADITYA MANDIR (12 - DwadashAditya)](https://maps.app.goo.gl/GpqDCuDHJg7YWfF87)
 * **How to Reach**: Travel by rickshaw to Marwadi Seva Sangh, Assi, then walk through the lanes to Lolark Kund, or take a boat to Tulsi Ghat and climb the steps to the kund plaza.
 * **Best Visiting Days**: Sunday sunrise for Aditya worship; Rathasaptami (Magha Shukla Saptami) and Lolark Shashti (Bhadrapada Shukla Shashti) draw the largest gatherings for sacred dips and Surya puja.
 

@@ -35,7 +35,7 @@ Mayukh Aditya is a revered Surya shrine at Panchanada Teerth (Panchganga Ghat) w
 
 #### Location
 
-  * **Location Marker**: 📍 Google Map Marker
+  * **Location Marker**: 📍 [Mayukhaditya Temple - Dwadash Aditya Kashi Khand](https://maps.app.goo.gl/SpVvAZpEY8s2LdB2A)
   * **How to Reach**: Take rickshaw to Bhaironath (Kaal Bhairav) and walk 20–30 minutes through lanes, or take a boat to Balaji/Panchganga Ghat and climb the steps to Mangala Gauri Temple.
   * **Best Visiting Days**: Sundays are most auspicious for Surya; if Sunday coincides with Shashti or Saptami, it is considered even more beneficial by local tradition.
 

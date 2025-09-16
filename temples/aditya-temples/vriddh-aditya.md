@@ -34,13 +34,13 @@ Vriddh Aditya is the Surya shrine in Kashi where Lord Surya granted youth and st
 
 #### Location
 
-  * **Location Marker**: 📍 Google Map Marker
+  * **Location Marker**: 📍 [Vriddha Aditya Mandir - Dwadash Aditya Kashi Khand](https://maps.app.goo.gl/bP1ZjPo1KPT9UoWBA)
   * **How to Reach**: Come by rickshaw to Dashashwamedh–Vishwanath Gully and walk through the lanes, or take a boat to Mir Ghat and climb the steps to the temple.
   * **Best Visiting Days**: Sundays are prescribed in Kashi Khand for Vriddh Aditya worship to obtain siddhi and protection from suffering.
 
 #### Contact Details
 
-  * For darshan assistance in Kashi: **Shri Dhiraj Sharma** (Mahadev Handloom House). Cell: [9565369290](https://www.google.com/search?q=tel:%2B919565369290)
+  * For darshan assistance in Kashi: **Shri Dhiraj Sharma** (Mahadev Handloom House). Contact: [9565369290](tel:9565369290)
 
 #### Current Temple State
 
@@ -52,7 +52,7 @@ Here write about puran and means of it in Kashi Khand, Chapter 51, Shloka 43
 
 > **“वृद्धादित्यं नमस्कृत्य वाराणस्यां रवौ नरः। लभेदभीप्सितां सिद्धिं न क्वचिद् दुर्गतिं लभेत्॥”**
 
-> **Meaning: “Whoever worships Vriddh Aditya in Varanasi, especially on Sundays, attains desired accomplishments and never falls into misery.”**
+> **Meaning: “Whoever worships Vriddh Aditya in Kashi, especially on Sundays, attains desired accomplishments and never falls into misery.”**
 
 ## Image
 
