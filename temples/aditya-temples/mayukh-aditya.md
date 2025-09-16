@@ -60,7 +60,7 @@ Here write about puran and means of it in Kashi Khand, Chapter 49, Shloka 94
 
 \! Image
 
-### Story
+## Story
 
 At the sacred Panchanada Teerth, Lord Surya installed a Shiva Ling called Gabhastheeshwar and a Devi murti as Mangala Gauri, and began severe penance to please Lord Shiva for the welfare of beings and for divine grace in Kashi. The intensity of Surya’s tapas filled the world with unbearable heat; sunrays grew fiercer by the day and life came to a standstill, shaking Devas, sages, and common folk alike across the sacred city.
 
@@ -72,7 +72,7 @@ Local tradition keeps a living sign of Shiva’s touch: the Mayukh murti always 
 
 Within the Mangala Gauri Temple, devotees also worship Mangala Gauri, Gabhastheeshwar, and Mangal Vinayak, making a rounded darshan that combines Surya’s effulgence, Shiva’s liberation-bestowing presence, and Devi’s auspicious shakti for worldly and spiritual wellbeing. In practice, pilgrims bathe at Panchganga, offer arghya to the Sun, perform archana to Mayukh Aditya, and attend evening aarti, with many keeping Sunday vrata to receive the blessings promised in Kashi Khand 49.
 
-### Youtube
+## Youtube
 
 This video provides a virtual tour of the temple and its sacred surroundings.
 

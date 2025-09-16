@@ -7,7 +7,14 @@ const sidebars : SidebarsConfig = {
       items: [
         "intro",
         "kaal-bhairav",
+        "asitang-bhairav",
+        "bheeshan-bhairav",
         "chand-bhairav",
+        "kapal-bhairav",
+        "krodhan-bhairav",
+        "ruru-bhairav",
+        "samhar-bhairav",
+        "unmat-bhairav"
       ],
     },
   ],

@@ -46,7 +46,7 @@ Here write about puran and means of it in Skanda Purana, Kashi Khanda, Chapter 4
 
 ! Image
 
-### Story
+## Story
 
 When King Divodasa ruled as dharma incarnate, Mahadeva sent Suryadev to test him and to find a flaw that could diminish the king’s merit, but the Sun found no deviation from righteousness despite searching within and without the city for an entire year in many guises. Fearing to return without completing the task yet unable to fault Divodasa, the Sun chose to remain forever, dividing himself into twelve forms to guard the holy city; among these, Lolarka—“the eager Sun”—shines in the south at the meeting of Assi and Ganga.
 
@@ -58,7 +58,7 @@ In living tradition this manifests as the great festival of Lolark Shashti, held
 
 Kashi’s record and local memory reinforce this sanctity: copper-plate grants of Gahadavala kings attest to royal baths here, and the chapter situates Lolark among the twelve Adityas who continually protect Kashi from Tamasika forces; being scorched by Lolark’s rays and cut by the Assi’s current, great sinners cannot enter Kashi from the south. Thus, from the Purana’s account to present-day crowds, the radiance of Lolark Aditya remains a living vow of Surya’s grace at the city’s southern gateway of light.
 
-### Youtube
+## Youtube
 
 This video provides a virtual tour of the temple and its sacred surroundings.
 
