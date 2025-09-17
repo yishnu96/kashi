@@ -20,3 +20,16 @@ Kashi hosts several important Devi temples, each with its unique significance an
 3. **Vishalakshi Temple** - One of the Shakti Peethas
 4. **Lalita Gauri Temple** - Associated with marital harmony
 5. **Maa Kali Temple** - Representing the fierce aspect of Devi
+
+
+## Key Kashi Yatra Facts
+
+Total Goddess Forms in Kashi: 324 forms mentioned in Kashi Khand, currently 96 active temples
+
+Major Categories: 96 Shaktis, 12 Gauris, 9 Durgas, 64 Yoginis, 12 Matrikas
+
+Primary Pilgrimage Seasons: Chaitra Navratri (Nav Gauri) and Sharad Navratri (Nav Durga)
+
+Most Important: Vishalakshi Temple (Shakti Peetha) and Annapurna Temple are considered most significant
+
+59% of your goddess list (19 out of 32) are part of traditional Kashi Yatra routes, making this a highly Kashi-centric collection focused on Durga, Gauri, and major Shakti worship traditions.
