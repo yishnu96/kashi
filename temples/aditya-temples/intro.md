@@ -7,12 +7,7 @@ date: 2025-05-08
 # sidebar\_position: 10
 sidebar_label: About Adityas
 tags:
-
-- product-management
-- expertise
-- career-growth
-- skill-development
-- learning
+- temple 
 
 ---
 

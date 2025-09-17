@@ -58,7 +58,7 @@ const config: Config = {
   ],
   scripts: [
     {
-      src: '/schema.js',
+      src: "/schema.js",
       async: true,
     },
   ],
@@ -83,7 +83,7 @@ const config: Config = {
           onUntruncatedBlogPosts: "warn",
         },
         theme: {
-          customCss: "./src/css/custom.css",
+          customCss: ["./src/css/main.css", "./src/css/elements.css"],
         },
       } satisfies Preset.Options,
     ],
@@ -99,8 +99,15 @@ const config: Config = {
       { name: "twitter:creator", content: "@yishnu_" },
       { property: "og:type", content: "website" },
       { property: "og:site_name", content: "SacredKashi" },
-      { name: "twitter:title", content: "SacredKashi - Walk the Cosmos on the Banks of the Ganga" },
-      { name: "twitter:description", content: "Discover the temples, culture, and spiritual heritage of Kashi (Varanasi), one of the world's oldest living cities." },
+      {
+        name: "twitter:title",
+        content: "SacredKashi - Walk the Cosmos on the Banks of the Ganga",
+      },
+      {
+        name: "twitter:description",
+        content:
+          "Discover the temples, culture, and spiritual heritage of Kashi (Varanasi), one of the world's oldest living cities.",
+      },
     ],
     navbar: {
       title: "SacredKashi",
