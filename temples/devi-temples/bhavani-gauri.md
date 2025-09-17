@@ -18,7 +18,7 @@ tags:
 The Bhavani Gauri Temple in Kashi stands among the nine ancient shrines dedicated to Goddess Gauri, representing her fierce and benevolent power. Scriptural texts, especially the Devi Bhagavata Purana and Kashi Khanda, declare this temple essential for attaining both spiritual and worldly prosperity, making it a must-visit for anyone seeking complete blessings during their sacred journey through Varanasi.
 
 ### Key Facts
-- As one of the [Gauri Forms], Bhavani-Gauri represents the emotional and devotional aspect.
+- As one of the **[Gauri Forms](/temples/tags/gauri-forms)**, Bhavani-Gauri represents the emotional and devotional aspect.
 
 ## Temple Essentials
 

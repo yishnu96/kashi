@@ -19,7 +19,7 @@ tags:
 Mangala Gauri Temple in Kashi stands as one of the nine sacred Nav Gauri shrines, where the divine Mother Parvati manifests in her most auspicious form to bless devotees with marital harmony, prosperity, and the removal of all obstacles in love and relationships.
 
 ### Key Facts
-- Among the [Gauri Forms], Mangala-Gauri is the auspicious form.
+- Among the **[Gauri Forms](/temples/tags/gauri-forms)**, Mangala-Gauri is the auspicious form.
 
 ## Temple Essentials
 
