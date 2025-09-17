@@ -10,6 +10,10 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Aditya Temples",
+      link: {
+        type: "doc",
+        id: "aditya-temples/intro",
+      },
       items:
         require("./aditya-temples/adityaSidebar.ts").adityaSidebar[0].items.map(
           (item) => `aditya-temples/${item}`

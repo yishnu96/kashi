@@ -5,7 +5,6 @@ const sidebars : SidebarsConfig = {
       type: "category",
       label: "Aditya Temples",
       items: [
-        "intro-aditya",
         "arun-aditya",
         "draupad-aditya",
         "ganga-aditya",
