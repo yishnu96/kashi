@@ -19,6 +19,9 @@ tags:
 
 This sacred shrine of Katyayani—the sixth form of Navadurga—stands inside the Atma Veereshwar Mandir complex near Scindia Ghat, where worship grants freedom from disease, sorrow, fear, and fills the devotee with radiant shakti as affirmed in Kashi traditions and local temple records. The temple’s presence in the Pancha Mudra Maha Peeth area adds rare merit to every act of worship, making it an essential darshan in a complete Kashi yatra.
 
+### Key Facts
+- She is worshipped on the sixth day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

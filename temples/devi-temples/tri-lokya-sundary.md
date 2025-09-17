@@ -19,6 +19,9 @@ tags:
 
 Located near the sacred Pita Maheshwar in Kashmiri Mal ki Haveli, Tri Lokya Sundari temple houses one of the powerful Shakti Devis manifested during Goddess Durga's cosmic battle against Durgasur. As mentioned in Kashi Khand Chapter 70, this divine energy form, also revered as Shitla Devi, blesses devotees with complete prosperity while protecting married women from the fear of widowhood.
 
+### Key Facts
+- Tripura Sundari (also called Tri-lokya-sundari) is the **[Dasha Mahavidyas](/temples/tags/dasha-mahavidya)** who embodies the divine beauty of the three worlds.
+
 ## Temple Essentials
 
 ### Opening Times

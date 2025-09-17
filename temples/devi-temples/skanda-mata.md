@@ -18,6 +18,9 @@ tags:
 
 The sacred Skanda Mata temple in Jaitpura houses Goddess Durga's fifth divine form, the nurturing mother of Lord Kartikeya. As mentioned in Kashi Khand Chapter 14, this powerful Devi manifested to protect Kashi from demonic forces while blessing devotees with maternal love, wisdom, and prosperity. The temple complex also houses Vageshwari Devi, making it a unique dual-power shrine in the holy city.
 
+### Key Facts
+- She is worshipped on the fifth day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

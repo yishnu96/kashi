@@ -16,6 +16,9 @@ tags:
 
 Shringar Gauri, the divine embodiment of beauty and adornment, holds supreme significance in Kashi's spiritual landscape. As described in the Kashi Khand, Chapter 100, the worship of this sacred form of Goddess Parvati brings immense happiness, prosperity, and fulfillment to devotees. Her temple represents one of the most revered sites in the ancient Gyanvapi complex, where countless souls have sought her divine blessings for marital bliss and spiritual elevation.
 
+### Key Facts
+- As one of the [Gauri Forms], Shringar-Gauri is the adorned and decorated form.
+
 ## Temple Essentials
 
 ### Opening Times

@@ -18,6 +18,9 @@ tags:
 
 Located within the sacred Adi Vishwanath temple complex near Gyanvapi, Sowbhagya Gauri represents the auspicious form of Goddess Parvati who bestows complete happiness and prosperity upon her devotees. As one of the Nav Gauris mentioned in Kashi Khand Chapter 100, this powerful Devi temple forms an essential part of the sacred Gauri Yatra undertaken on Triteeya after Amavasya.
 
+### Key Facts
+- Sowbhagya-Gauri is the **[Gauri Form](/temples/tags/gauri-forms)** that represents good fortune.
+
 ## Temple Essentials
 
 ### Opening Times

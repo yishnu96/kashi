@@ -18,6 +18,9 @@ tags:
 
 The sacred Vishalakshi Gauri Temple stands as one of Kashi's most powerful Shakti Peethas, where the divine earrings of Goddess Sati sanctified the earth. This ancient shrine, dedicated to Goddess Parvati in her wide-eyed form as Vishalakshi, grants matrimonial bliss, progeny, and fortune to devoted pilgrims who seek her compassionate gaze.
 
+### Key Facts
+- The **[Gauri Form](/temples/tags/gauri-forms)** known as Vishalakshi-Gauri is the large-eyed form.
+
 ## Temple Essentials
 
 ### Opening Times

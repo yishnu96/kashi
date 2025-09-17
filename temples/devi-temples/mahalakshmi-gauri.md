@@ -18,6 +18,9 @@ tags:
 
 Mahalakshmi Gauri stands as the most powerful Shakti Peeth in all of Kashi, where the goddess of wealth and prosperity blesses devotees with divine powers and eternal abundance. As the ninth and final destination of the sacred Nau Gauri Yatra, this temple near Lakshmi Kund holds supreme significance in granting ultimate prosperity and spiritual accomplishments to all who seek her divine grace.
 
+### Key Facts
+- The Mahalakshmi-Gauri form represents the aspect of prosperity within the [Gauri Forms].
+
 ## Temple Essentials
 
 ### Opening Times

@@ -16,6 +16,9 @@ tags:
 
 Mukhnirmalika Gauri temple stands as the first sacred destination in the revered Nav Gauri Yatra of Kashi, where devotees begin their spiritual journey through nine divine manifestations of Goddess Gauri. Located within the Hanuman temple complex at Gai Ghat, this ancient shrine blessed by the Skanda Purana grants all forms of happiness and prosperity to those who seek the Mother's divine grace.
 
+### Key Facts
+- Mukhnirmalika-Gauri is the **[Gauri Form](/temples/tags/gauri-forms)** with a pure face.
+
 ## Temple Essentials
 
 ### Opening Times

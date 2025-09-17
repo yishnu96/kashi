@@ -6,6 +6,8 @@ kashi:
   label: Kashi
   description: Temples located in Kashi (Varanasi)
 
+
+
 devi:
   label: Devi
   description: Temples dedicated to the Goddess
@@ -15,13 +17,16 @@ shakti:
   description: Temples dedicated to the divine feminine power
 
 gauri:
-  label: Gauri
-  description: Temples dedicated to Goddess Gauri
+  label: Gauri Forms
+  permalink: /gauri-forms
+  description: The Gauri Forms are manifestations of the goddess Parvati, focusing on her gentle, benevolent, and auspicious nature. The name "Gauri" means "the fair one," highlighting qualities like purity, peace, and marital bliss
 
 dashaMahavidya:
   label: Dasha Mahavidya
-  description: Temples dedicated to the ten aspects of the Divine Mother
+  permalink: /dasha-mahavidya
+  description: The Mahavidyas, or "Great Wisdoms," are a group of ten powerful and often fierce Tantric goddesses. They represent the complete, unfiltered spectrum of the divine feminine, revealing profound truths about reality. Each goddess is a distinct aspect of the one supreme Goddess, embodying knowledge, power, and cosmic cycles.
 
 navadurga:
   label: Navadurga Forms
-  description: Temples dedicated to the nine forms of Goddess Durga
+  permalink: /navadurga-forms
+  description: Navadurga refers to the nine celebrated forms of the goddess Durga who are worshipped over the nine nights of Navaratri. Each form represents a different stage of her life and a distinct power, from gentle to fierce. 

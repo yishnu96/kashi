@@ -18,6 +18,9 @@ tags:
 
 The Kalratri Temple in Kashi stands as one of the most powerful Shakti Peeths, dedicated to Maa Durga's seventh and most fierce manifestation. This sacred shrine, located in the narrow lanes of Kalika Galli, is revered for granting fearlessness and protection from all forms of evil, making it an essential pilgrimage destination for devotees seeking divine courage.
 
+### Key Facts
+- She is worshipped on the seventh day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

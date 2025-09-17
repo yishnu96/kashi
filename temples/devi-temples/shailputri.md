@@ -18,6 +18,9 @@ tags:
 
 The sacred Shailputri Temple stands as Kashi's most revered shrine dedicated to the first form of Navdurga. Located at Marhia Ghat, this ancient temple houses the divine presence of Maa Shailputri, the daughter of Himalayas, who removes all obstacles arising from bad company and fulfills the deepest wishes of devotees.
 
+### Key Facts
+- She is worshipped on the first day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

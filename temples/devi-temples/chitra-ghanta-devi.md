@@ -18,6 +18,9 @@ tags:
 
 Chitra Ghanta Devi Temple in Kashi stands as one of the most powerful Devi shrines, dedicated to the third form of Maa Durga. This sacred temple holds the divine promise that devotees who worship here with complete devotion will have their names erased from Chitra Gupta's sin records, ensuring complete purification of all past transgressions and a path to spiritual liberation.
 
+### Key Facts
+- She is worshipped on the third day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

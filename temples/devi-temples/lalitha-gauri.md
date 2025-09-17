@@ -17,6 +17,9 @@ tags:
 
 The sacred Lalitha Gauri Temple stands as one of Kashi's most revered Devi shrines, dedicated to the third divine form of Goddess Gauri. Located at the historic Lalita Ghat, this temple embodies the benevolent aspect of Goddess Parvati, blessing devotees with prosperity and abundance. As part of the sacred Nav Gauri circuit, worshipping here grants devotees the same blessings as circumambulating the entire world.
 
+### Key Facts
+- Lalitha-Gauri is the playful and beautiful **[Gauri Form](/temples/tags/gauri-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times

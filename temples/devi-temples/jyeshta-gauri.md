@@ -18,6 +18,9 @@ tags:
 
 The Jyeshta Gauri Temple stands as one of Kashi's revered Nine Gauri shrines, holding profound significance in the sacred Nav Gauri Yatra circuit. Located in the historic Sapt Sagar Mohalla, this temple is where devotees seek the divine blessings of Goddess Jyeshta Gauri, the eldest manifestation of Devi Parvati. According to the Kashi Khand, worship here transforms misfortune into supreme prosperity and elevates devotees to positions of honor and respect.
 
+### Key Facts
+- The **[Gauri Form](/temples/tags/gauri-forms)** known as Jyeshta-Gauri is the elder or senior form.
+
 ## Temple Essentials
 
 ### Opening Times

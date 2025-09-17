@@ -18,6 +18,9 @@ tags:
 
 Vishwa Bhuja Gauri, the twenty-armed manifestation of the Divine Mother, stands as one of Kashi's most powerful Shakti forms mentioned in the sacred Kashi Khand. Located near the ancient Dharmeshwar temple, this divine form removes all obstacles from devotees' paths and fulfills their deepest desires when worshipped with pure devotion.
 
+# Key Facts
+- Vishwa-Bhuja-Gauri is the universal-armed **[Gauri Form](/temples/tags/gauri-forms)**.
+
 ## Temple Essentials
 
 ### Opening Times
