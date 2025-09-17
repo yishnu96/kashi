@@ -1,0 +1,27 @@
+temple:
+  label: Temple
+  description: Temples in Kashi
+
+kashi:
+  label: Kashi
+  description: Temples located in Kashi (Varanasi)
+
+devi:
+  label: Devi
+  description: Temples dedicated to the Goddess
+
+shakti:
+  label: Shakti
+  description: Temples dedicated to the divine feminine power
+
+gauri:
+  label: Gauri
+  description: Temples dedicated to Goddess Gauri
+
+dashaMahavidya:
+  label: Dasha Mahavidya
+  description: Temples dedicated to the ten aspects of the Divine Mother
+
+navadurga:
+  label: Navadurga Forms
+  description: Temples dedicated to the nine forms of Goddess Durga

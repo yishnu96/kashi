@@ -9,7 +9,7 @@ tags:
 - devi
 - temple
 - kashi
-- Navadurga Forms
+- navadurga
 
 ---
 

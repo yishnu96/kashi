@@ -9,7 +9,7 @@ tags:
   - temple
   - kashi
   - shakti
-  - Gauri
+  - gauri
 
 ---
 

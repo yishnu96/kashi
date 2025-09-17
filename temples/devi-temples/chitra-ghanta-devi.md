@@ -10,7 +10,7 @@ tags:
 - temple
 - kashi
 - shakti
-- Navadurga Forms
+- navadurga
 
 ---
 
