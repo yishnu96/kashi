@@ -9,6 +9,7 @@ tags:
 - temple
 - kashi
 - shakti
+- Dasha Mahavidya
 ---
 
 # Tripura Bhairavi

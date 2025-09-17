@@ -6,11 +6,11 @@ title: Mangala Gauri Temple - The Bestower of Auspiciousness
 description: Mangala Gauri Temple is a sacred Nav Gauri shrine in Kashi where Goddess Parvati blesses devotees with marital harmony and prosperity.
 keywords: [Mangala Gauri, Kashi, Varanasi, Nav Gauri, marital harmony]
 tags:
-
   - devi
   - temple
   - kashi
   - shakti
+  - Gauri
 
 ---
 

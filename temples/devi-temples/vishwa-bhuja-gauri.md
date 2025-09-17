@@ -6,11 +6,11 @@ title: Vishwa Bhuja Gauri - The Twenty-Armed Remover of Obstacles
 description: Vishwa Bhuja Gauri is the twenty-armed manifestation of Divine Mother who removes all obstacles and fulfills the desires of her devotees.
 keywords: [Vishwa Bhuja Gauri, Kashi, Varanasi, Dharmeshwar temple, obstacle remover]
 tags:
-
   - devi
   - temple
   - kashi
   - shakti
+  - Gauri
 
 ---
 

@@ -6,11 +6,11 @@ title: Vishalakshi Gauri - The Giver of Matrimonial Bliss
 description: The ancient Vishalakshi Gauri Temple is a powerful Shakti Peetha that grants matrimonial bliss, progeny, and fortune to devotees who seek her blessings.
 keywords: [Vishalakshi Gauri, Kashi, Varanasi, Shakti Peetha, matrimonial bliss]
 tags:
-
   - devi
   - temple
   - kashi
   - shakti
+  - Gauri
 
 ---
 

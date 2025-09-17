@@ -9,6 +9,7 @@ tags:
 - devi
 - temple
 - kashi
+- Gauri
 
 ---
 

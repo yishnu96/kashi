@@ -10,6 +10,7 @@ tags:
 - temple
 - kashi
 - shakti
+- Gauri
 
 ---
 

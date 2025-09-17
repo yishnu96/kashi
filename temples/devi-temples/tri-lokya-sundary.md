@@ -11,6 +11,7 @@ tags:
   - temple
   - kashi
   - shakti
+  - Dasha Mahavidya
 
 ---
 

@@ -6,11 +6,11 @@ title: Sowbhagya Gauri - The Giver of Good Fortune
 description: Sowbhagya Gauri is the auspicious form of Goddess Parvati who bestows complete happiness and prosperity upon her devotees.
 keywords: [Sowbhagya Gauri, Kashi, Varanasi, Nav Gauri, marital bliss]
 tags:
-
   - devi
   - temple
   - kashi
   - shakti
+  - Gauri
 
 ---
 

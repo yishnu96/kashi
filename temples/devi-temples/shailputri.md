@@ -6,11 +6,11 @@ title: Shailputri Temple - The Daughter of Himalayas
 description: The sacred Shailputri Temple is Kashi's most revered shrine, dedicated to the first form of Navdurga, which removes all obstacles and fulfills the desires of devotees.
 keywords: [Shailputri Temple, Kashi, Varanasi, Navdurga, Marhia Ghat, long life]
 tags:
-
   - devi
   - temple
   - kashi
   - shakti
+  - Navadurga Forms
 
 ---
 
