@@ -6,7 +6,7 @@ keywords: [Draupad Aditya Temple, Kashi, Surya shrine, Kashi Khand, Akshaya Patr
 sidebar_label: Draupad Aditya
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

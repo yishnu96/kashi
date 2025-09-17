@@ -6,7 +6,7 @@ description: A powerful Surya shrine at Surya Kund where a sunrise bath on Sunda
 keywords: [Saamba Aditya, Surya Kund, Kashi, Surya shrine, Saamba, Kashi Khand]
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

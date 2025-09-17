@@ -8,7 +8,7 @@ keywords: [Vriddh Aditya, Kashi, Surya shrine, Harit, Kashi Khand, Mir Ghat]
 tags:
 
   - aditya
-  - temples
+  - temple
   - Surya
 
 ---

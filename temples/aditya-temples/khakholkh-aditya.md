@@ -6,7 +6,7 @@ description: A sacred Surya shrine near Pilpila Teerth that grants freedom from 
 keywords: [Khakholkh Aditya Temple, Kameshwar Mahadev, Kashi, Surya shrine, Kashi Khand, Pilpila Teerth]
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

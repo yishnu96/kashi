@@ -6,15 +6,25 @@ description: The peaceful guardian of Kashi, Chand Bhairav, protects devotees fr
 keywords: [Chand Bhairav, Kashi, Ashta Bhairav, Durga Temple Varanasi, Varanasi Temples]
 tags:
 - bhairav
-- temples
-- others
+- temple
 - ashta_bhairav
-- durga_kund
 ---
 
 # Chand Bhairav
 
 Chand Bhairav stands as the third guardian among the sacred Ashta Bhairav shrines, protecting Kashi and its devotees with divine vigilance. Located within the revered Kushmanda Durga Temple premises at Durga Kund, this three-eyed, benevolent form of Lord Bhairava blesses worshippers with incredible energy to overcome rivals and obstacles. As the guardian of the South direction, Chand Bhairav represents the youthful, compassionate aspect of the fierce protector deity.
+
+### Key Facts
+- Chand Bhairav is the energetic powerhouse among **[Ashta Bhairava](/temples/tags/ashta-bhairav)**, known for providing incredible energy and victory power.
+- He specializes in giving unstoppable energy, courage, and guaranteed victory over competitors and rivals.
+- Connected to the fire element, he represents transformation, purification, and the burning passion needed for success.
+- His worship follows the Sattvik approach, and though fiery in nature, he remains gentle enough for regular practitioners.
+- He works on your solar plexus chakra (Nabhi), dramatically enhancing your personal power and unshakeable self-confidence.
+- He blesses devotees with Veera Lakshmi, providing the wealth of courage, valor, and an unstoppable warrior spirit.
+- His energy requires moderate intensity and some guidance, but remains manageable for most sincere practitioners.
+- He guards the southern direction with fierce protective energy, ensuring victory comes from this powerful corner.
+- He appears as a white-complexioned deity who rides a magnificent peacock and carries a bow and arrow for victory.
+
 
 ## Temple Essentials
 

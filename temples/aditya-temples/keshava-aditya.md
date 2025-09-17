@@ -6,7 +6,7 @@ description: A sacred Surya shrine at Adi Keshav Temple where Lord Surya learned
 keywords: [Keshava Aditya, Adi Keshav Temple, Kashi, Surya shrine, Lord Vishnu, Kashi Khand, Nirvana]
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

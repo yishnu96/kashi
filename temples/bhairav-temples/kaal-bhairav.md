@@ -7,7 +7,7 @@ keywords: [Kaal Bhairav, Kotwal of Kashi, Paap Bhakshak, Kashi, Bhairav, Shiva]
 tags:
 
   - bhairav
-  - temples
+  - temple
   - main
   - very_important
 ---
@@ -15,6 +15,14 @@ tags:
 # Kaal Bhairav
 
 The ancient Kaal Bhairav Temple stands as one of Kashi's most powerful and revered shrines, dedicated to the fierce guardian deity who serves as the eternal Kotwal (Chief Police Officer) of the sacred city. Known as the destroyer of the fear of death and time, Kaal Bhairav is the formidable manifestation of Lord Shiva who protects all devotees entering Kashi and ensures that even Yama, the God of Death, cannot enter the city without his permission. This temple holds the unique distinction of being where devotees offer liquor as prasad, making it an essential pilgrimage site that completes the spiritual journey of Kashi Vishwanath darshan.
+
+### Key Facts
+- Kaal Bhairav is the supreme ruler of all 64 Bhairavas and the ultimate controller of time itself in the entire universe.
+- He commands the complete Bhairava hierarchy and all other Bhairavas must seek his permission before acting.
+- He controls past, present, and future, making him literally the lord of time and cosmic cycles.
+- He is the most powerful form for serious spiritual transformation and complete life changes.
+- He serves as the "Kotwal of Kashi" (Chief Guardian of Varanasi) and protects the holy city.
+- His worship is perfect for those seeking complete karmic cleansing and major life transformations.
 
 ## Temple Essentials
 

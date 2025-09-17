@@ -6,15 +6,25 @@ description: Ruru Bhairav, also known as Guru Bhairav, is the second guardian of
 keywords: [Ruru Bhairav, Guru Bhairav, Kashi, Ashta Bhairav, Varanasi Temples]
 tags:
 - bhairav
-- temples
-- others
+- temple
 - ashta_bhairav
 
 ---
 
 # Ruru Bhairav
 
-Ruru Bhairav stands as the second guardian among the sacred Ashta Bhairavas, revered as the divine embodiment of knowledge, wisdom, and spiritual enlightenment. Located near the sacred Hanuman Ghat close to Harishchandra Ghat, this three-eyed, fair-complexioned deity represents the peaceful and youthful aspect of Lord Bhairav's infinite wisdom. Known locally as Anand Bhairav and Guru Bhairav, he blesses devotees with enhanced knowledge and the divine guidance needed to lead successful, fulfilling lives.
+Ruru Bhairav stands as the second guardian among the sacred **[Ashta Bhairava](/temples/tags/ashta-bhairav)**s, revered as the divine embodiment of knowledge, wisdom, and spiritual enlightenment. Located near the sacred Hanuman Ghat close to Harishchandra Ghat, this three-eyed, fair-complexioned deity represents the peaceful and youthful aspect of Lord Bhairav's infinite wisdom. Known locally as Anand Bhairav and Guru Bhairav, he blesses devotees with enhanced knowledge and the divine guidance needed to lead successful, fulfilling lives.
+
+## Key Facts
+- Ruru Bhairav is your personal divine teacher within the **[Ashta Bhairava](/temples/tags/ashta-bhairav)** system who enhances wisdom and learning abilities.
+- He specializes in defeating enemies while simultaneously increasing your knowledge and intellectual capabilities.
+- Connected to the air element, he brings mental clarity, knowledge flow, and swift movement of ideas.
+- His worship follows the gentle Sattvik approach, making him suitable for students and knowledge seekers of all levels.
+- He activates multiple chakras to ensure balanced spiritual and intellectual growth throughout your energy system.
+- He blesses devotees with Vidya Lakshmi, granting the invaluable wealth of knowledge, wisdom, and learning.
+- His energy is gentle and safe for beginners, making regular practice completely risk-free and beneficial.
+- He guards the southeast direction, protecting this corner with divine teaching energy and scholarly wisdom.
+- He appears as a light blue-complexioned deity who rides a powerful bull and carries a deer and axe for protection.
 
 ## Temple Essentials
 

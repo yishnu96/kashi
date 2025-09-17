@@ -6,15 +6,28 @@ description: Samhar Bhairav, the seventh guardian of Kashi, destroys past life s
 keywords: [Samhar Bhairav, Kashi, Ashta Bhairav, Gai Ghat, Karmic Purification]
 tags:
 - bhairav
-- temples
-- others
+- temple
 - ashta_bhairav
 
 ---
 
 # Samhar Bhairav
 
-Samhar Bhairav stands as the seventh guardian among the sacred Ashta Bhairavas, embodying the divine power of cosmic destruction and renewal that clears the path for spiritual liberation. Located near the sacred Gai Ghat at Patan Darwaja in northern Kashi, this fierce three-eyed, ten-handed form of Lord Bhairav grants devotees the eight types of divine wealth while annihilating the accumulated sins of countless lifetimes. As the guardian of the North-East direction, Samhar Bhairav represents the transformative power that destroys negative karmic patterns and establishes lasting prosperity.
+Samhar Bhairav stands as the seventh guardian among the sacred **[Ashta Bhairava](/temples/tags/ashta-bhairav)**s, embodying the divine power of cosmic destruction and renewal that clears the path for spiritual liberation. Located near the sacred Gai Ghat at Patan Darwaja in northern Kashi, this fierce three-eyed, ten-handed form of Lord Bhairav grants devotees the eight types of divine wealth while annihilating the accumulated sins of countless lifetimes. As the guardian of the North-East direction, Samhar Bhairav represents the transformative power that destroys negative karmic patterns and establishes lasting prosperity.
+
+### Key Facts 
+- Samhar Bhairav is the karma dissolution master among **[Ashta Bhairava](/temples/tags/ashta-bhairav)** who specializes in spiritual liberation and freedom.
+- He specializes in clearing negative karma from past lives and current life, providing complete karmic cleansing.
+- Connected to the soul element (Atma), he represents spiritual dissolution, ultimate liberation, and freedom from all bondage.
+- His worship follows the most intense Tamasik approach, requiring advanced spiritual preparation and serious commitment.
+- He works on your complete energy system, facilitating total transformation and spiritual awakening.
+- He blesses devotees with Moksha Lakshmi, granting the ultimate wealth of spiritual liberation and eternal freedom.
+- His energy is extremely powerful and fierce, suitable only for serious advanced practitioners with proper guidance.
+- He guards the northeast direction, the most sacred corner, with incredible dissolution power and transformative energy.
+- He appears as a lightning yellow-orange-complexioned deity with ten arms who rides a lion and carries multiple divine weapons.
+
+
+
 
 ## Temple Essentials
 

@@ -6,6 +6,22 @@ kashi:
   label: Kashi
   description: Temples located in Kashi (Varanasi)
 
+divine_experience:
+  label: Divine Experience
+  description: Unique spiritual experiences at every one should have once in a lifetime.
+
+
+# Bhairavas
+
+bhairav:
+  label: Bhairav
+  description: Temples dedicated to Lord Bhairav
+
+ashta_bhairav:
+  label: Ashta Bhairav    
+  permalink: /ashta-bhairav
+  description: The Ashta Bhairavas are eight formidable manifestations of Lord Shiva who act as guardians of creation. They preside over the eight cardinal directions of the universe, controlling its cosmic energies.
+
 
 # Devi Temple Tags
 

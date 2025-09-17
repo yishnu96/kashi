@@ -8,7 +8,7 @@ keywords: [Vimal Aditya, Kashi, Surya shrine, Vimal, Kashi Khand, Jangambari]
 tags:
 
   - aditya
-  - temples
+  - temple
   - Surya
 
 ---

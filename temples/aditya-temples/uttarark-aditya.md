@@ -8,7 +8,7 @@ keywords: [Uttarark Aditya, Ark Kund, Bakaria Kund, Kashi, Surya shrine, Kashi K
 tags:
 
   - aditya
-  - temples
+  - temple
   - Surya
 
 ---

@@ -6,7 +6,7 @@ description: A sacred Surya shrine where bathing at the Assi-Ganga confluence cl
 keywords: [Lolark Aditya, Assi-Ganga Confluence, Tulsi Ghat, Lolark Kund, Surya shrine, Lolark Shashti, Kashi Khand]
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

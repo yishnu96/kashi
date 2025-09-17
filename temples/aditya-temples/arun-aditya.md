@@ -6,7 +6,7 @@ keywords: [Arun Aditya, Kashi, Surya, Dwadash Aditya, Trilochan Ghat, Arun, Hind
 sidebar_label: Arun Aditya
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

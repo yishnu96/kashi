@@ -8,7 +8,7 @@ keywords: [Yama Aditya, Yam Teerth, Sankata Ghat, Kashi, Surya shrine, Kashi Kha
 tags:
 
   - aditya
-  - temples
+  - temple
   - Surya
 
 ---

@@ -8,7 +8,7 @@ keywords: [Mayukh Aditya, Panchganga Ghat, Kashi, Surya shrine, Kashi Khand, May
 tags:
 
   - aditya
-  - temples
+  - temple
   - Surya
 
 ---

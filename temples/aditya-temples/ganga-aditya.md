@@ -6,7 +6,7 @@ keywords: [Ganga Aditya Temple, Lalita Ghat, Kashi, Kashi, Dwadash Aditya, Surya
 sidebar_label: Ganga Aditya
 tags:
 - aditya
-- temples
+- temple
 - Surya
 
 ---

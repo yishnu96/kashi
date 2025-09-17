@@ -6,14 +6,24 @@ description: Asitang Bhairav, the serene guardian of Kashi, relieves devotees fr
 keywords: [Asitang Bhairav, Kashi, Ashta Bhairav, Maha Mrityunjay Temple, Varanasi temples]
 tags:
 - bhairav
-- temples
-- others
+- temple
 - ashta_bhairav
 ---
 
 # Asitang Bhairav
 
 Nestled within the sacred precincts of Maha Mrityunjay Temple, Asitang Bhairav stands as one of the eight divine guardians of Kashi. This trinetri (three-eyed) manifestation of Lord Bhairava, known for his peaceful demeanor and benevolent nature, relieves devotees from curses and afflictions while enhancing their creative abilities. As the guardian of the East direction, this bright-skinned form of Bhairava is essential for any complete spiritual journey through the holy city.
+
+## Key Facts
+- Asitang Bhairav is one of the eight elite guardians known as **[Ashta Bhairava](/temples/tags/ashta-bhairav)** who protect the entire universe.
+- He specializes in boosting your creativity, knowledge, and learning abilities, making him perfect for students and artists.
+- Connected to the space element (Akash), he represents unlimited creative potential and boundless possibilities in your life.
+- His worship follows the gentle Sattvik approach, which means it's purifying, devotional, and completely safe for householders and beginners.
+- He works on your heart chakra (Anahata), opening your heart to both creativity and compassion towards others.
+- He blesses devotees with Dhana Lakshmi, which means he brings financial prosperity and material wealth into your life.
+- His energy is gentle and completely safe, making him perfect for daily worship without any spiritual risks.
+- He guards the eastern direction where the sun rises, symbolically bringing new beginnings and fresh opportunities.
+- He appears as a white-complexioned deity who rides a graceful swan and carries prayer beads along with a skull cup.
 
 ## Temple Essentials
 
@@ -54,7 +64,7 @@ With her divine wisdom, the Mother resolved to create an eternal protective shie
 
 But the Mother's divine plan was even more comprehensive. Understanding that protection requires both the nurturing aspect of the Divine Feminine and the fierce protective aspect of the Divine Masculine, she decided to create eight powerful forms of Bhairava, the fierce manifestation of Lord Shiva himself. These eight Bhairavas would be positioned at crucial points throughout Kashi, each guarding a specific direction and providing protection against different types of spiritual and material obstacles.
 
-As Devi Durga entered into deep meditation, her consciousness expanded to encompass all directions of space and time. From her divine being emerged eight magnificent forms of Bhairava, each embodying specific qualities needed to protect the holy city and its devotees. These were the Ashta Bhairavas - Ruru, Chand, Asitang, Krodhan, Kapal, Samhar, Unmatt, and Bheeshan.
+As Devi Durga entered into deep meditation, her consciousness expanded to encompass all directions of space and time. From her divine being emerged eight magnificent forms of Bhairava, each embodying specific qualities needed to protect the holy city and its devotees. These were the **[Ashta Bhairava](/temples/tags/ashta-bhairav)**s - Ruru, Chand, Asitang, Krodhan, Kapal, Samhar, Unmatt, and Bheeshan.
 
 Among these eight divine guardians, Asitang Bhairav emerged with unique characteristics that set him apart from his brothers. While other Bhairavas manifested with fierce and terrifying appearances meant to strike fear into the hearts of evil forces, Asitang Bhairav appeared with a remarkably peaceful and benevolent countenance. His skin was bright and radiant, almost luminous with divine grace, and his well-formed limbs spoke of perfect divine proportions.
 
