@@ -10,6 +10,16 @@ divine_experience:
   label: Divine Experience
   description: Unique spiritual experiences at every one should have once in a lifetime.
 
+# Adityas
+
+aditya:
+  label: Aditya
+  description: Temples dedicated to the Sun God
+
+Surya:
+  label: Surya
+  description: Temples dedicated to Lord Surya, the Sun God
+
 
 # Bhairavas
 

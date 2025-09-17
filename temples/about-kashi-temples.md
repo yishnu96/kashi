@@ -7,11 +7,6 @@ date: 2025-05-08
 # sidebar\_position: 10
 sidebar_label: About Kashi Temples
 tags:
-
-- product-management
-- expertise
-- career-growth
-- skill-development
-- learning
+- temple
 
 ---
