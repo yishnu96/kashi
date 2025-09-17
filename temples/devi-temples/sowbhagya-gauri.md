@@ -8,7 +8,7 @@ keywords: [Sowbhagya Gauri, Kashi, Varanasi, Nav Gauri, marital bliss]
 tags:
   - devi
   - temple
-  - kashi
+  - shaiva
   - shakti
   - gauri
 
@@ -20,6 +20,7 @@ Located within the sacred Adi Vishwanath temple complex near Gyanvapi, Sowbhagya
 
 ### Key Facts
 - Sowbhagya-Gauri is the **[Gauri Form](/temples/tags/gauri-forms)** that represents good fortune.
+- The aspect of blessed fortune in the **[Shaiva Tradition](/temples/tags/shaiva-tradition)** is represented by Sowbhagya-Gauri, signifying Parvati's role in bestowing prosperity and marital bliss.
 
 ## Temple Essentials
 

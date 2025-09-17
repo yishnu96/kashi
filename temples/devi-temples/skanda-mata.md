@@ -8,7 +8,7 @@ keywords: [Skanda Mata, Kashi, Varanasi, Jaitpura, Navratri, maternal love]
 tags:
   - devi
   - temple
-  - kashi
+  - shaiva
   - shakti
   - navadurga
 
@@ -20,6 +20,7 @@ The sacred Skanda Mata temple in Jaitpura houses Goddess Durga's fifth divine fo
 
 ### Key Facts
 - She is worshipped on the fifth day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+- As a key figure in the divine family of the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Skanda Mata signifies the maternal aspect of Parvati, the revered mother of Lord Kartikeya.
 
 ## Temple Essentials
 

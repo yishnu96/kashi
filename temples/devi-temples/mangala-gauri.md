@@ -11,6 +11,7 @@ tags:
   - kashi
   - shakti
   - gauri
+  - shaiva
 
 ---
 
@@ -20,6 +21,7 @@ Mangala Gauri Temple in Kashi stands as one of the nine sacred Nav Gauri shrines
 
 ### Key Facts
 - Among the **[Gauri Forms](/temples/tags/gauri-forms)**, Mangala-Gauri is the auspicious form.
+- As a beacon of blessedness in the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Mangala-Gauri signifies the most auspicious form of Parvati, bestowing marital harmony and well-being.
 
 ## Temple Essentials
 

@@ -8,7 +8,7 @@ keywords: [Vishalakshi Gauri, Kashi, Varanasi, Shakti Peetha, matrimonial bliss]
 tags:
   - devi
   - temple
-  - kashi
+  - shaiva
   - shakti
   - gauri
 
@@ -20,6 +20,7 @@ The sacred Vishalakshi Gauri Temple stands as one of Kashi's most powerful Shakt
 
 ### Key Facts
 - The **[Gauri Form](/temples/tags/gauri-forms)** known as Vishalakshi-Gauri is the large-eyed form.
+- Vishalakshi-Gauri is a revered goddess in the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, signifying the "wide-eyed" form of Parvati who watches over the universe, especially Shiva's city of Kashi.
 
 ## Temple Essentials
 

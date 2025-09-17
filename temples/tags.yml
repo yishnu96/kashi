@@ -36,3 +36,8 @@ shakta:
   label: Shakta Tradition 
   permalink: /shakta-tradition
   description: The Shakta tradition venerates Shakti, the Divine Feminine, as the supreme universal power. Followers worship her as the source of all cosmic energy, seeking her divine strength and protection.
+
+shaiva:
+  label: Shaiva Tradition
+  permalink: /shaiva-tradition
+  description: The Shaiva tradition venerates Lord Shiva as the supreme being. This major path of Hinduism also reveres his divine family, including his consort Parvati and other connected gods and goddesses.

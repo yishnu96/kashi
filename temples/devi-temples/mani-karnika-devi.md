@@ -10,12 +10,16 @@ tags:
   - temple
   - kashi
   - shakti
+  - shaiva
 
 ---
 
 # Mani Karnika Devi
 
 Mani Karnika Devi stands as one of Kashi's most sacred Shakti temples, revered for granting moksha to devoted worshippers. Located near the holy Chakra Pushkarini Teerth at Manikarnika Ghat, this divine mother appears as a twelve-year-old girl radiating crystal-like beauty and spiritual luminance.
+
+### Key Facts
+- Deeply rooted in the sacred geography of the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Manikarnika Devi signifies the divine feminine presence at Kashi's holiest ghat, forever linked to Shiva.
 
 ## Temple Essentials
 

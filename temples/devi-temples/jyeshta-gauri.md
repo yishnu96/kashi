@@ -11,6 +11,7 @@ tags:
 - kashi
 - shakti
 - gauri
+- shaiva
 
 ---
 
@@ -20,6 +21,7 @@ The Jyeshta Gauri Temple stands as one of Kashi's revered Nine Gauri shrines, ho
 
 ### Key Facts
 - The **[Gauri Form](/temples/tags/gauri-forms)** known as Jyeshta-Gauri is the elder or senior form.
+- Jyeshta-Gauri is revered in the **[Shaiva Tradition](/temples/tags/shaiva-tradition)** as the elder form of Parvati, signifying wisdom, seniority, and divine authority as the consort of Shiva.
 
 ## Temple Essentials
 

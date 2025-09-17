@@ -8,7 +8,7 @@ keywords: [Vishwa Bhuja Gauri, Kashi, Varanasi, Dharmeshwar temple, obstacle rem
 tags:
   - devi
   - temple
-  - kashi
+  - shaiva
   - shakti
   - gauri
 
@@ -20,6 +20,7 @@ Vishwa Bhuja Gauri, the twenty-armed manifestation of the Divine Mother, stands 
 
 # Key Facts
 - Vishwa-Bhuja-Gauri is the universal-armed **[Gauri Form](/temples/tags/gauri-forms)**.
+- Representing the all-encompassing reach of the divine mother in the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Vishwa-Bhuja-Gauri signifies the universal-armed form of Parvati, protecting all creation.
 
 ## Temple Essentials
 

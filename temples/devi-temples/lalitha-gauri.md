@@ -10,6 +10,7 @@ tags:
   - kashi
   - shakti
   - gauri
+  - shaiva
 
 ---
 
@@ -19,6 +20,7 @@ The sacred Lalitha Gauri Temple stands as one of Kashi's most revered Devi shrin
 
 ### Key Facts
 - Lalitha-Gauri is the playful and beautiful **[Gauri Form](/temples/tags/gauri-forms)**.
+- Embodying the divine playfulness of the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Lalitha-Gauri signifies the beautiful and joyous form of Parvati in her cosmic dance with Shiva.
 
 ## Temple Essentials
 

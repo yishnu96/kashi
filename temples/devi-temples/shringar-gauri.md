@@ -7,7 +7,7 @@ keywords: [Shringar Gauri, Kashi, Varanasi, Navratri, Gyanvapi, marital bliss]
 tags:
 - devi
 - temple
-- kashi
+- shaiva
 - shakti
 - gauri
 
@@ -18,6 +18,7 @@ Shringar Gauri, the divine embodiment of beauty and adornment, holds supreme sig
 
 ### Key Facts
 - As one of the **[Gauri Forms](/temples/tags/gauri-forms)**, Shringar-Gauri is the adorned and decorated form.
+- The divine aesthetics of the **[Shaiva Tradition](/temples/tags/shaiva-tradition)** are captured by Shringar-Gauri, who signifies the beautifully adorned form of Parvati, prepared to meet Shiva.
 
 ## Temple Essentials
 

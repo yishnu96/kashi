@@ -8,7 +8,7 @@ keywords: [Siddheshwari, Siddhi Dhatri, Kashi, Varanasi, Siddhi, mystical powers
 tags:
   - devi
   - temple
-  - kashi
+  - shaiva
   - shakti
 
 ---
@@ -16,6 +16,10 @@ tags:
 # Siddheshwari
 
 Located in the heart of Kashi, Siddheshwari temple stands as one of the most powerful Siddh Peeths on earth, where devotees worship Goddess Durga's ninth form, Siddhi Dhatri. This sacred shrine, mentioned in Kashi Khand Chapter 14, houses the mystical Chandra Koop and Chandreshwar Linga, offering devotees divine siddhis and liberation from worldly sorrows through the supreme grace of the Divine Mother.
+
+### Key Facts
+- Siddheshwari embodies the mystical power within the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, signifying the goddess who grants supernatural abilities (siddhis), mirroring the powers of Shiva himself.
+
 
 ## Temple Essentials
 

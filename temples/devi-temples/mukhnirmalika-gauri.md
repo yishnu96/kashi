@@ -7,7 +7,7 @@ keywords: [Mukhnirmalika Gauri, Kashi, Nav Gauri Yatra, Varanasi, Gai Ghat, Skan
 tags:
 - devi
 - temple
-- kashi
+- shaiva
 - shakti
 - gauri
 
@@ -18,6 +18,7 @@ Mukhnirmalika Gauri temple stands as the first sacred destination in the revered
 
 ### Key Facts
 - Mukhnirmalika-Gauri is the **[Gauri Form](/temples/tags/gauri-forms)** with a pure face.
+- Mukhnirmalika-Gauri represents the pristine beauty of the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, signifying the pure-faced, radiant form of Gauri as Shiva's consort.
 
 ## Temple Essentials
 

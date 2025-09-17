@@ -10,6 +10,7 @@ tags:
 - temple
 - kashi
 - gauri
+- shaiva
 
 ---
 
@@ -19,6 +20,7 @@ The Bhavani Gauri Temple in Kashi stands among the nine ancient shrines dedicate
 
 ### Key Facts
 - As one of the **[Gauri Forms](/temples/tags/gauri-forms)**, Bhavani-Gauri represents the emotional and devotional aspect.
+- Within the **[Shaiva Tradition](/temples/tags/shaiva-tradition)**, Bhavani-Gauri represents the deeply emotional aspect of Parvati, signifying her powerful devotional connection to Shiva.
 
 ## Temple Essentials
 
