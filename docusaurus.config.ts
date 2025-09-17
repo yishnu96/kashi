@@ -5,8 +5,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "SacredKashi",
+  tagline: "Walk the Cosmos on the Banks of the Ganga",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://sacredkashi.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "sacredkashi", // Usually your GitHub org/user name.
+  projectName: "sacredkashi", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -66,13 +66,7 @@ const config: Config = {
     [
       "classic",
       {
-        docs: {
-          sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -104,23 +98,17 @@ const config: Config = {
       { name: "twitter:site", content: "@yishnu_" },
       { name: "twitter:creator", content: "@yishnu_" },
       { property: "og:type", content: "website" },
-      { property: "og:site_name", content: "Kashi" },
-      { name: "twitter:title", content: "Kashi - Exploring the Sacred City" },
+      { property: "og:site_name", content: "SacredKashi" },
+      { name: "twitter:title", content: "SacredKashi - Walk the Cosmos on the Banks of the Ganga" },
       { name: "twitter:description", content: "Discover the temples, culture, and spiritual heritage of Kashi (Varanasi), one of the world's oldest living cities." },
     ],
     navbar: {
-      title: "My Site",
+      title: "SacredKashi",
       logo: {
-        alt: "My Site Logo",
+        alt: "SacredKashi Logo",
         src: "img/logo.svg",
       },
       items: [
-        {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Tutorial",
-        },
         {
           type: "docSidebar",
           sidebarId: "templesSidebar",
@@ -136,25 +124,11 @@ const config: Config = {
           docsPluginId: "about-kashi",
         },
         { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
-          position: "right",
-        },
       ],
     },
     footer: {
       style: "dark",
       links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
         {
           title: "Community",
           items: [
@@ -186,7 +160,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SacredKashi. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
