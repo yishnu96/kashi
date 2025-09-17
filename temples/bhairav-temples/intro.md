@@ -4,6 +4,10 @@ title: Bhairavas of Kashi
 sidebar_position: 1
 ---
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+
 # Bhairavas of Kashi
  *── Divine Guardians You Must Know*
 
@@ -27,15 +31,7 @@ Later, to further protect Kashi after Devi's victory over the demon Durgasura, e
 
 Ready for a spiritual adventure? Here's your step-by-step pilgrimage route that locals have followed for centuries:
 
-1. **[Chand Bhairava](/temples/bhairav-temples/chand-bhairav)** at Durga Mandir, Durga Kund - Begin with your sankalpa (intention)
-2. **[Ruru Bhairava](/temples/bhairav-temples/ruru-bhairav)** at Karnataka Ghat - Beautiful riverside shrine near Harishchandra Ghat
-3. **[Krodhana Bhairava](/temples/bhairav-temples/krodhana-bhairav)** at Kamakhya Temple - Look for the murti on the side wall
-4. **[Unmatta Bhairava](/temples/bhairav-temples/unmatta-bhairav)** at Batuk Bhairav Temple - Popular shrine, easy to find
-5. **[Bhishana Bhairava](/temples/bhairav-temples/bhishana-bhairav)** in Kashipura locality
-6. **[Asitanga Bhairava](/temples/bhairav-temples/asitanga-bhairav)** at Mahamrityunjaya Temple - Near the famous Dhanvantari Kup
-7. **[Kapala Bhairava](/temples/bhairav-temples/kapala-bhairav)** at Alaipur, Kapal Mochan - Take an auto for this one, about 2 km from city center
-8. **[Samhara Bhairava](/temples/bhairav-temples/samhara-bhairav)** at Gai Ghat, Patan Darwaza - Visit here to shed accumulated sins
-9. **[Kaal Bhairava](/temples/bhairav-temples/kaal-bhairav)** at Vishweshwarganj - The main temple, perfect ending to your yatra
+<DocCardList items={useCurrentSidebarCategory().items} />
 
 ## Pro Tips for Your Visit
 

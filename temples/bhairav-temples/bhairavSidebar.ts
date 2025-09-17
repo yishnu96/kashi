@@ -5,7 +5,6 @@ const sidebars: SidebarsConfig = {
       type: "category",
       label: "Bhairav Temples",
       items: [
-        "intro",
         "chand-bhairav",
         "ruru-bhairav",
         "krodhan-bhairav",

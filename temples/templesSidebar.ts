@@ -18,6 +18,10 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Bhairav Temples",
+      link: {
+        type: "doc",
+        id: "bhairav-temples/intro",
+      },
       items:
         require("./bhairav-temples/bhairavSidebar.ts").bhairavSidebar[0].items.map(
           (item) => `bhairav-temples/${item}`
