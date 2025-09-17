@@ -7,13 +7,16 @@ keywords: [Hayakanti Devi, Kashi, Varanasi, obstacle removal, Lakshmi Kund]
 tags:
 - devi
 - temple
-- kashi
+- shakta
 - shakti
 
 ---
 # Hayakanti Devi
 
 Hayakanti Devi stands as a powerful guardian deity in Kashi, wielding a divine sickle to cut through all obstacles that block her devotees' path to prosperity and spiritual progress. Located near the revered Mahalakshmi Devi, this sacred shrine offers devotees the blessing of obstacle removal and smooth life transitions.
+
+### Key Facts
+- The worship of Havakanti Devi reflects the rich diversity of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying her role as a beloved regional protective deity.
 
 ## Temple Essentials
 

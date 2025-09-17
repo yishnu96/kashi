@@ -8,7 +8,7 @@ keywords: [Charma Munda Devi, Kashi, Varanasi, Navratri, divine protection]
 tags:
 - devi
 - temple
-- kashi
+- shakta
 - shakti
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Charma Munda Devi 
 
 Charma Munda Devi Temple in Kashi is the sacred protector shrine where the goddess is visualized as a colossal divine force, destroying obstacles and devouring evil. Rooted in Kashi Khand, her presence ensures the uninterrupted pursuit of dharma and makes this temple a must-visit for spiritual seekers and devotees seeking protection from hurdles in life.
+
+### Key Facts
+- Representing divine justice within the **[Shakta Tradition](/temples/tags/shakta-tradition)**, Charma Munda Devi signifies the absolute destroyer of demons.
 
 ## Temple Essentials
 

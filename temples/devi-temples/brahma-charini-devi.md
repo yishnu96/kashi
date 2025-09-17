@@ -8,7 +8,7 @@ keywords: [Brahma Charini Devi, Navratri, Durga Ghat, Kashi, Varanasi, goddess o
 tags:
 - devi
 - temple
-- kashi
+- shakta
 - navadurga
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Brahma Charini Devi 
 
 Nestled close to Durga Ghat on the sacred banks of the Ganga, the Brahma Charini Devi Temple is dedicated to the formidable ascetic form of Maa Durga, who performed intense penance to receive Lord Shiva as her husband. Scriptural sources proclaim this Kashi shrine as a powerhouse of spiritual energy and a vital destination for devotees seeking inner strength and wisdom.
+
+### Key Facts
+- As a key figure in Navaratri, Brahma Charini Devi represents the **[Shakta Tradition](/temples/tags/shakta-tradition)**'s focus on ascetic devotion, signifying the second divine form of Navadurga.
 
 ### Key Facts
 - She is worshipped on the second day of Navaratri as one of the nine forms of Goddess ****[Navadurga](/temples/tags/navadurga-forms)****.

@@ -8,7 +8,7 @@ keywords: [Kamakhya Devi, Kashi, Varanasi, Shakti Peeth, yantra, victory]
 tags:
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Kamakhya Devi 
 
 Kamakhya Devi in Kamachha, Varanasi is a revered Shakti Peeth in Kashi where the Devi is worshipped in the sacred yantra form, granting mental peace, victory in debates and competitions, and all‑round success to sincere worshippers. Rooted in Kashi Khanda narratives about the 64 Yoginis and the Devi’s power manifested during the battle with Durgasur, this is a must‑visit shrine for seekers of Kamakhya Devi’s grace in the holy city.
+
+### Key Facts
+- As a pinnacle of Tantric worship in the **[Shakta Tradition](/temples/tags/shakta-tradition)**, Kamakhya Devi signifies the supreme goddess of creation, fertility, and desire.
 
 ## Temple Essentials
 

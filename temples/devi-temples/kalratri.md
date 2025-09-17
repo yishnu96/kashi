@@ -8,7 +8,7 @@ keywords: [Kalratri, Kashi, Varanasi, fearlessness, Shakti Peeth]
 tags:
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
   - navadurga
 
@@ -20,6 +20,7 @@ The Kalratri Temple in Kashi stands as one of the most powerful Shakti Peeths, d
 
 ### Key Facts
 - She is worshipped on the seventh day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+- Kalratri represents one of the most intense aspects of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying the powerful and fearsome seventh form of the Navadurga.
 
 ## Temple Essentials
 

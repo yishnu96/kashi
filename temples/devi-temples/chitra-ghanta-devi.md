@@ -8,7 +8,7 @@ keywords: [Chitra Ghanta Devi, Kashi, Varanasi, Durga, purification, Navratri]
 tags:
 - devi
 - temple
-- kashi
+- shakta
 - shakti
 - navadurga
 
@@ -17,6 +17,9 @@ tags:
 # Chitra Ghanta Devi 
 
 Chitra Ghanta Devi Temple in Kashi stands as one of the most powerful Devi shrines, dedicated to the third form of Maa Durga. This sacred temple holds the divine promise that devotees who worship here with complete devotion will have their names erased from Chitra Gupta's sin records, ensuring complete purification of all past transgressions and a path to spiritual liberation.
+
+### Key Facts
+- Chandraghanta Devi's worship in the **[Shakta Tradition](/temples/tags/shakta-tradition)** signifies her importance as the third revered form of the Navadurga, bringing peace and tranquility.
 
 ### Key Facts
 - She is worshipped on the third day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.

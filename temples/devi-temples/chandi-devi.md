@@ -10,12 +10,16 @@ tags:
 - temple
 - kashi
 - shakti
+- shakta
 
 ---
 
 # Chandi Devi 
 
 Chandi Devi Temple stands as one of Kashi's most powerful Shakti Peethas, revered as the seventh among the seven sacred Matrika Devis mentioned in the Kashi Khand. This ancient shrine, also known as Kaurmi Shakti, holds immense spiritual significance for devotees seeking divine blessings and Siddhis from the fierce manifestation of the Divine Mother.
+
+### Key Facts
+- Chandi Devi embodies the martial strength of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying the fierce and unconquerable warrior aspect of Durga.
 
 ## Temple Essentials
 

@@ -9,7 +9,7 @@ tags:
 
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
 
 ---
@@ -17,6 +17,9 @@ tags:
 # Varahi Devi
 
 This ancient underground temple in Kashi is dedicated to Varahi Devi, the fierce protector who guards the sacred city throughout the night. As one of the revered Shakti Peethas, this mysterious shrine offers darshan through two small windows, making it one of Kashi's most unique and powerful temples where devotees seek protection, courage, and the removal of obstacles.
+
+### Key Facts
+- Varahi Devi embodies a unique protective energy within the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying the mighty boar-faced deity who shields her devotees.
 
 ## Temple Essentials
 

@@ -8,7 +8,7 @@ keywords: [Vindhya Devi, Kashi, Varanasi, Shakti Peetha, Siddhi, Sankata Devi]
 tags:
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Vindhya Devi
 
 Vindhya Devi, also revered as Vindhya Vasini, stands as one of Kashi's most powerful Shakti Peethas mentioned in the sacred Kashi Khand. Located adjacent to the renowned Sankata Devi Temple, this divine shrine grants all forms of Siddhi to her devoted worshippers, making it an essential destination for spiritual seekers.
+
+### Key Facts
+- Deeply connected to sacred geography, Vindhya Devi represents a powerful aspect of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying the immovable strength of the mountain goddess.
 
 ## Temple Essentials
 

@@ -9,7 +9,7 @@ tags:
 
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
 
 ---
@@ -17,6 +17,9 @@ tags:
 # Durga Devi
 
 Durga Devi Temple, nestled beside Durga Kund in the heart of Kashi, stands as one of the city's most potent spiritual centers where Goddess Durga eternally protects Varanasi, as described in the Devi-Bhagavata Purana. The temple radiates the living power of Shakti, bestowing strength and victory upon all who visit.
+
+### Key Facts
+- At the very heart of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, Durga Devi herself signifies the Supreme Mother Goddess, the ultimate source of all power.
 
 ## Temple Essentials
 

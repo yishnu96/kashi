@@ -8,7 +8,7 @@ keywords: [Sankata Devi, Kashi, Varanasi, Shakti, Pandavas, protection]
 tags:
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Sankata Devi
 
 Sankata Devi Mandir stands as the only temple in India exclusively dedicated to Goddess Sankata Devi, the divine protector who removes all troubles and dangers from devotees' lives. Located near the sacred Sindhia Ghat in Kashi, this ancient Siddhapeeth holds immense scriptural significance as the place where the Pandavas sought divine intervention during their exile.
+
+### Key Facts
+- Devotees within the **[Shakta Tradition](/temples/tags/shakta-tradition)** turn to Sankata Devi, who signifies the compassionate remover of all troubles and distress.
 
 ## Temple Essentials
 

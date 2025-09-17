@@ -8,6 +8,7 @@ keywords: [Annapurna Temple, Kashi, Varanasi, goddess of food, Annakoot, food ch
 tags:
 - temple
 - devi
+- shakta
 - main
 - important
 - must visit
@@ -17,6 +18,9 @@ tags:
 # Annapurna Devi
 
 Annapurna Mandir in Kashi is the sacred abode of Maa Annapurna, the goddess of nourishment and prosperity, and stands just beside the Kashi Vishwanath Temple. The scriptures describe that worshipping here ensures one will never face hunger, poverty, or scarcity, making it an essential destination for every seeker in Varanasi.
+
+### Key Facts
+- Embodying the nurturing core of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, Annapurna Devi signifies the divine provider of food and nourishment.
 
 ## Temple Essentials
 

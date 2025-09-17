@@ -8,7 +8,7 @@ keywords: [Shailputri Temple, Kashi, Varanasi, Navdurga, Marhia Ghat, long life]
 tags:
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
   - navadurga
 
@@ -20,6 +20,7 @@ The sacred Shailputri Temple stands as Kashi's most revered shrine dedicated to 
 
 ### Key Facts
 - She is worshipped on the first day of Navaratri as one of the nine forms of Goddess **[Navadurga](/temples/tags/navadurga-forms)**.
+- The Navaratri journey in the **[Shakta Tradition](/temples/tags/shakta-tradition)** begins with Shailputri, signifying the revered first form of the Navadurga, the daughter of the mountains.
 
 ## Temple Essentials
 

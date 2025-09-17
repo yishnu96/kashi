@@ -9,7 +9,7 @@ tags:
 
   - devi
   - temple
-  - kashi
+  - shakta
   - shakti
   - dashaMahavidya
 
@@ -21,6 +21,7 @@ Located near the sacred Pita Maheshwar in Kashmiri Mal ki Haveli, Tri Lokya Sund
 
 ### Key Facts
 - Tripura Sundari (also called Tri-lokya-sundari) is the **[Dasha Mahavidyas](/temples/tags/dasha-mahavidya)** who embodies the divine beauty of the three worlds.
+- Tri-lokya Sundari is a radiant figure in the **[Shakta Tradition](/temples/tags/shakta-tradition)**, signifying the Mahavidya who embodies the divine beauty of the three worlds.
 
 ## Temple Essentials
 

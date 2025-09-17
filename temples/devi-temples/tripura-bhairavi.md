@@ -7,7 +7,7 @@ keywords: [Tripura Bhairavi, Kashi, Varanasi, Dasa Mahavidya, success, protectio
 tags:
 - devi
 - temple
-- kashi
+- shakta
 - shakti
 - dashaMahavidya
 ---
@@ -17,7 +17,8 @@ tags:
 Tripura Bhairavi stands as one of the most ancient and revered Devi temples in Kashi, representing the fierce fifth manifestation of the Dasa Mahavidya. This Swayambhu (self-manifested) deity emerges from the sacred pages of Kashi Khanda, where the Divine Mother's victorious battle against Durgasur is eternally commemorated.
 
 ### Key Facts
-- As one of the **[Dasha Mahavidyas](/temples/tags/dasha-mahavidya)**, Tripura Bhairavi (also known as Bhairavi) is the form that represents the power of fierce transformation.
+- Representing the raw power of the **[Shakta Tradition](/temples/tags/shakta-tradition)**, the **[Dasha Mahavidyas](/temples/tags/dasha-mahavidya)** Tripura Bhairavi signifies the inescapable force of fierce transformation.
+
 
 ## Temple Essentials
 
