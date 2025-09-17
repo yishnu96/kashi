@@ -57,7 +57,7 @@ Here write about puran and means of it
 
 ## Image
 
-\! Image
+! Image
 
 ### Story
 
@@ -87,4 +87,4 @@ Thus, the Uttarark Aditya kshetra stands as a testament that in Kashi even a goa
 
 This video provides a virtual tour of the temple and its sacred surroundings.
 
-**Youtube Video:** [https://www.youtube.com/watch?v=zGk\_LHQDrTU](https://www.youtube.com/watch?v=zGk_LHQDrTU)
+**Youtube Video:** [https://www.youtube.com/watch?v=zGk_LHQDrTU](https://www.youtube.com/watch?v=zGk_LHQDrTU)

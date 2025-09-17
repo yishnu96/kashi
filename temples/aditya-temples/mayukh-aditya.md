@@ -58,7 +58,7 @@ Here write about puran and means of it in Kashi Khand, Chapter 49, Shloka 94
 
 ## Image
 
-\! Image
+! Image
 
 ## Story
 
@@ -76,4 +76,4 @@ Within the Mangala Gauri Temple, devotees also worship Mangala Gauri, Gabhasthee
 
 This video provides a virtual tour of the temple and its sacred surroundings.
 
-**Youtube Video:** [https://www.youtube.com/watch?v=3MiOW5wXASQ\&t=6s](https://www.youtube.com/watch?v=3MiOW5wXASQ&t=6s)
+**Youtube Video:** [https://www.youtube.com/watch?v=3MiOW5wXASQ&t=6s](https://www.youtube.com/watch?v=3MiOW5wXASQ&t=6s)

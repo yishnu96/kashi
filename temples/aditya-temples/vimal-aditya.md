@@ -56,7 +56,7 @@ Here write about puran and means of it in Kashi Khand, Chapter 51, Shloka 97
 
 ## Image
 
-\! Image
+! Image
 
 ### Story
 

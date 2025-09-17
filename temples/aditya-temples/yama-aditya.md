@@ -58,7 +58,7 @@ Here write about puran and means of it in Kashi Khanda, Dwadasha Aditya section 
 
 ## Image
 
-\! Image
+! Image
 
 ### Story
 
@@ -70,4 +70,4 @@ This Aditya sits on the steps to Sankata Ghat, with Sankata Devi Temple as a gui
 
 This video provides a virtual tour of the temple and its sacred surroundings.
 
-**Youtube Video:** [https://www.youtube.com/watch?v=YQ82l\_QM0Wg](https://www.youtube.com/watch?v=YQ82l_QM0Wg)
+**Youtube Video:** [https://www.youtube.com/watch?v=YQ82l_QM0Wg](https://www.youtube.com/watch?v=YQ82l_QM0Wg)

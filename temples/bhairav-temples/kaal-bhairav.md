@@ -115,7 +115,7 @@ Translation: I worship Kaal Bhairav, the supreme lord of Kashi, who purifies the
 
 ## Image
 
-\! Image
+! Image
 
 ## History of the Mandir
 The Kaal Bhairav Temple has witnessed multiple cycles of destruction and reconstruction throughout its long history. The exact date of the original temple's construction remains unknown, but historical records suggest the current structure was built in the mid-17th century.
