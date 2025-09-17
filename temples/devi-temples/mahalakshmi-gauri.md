@@ -1,17 +1,24 @@
 ---
-
 id: mahalakshmi-gauri
 sidebar_label: Mahalakshmi Gauri
 title: Mahalakshmi Gauri - The Giver of Ultimate Prosperity
 description: Mahalakshmi Gauri is the most powerful Shakti Peeth in Kashi, blessing devotees with divine powers, eternal abundance, and ultimate spiritual accomplishments.
-keywords: [Mahalakshmi Gauri, Kashi, Varanasi, Shakti Peeth, prosperity, Nav Gauri Yatra]
+keywords:
+  [
+    Mahalakshmi Gauri,
+    Kashi,
+    Varanasi,
+    Shakti Peeth,
+    prosperity,
+    Nav Gauri Yatra,
+  ]
 tags:
   - devi
   - temple
   - kashi
   - shakti
   - gauri
-
+  - vaishnava
 ---
 
 # Mahalakshmi Gauri
@@ -19,51 +26,53 @@ tags:
 Mahalakshmi Gauri stands as the most powerful Shakti Peeth in all of Kashi, where the goddess of wealth and prosperity blesses devotees with divine powers and eternal abundance. As the ninth and final destination of the sacred Nau Gauri Yatra, this temple near Lakshmi Kund holds supreme significance in granting ultimate prosperity and spiritual accomplishments to all who seek her divine grace.
 
 ### Key Facts
+
 - The Mahalakshmi-Gauri form represents the aspect of prosperity within the **[Gauri Forms](/temples/tags/gauri-forms)**.
+- Mahalakshmi-Gauri represents a unique syncretic form revered in the **[Vaishnava Tradition](/temples/tags/vaishnava-tradition)**, signifying the prosperous Lakshmi aspect combined with the gentle grace of Gauri.
 
 ## Temple Essentials
 
-### Opening Times
+#### Opening Times
 
-  * **Morning**: 6:00 AM to 1:00 PM
-  * **Evening**: 5:00 PM to 10:00 PM
+- **Morning**: 6:00 AM to 1:00 PM
+- **Evening**: 5:00 PM to 10:00 PM
 
-### Aarti Timings
+#### Aarti Timings
 
-  * **Morning Aarti**: 6:00 AM
-  * **Evening Aarti**: 10:00 PM
+- **Morning Aarti**: 6:00 AM
+- **Evening Aarti**: 10:00 PM
 
-### Worship
+#### Worship
 
-  * **Significance of Worship**: Devotees who worship Mahalakshmi regularly attain all kinds of Siddhi (divine powers) and achievements. Mahalakshmi will always reside in their homes, bringing wealth, prosperity, and spiritual accomplishments. The temple grants ultimate prosperity that no other Peeth in Kashi can match.
-  * **Pooja Procedure**: Devotees must first take a sacred bath in Lakshmi Kund before worshipping Mahalakshmi. Rituals for forefathers should be performed, and alms should be given to needy people to receive complete blessings. Special worship can also be offered to Shikhi Chandi Devi (located at the back of the premises) and Mayuri Devi (at the entrance on the right side).
+- **Significance of Worship**: Devotees who worship Mahalakshmi regularly attain all kinds of Siddhi (divine powers) and achievements. Mahalakshmi will always reside in their homes, bringing wealth, prosperity, and spiritual accomplishments. The temple grants ultimate prosperity that no other Peeth in Kashi can match.
+- **Pooja Procedure**: Devotees must first take a sacred bath in Lakshmi Kund before worshipping Mahalakshmi. Rituals for forefathers should be performed, and alms should be given to needy people to receive complete blessings. Special worship can also be offered to Shikhi Chandi Devi (located at the back of the premises) and Mayuri Devi (at the entrance on the right side).
 
-### Location
+#### Location
 
-  * **Location Marker**: 📍 [Google Maps location would be inserted here]
-  * **Address**: D.52/40, Lakshmi Kund, Luxa, Varanasi
-  * **How to Reach**: The temple can be approached through Luxa by auto-rickshaw. The locality of Lakshmi Kund is quite famous and easily accessible from central Varanasi.
-  * **Best Visiting Days**:
-      * Fridays
-      * Chaitra Navratri (March-April) and Sharad Navratri
-      * The 9th day of Chaitra Navratri is especially significant.
+- **Location Marker**: 📍 [Google Maps location would be inserted here]
+- **Address**: D.52/40, Lakshmi Kund, Luxa, Varanasi
+- **How to Reach**: The temple can be approached through Luxa by auto-rickshaw. The locality of Lakshmi Kund is quite famous and easily accessible from central Varanasi.
+- **Best Visiting Days**:
+  - Fridays
+  - Chaitra Navratri (March-April) and Sharad Navratri
+  - The 9th day of Chaitra Navratri is especially significant.
 
-### Visiting Details
+#### Visiting Details
 
-  * **Contact Information**: [Contact details would be provided if available]
-  * **Important Advisory**: Heavy rush during Fridays and on all days of both Navratris. Expect peak crowds during Chaitra Navratri, particularly on the 9th day when devotees complete their Nau Gauri Yatra.
-  * **Prerequisites & Etiquette**: Mandatory to bathe in Lakshmi Kund before entering the temple for worship. Devotees should carry offerings for the needy as part of the complete worship procedure.
+- **Contact Information**: [Contact details would be provided if available]
+- **Important Advisory**: Heavy rush during Fridays and on all days of both Navratris. Expect peak crowds during Chaitra Navratri, particularly on the 9th day when devotees complete their Nau Gauri Yatra.
+- **Prerequisites & Etiquette**: Mandatory to bathe in Lakshmi Kund before entering the temple for worship. Devotees should carry offerings for the needy as part of the complete worship procedure.
 
 ## Scriptural Quote (Shloka)
 
-> **सन्ति पीठान्यनेकानि काश्यां सिद्धिकराण्यपि**<br/>
-> **महालक्ष्मीपीठसमं नान्यल्लक्ष्मीकरं परम्**
+> **सन्ति पीठान्यनेकानि काश्यां सिद्धिकराण्यपि**<br/> > **महालक्ष्मीपीठसमं नान्यल्लक्ष्मीकरं परम्**
 
-Source: *Kashi Khand, Chapter 70, Shlok 60*
+Source: _Kashi Khand, Chapter 70, Shlok 60_
 
 Translation: "Although there are many Peethas in Kashipuri that give accomplishment (attainment), but there is no one else who is capable of giving ultimate prosperity like Mahalakshmi-peet."
 
 ## History of the Mandir
+
 - The temple finds its primary mention in the ancient Kashi Khand, specifically in Chapters 70 and 100, establishing its scriptural authenticity
 - The site has been recognized as a Shakti Peeth (seat of vital energy) since ancient times, with the entire Lakshmi Kund locality considered sacred
 - The temple complex houses multiple deities mentioned in different chapters of Kashi Khand - Shikhi Chandi Devi (Chapter 70), Mayuri Devi (Chapter 45), and Ugreshwar Ling
@@ -71,6 +80,7 @@ Translation: "Although there are many Peethas in Kashipuri that give accomplishm
 - The current structure maintains the traditional worship practices as described in the ancient texts, with the sacred Lakshmi Kund serving as the purification site for devotees
 
 ## The Sacred Story
+
 In the celestial realms above, where gods and goddesses reside in eternal bliss, Goddess Mahalakshmi, the divine consort of Lord Vishnu and the embodiment of wealth, prosperity, and fortune, observed the struggles of devotees across the three worlds. She witnessed how beings toiled endlessly for material comfort, spiritual growth, and divine accomplishments, yet often found themselves lacking the divine grace necessary to achieve their highest aspirations.
 
 The goddess, moved by compassion for her devotees, decided to establish a permanent presence on earth where she could directly bless those who sought her with sincere hearts. After contemplating various sacred locations across the universe, her divine consciousness was drawn to Kashi, the eternal city of Lord Shiva, where spiritual energy flows in its purest form.
@@ -112,6 +122,7 @@ The goddess established that her devotees would never lack for anything - materi
 Thus, the sacred story of Mahalakshmi Gauri's establishment in Kashi became a testament to the divine mother's infinite compassion and her desire to directly participate in the spiritual evolution of her children. The temple stands today as a living embodiment of this divine promise, continuing to shower blessings upon all who approach with faith and devotion.
 
 ## Watch and Experience
+
 This comprehensive video provides a virtual darshan of Mahalakshmi Gauri temple and explains the significance of worship at this powerful Shakti Peeth:
 
 [https://www.youtube.com/watch?v=3vw_Rptu-BE&t=61s]https://www.youtube.com/watch?v=3vw_Rptu-BE&t=61s

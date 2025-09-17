@@ -8,7 +8,7 @@ keywords: [Siddha Lakshmi Devi, Kashi, Varanasi, Siddhi, wish fulfillment, Manik
 tags:
   - devi
   - temple
-  - kashi
+  - vaishnava
   - shakti
 
 ---
@@ -16,6 +16,9 @@ tags:
 # Siddha Lakshmi Devi
 
 Located in the sacred vicinity of Pita Maheshwar at Manikarnika, Siddha Lakshmi Devi represents Jaganmata's divine manifestation for granting Siddhi (mystical powers) to devoted seekers. This powerful Devi temple, mentioned in Kashi Khand Chapter 70, is where devotees receive divine blessings for prosperity, wish fulfillment, and spiritual advancement in their sacred Kashi yatra.
+
+### Key Facts
+- Embodying spiritual perfection within the **[Vaishnava Tradition](/temples/tags/vaishnava-tradition)**, Siddha Lakshmi Devi signifies the powerful and accomplished form of Lakshmi who grants mastery and success.
 
 ## Temple Essentials
 

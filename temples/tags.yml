@@ -41,3 +41,8 @@ shaiva:
   label: Shaiva Tradition
   permalink: /shaiva-tradition
   description: The Shaiva tradition venerates Lord Shiva as the supreme being. This major path of Hinduism also reveres his divine family, including his consort Parvati and other connected gods and goddesses.
+
+vaishnava:
+  label: Vaishnava Tradition
+  permalink: /vaishnava-tradition
+  description: Centered on Lord Vishnu and his avatars like Krishna and Rama as the Supreme God, the Vaishnava tradition is a major path in Hinduism that also venerates his consort Lakshmi.
