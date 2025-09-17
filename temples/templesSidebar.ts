@@ -17,7 +17,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: "category",
-      label: "Bhairav Temples",
+      label: "Bhairavas of Kashi",
       link: {
         type: "doc",
         id: "bhairav-temples/intro",
