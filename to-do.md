@@ -18,3 +18,5 @@ Temple List : https://docs.google.com/spreadsheets/d/1kwwqZEGb62EJ3_lBmndTFPboNY
 https://varanasitemples.in/
 
 https://kashiyatra.com/
+
+http://pawanpath.up.gov.in/
