@@ -5,40 +5,34 @@
  */
 
 /* Load Inter font for body text */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+/* For Dark Mode */
+/* --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3); */
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Pre Defined colors */
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
   /* Typography: base body font and size */
-  --ifm-font-family-base: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --ifm-font-family-base: "Inter", system-ui, -apple-system, "Segoe UI", Roboto,
+    Ubuntu, Cantarell, "Noto Sans", "Helvetica Neue", Arial, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
   --ifm-font-size-base: 1rem;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
 /* Keep headings on the default system stack (not Inter) */
-h1, h2, h3, h4, h5, h6 {
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell,
+    "Noto Sans", "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
 }
 
 /* Desktop: bump base font size to 18px */
@@ -46,4 +40,352 @@ h1, h2, h3, h4, h5, h6 {
   :root {
     --ifm-font-size-base: 1.15rem;
   }
+}
+
+[data-theme='light'] {
+  /* Primary Colors - Sacred Saffron */
+  --ifm-color-primary: #d17817;
+  --ifm-color-primary-dark: #bc6c15;
+  --ifm-color-primary-darker: #b16514;
+  --ifm-color-primary-darkest: #925311;
+  --ifm-color-primary-light: #d68635;
+  --ifm-color-primary-lighter: #db9346;
+  --ifm-color-primary-lightest: #e4ad69;
+  --ifm-color-primary-contrast-background: #fff5e6;
+  --ifm-color-primary-contrast-foreground: #2a1f0f;
+
+  /* Secondary Colors - Temple Stone */
+  --ifm-color-secondary: #8b8275;
+  --ifm-color-secondary-dark: #7d7569;
+  --ifm-color-secondary-darker: #766f63;
+  --ifm-color-secondary-darkest: #625c52;
+  --ifm-color-secondary-light: #989081;
+  --ifm-color-secondary-lighter: #a59d8d;
+  --ifm-color-secondary-lightest: #bfb8a9;
+  --ifm-color-secondary-contrast-background: #f9f7f4;
+  --ifm-color-secondary-contrast-foreground: #2a1f0f;
+
+  /* Success - Sacred Tulsi Green */
+  --ifm-color-success: #27ae60;
+  --ifm-color-success-dark: #229954;
+  --ifm-color-success-darker: #20904f;
+  --ifm-color-success-darkest: #1b7742;
+  --ifm-color-success-light: #3bc26e;
+  --ifm-color-success-lighter: #4fcb7c;
+  --ifm-color-success-lightest: #6fdb97;
+  --ifm-color-success-contrast-background: #e8f5ea;
+  --ifm-color-success-contrast-foreground: #0f2912;
+
+  /* Info - Ganga River Blue */
+  --ifm-color-info: #2980b9;
+  --ifm-color-info-dark: #2573a7;
+  --ifm-color-info-darker: #236d9c;
+  --ifm-color-info-darkest: #1d5a81;
+  --ifm-color-info-light: #3498db;
+  --ifm-color-info-lighter: #48a7e0;
+  --ifm-color-info-lightest: #7bc2ea;
+  --ifm-color-info-contrast-background: #e3ecf5;
+  --ifm-color-info-contrast-foreground: #0c1d29;
+
+  /* Warning - Marigold Orange */
+  --ifm-color-warning: #f39c12;
+  --ifm-color-warning-dark: #db8c10;
+  --ifm-color-warning-darker: #ce840f;
+  --ifm-color-warning-darkest: #ab6d0c;
+  --ifm-color-warning-light: #f5a623;
+  --ifm-color-warning-lighter: #f6af35;
+  --ifm-color-warning-lightest: #f8c258;
+  --ifm-color-warning-contrast-background: #fdf2e9;
+  --ifm-color-warning-contrast-foreground: #2b1e0c;
+
+  /* Danger - Sindoor Red */
+  --ifm-color-danger: #c0392b;
+  --ifm-color-danger-dark: #ad3326;
+  --ifm-color-danger-darker: #a23024;
+  --ifm-color-danger-darkest: #86281e;
+  --ifm-color-danger-light: #c9483a;
+  --ifm-color-danger-lighter: #d25649;
+  --ifm-color-danger-lightest: #de7267;
+  --ifm-color-danger-contrast-background: #fdeaea;
+  --ifm-color-danger-contrast-foreground: #2c0b0a;
+
+  /* Base Colors */
+  --ifm-color-white: #ffffff;
+  --ifm-color-black: #1a1611;
+
+  /* Gray Scale - Ancient Stone Palette */
+  --ifm-color-gray-0: #ffffff;
+  --ifm-color-gray-100: #f9f7f4;
+  --ifm-color-gray-200: #f0ede8;
+  --ifm-color-gray-300: #e3ddd6;
+  --ifm-color-gray-400: #d6cfc6;
+  --ifm-color-gray-500: #c2b8ab;
+  --ifm-color-gray-600: #a99c8b;
+  --ifm-color-gray-700: #7a6f62;
+  --ifm-color-gray-800: #4f473d;
+  --ifm-color-gray-900: #2e2720;
+
+  /* Background Colors */
+  --ifm-background-color: #faf8f5;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-global-border-width: 1px;
+  --ifm-global-radius: 0.5rem;
+
+  /* Text Colors */
+  --ifm-font-color-base: #2e2720;
+  --ifm-font-color-secondary: #7a6f62;
+  --ifm-font-color-base-inverse: #faf8f5;
+
+  /* Link Colors */
+  --ifm-link-color: #d17817;
+  --ifm-link-decoration: none;
+  --ifm-link-hover-color: #bc6c15;
+  --ifm-link-hover-decoration: underline;
+
+  /* Navbar */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-shadow: 0 2px 4px 0 rgba(209, 120, 23, 0.1);
+  --ifm-navbar-item-padding-vertical: 0.25rem;
+  --ifm-navbar-item-padding-horizontal: 0.75rem;
+  --ifm-navbar-link-color: #2e2720;
+  --ifm-navbar-link-hover-color: #d17817;
+
+  /* Sidebar */
+  --ifm-sidebar-background-color: #f9f7f4;
+  --ifm-menu-color: #7a6f62;
+  --ifm-menu-color-background-active: rgba(209, 120, 23, 0.1);
+  --ifm-menu-color-background-hover: rgba(209, 120, 23, 0.05);
+  --ifm-menu-color-active: #d17817;
+
+  /* Code Blocks */
+  --ifm-code-background: #f0ede8;
+  --ifm-code-color: #2e2720;
+  --ifm-pre-background: #f0ede8;
+  --ifm-pre-color: #2e2720;
+
+  /* Cards and Content */
+  --ifm-card-background-color: #ffffff;
+  --ifm-card-border-radius: 0.5rem;
+
+  /* Tables */
+  --ifm-table-background: transparent;
+  --ifm-table-border-color: #e3ddd6;
+  --ifm-table-head-background: rgba(209, 120, 23, 0.05);
+  --ifm-table-row-hover-background: rgba(209, 120, 23, 0.02);
+
+  /* Alerts */
+  --ifm-alert-background-color: rgba(209, 120, 23, 0.05);
+  --ifm-alert-border-color: rgba(209, 120, 23, 0.2);
+  --ifm-alert-border-width: 1px;
+  --ifm-alert-border-left-width: 4px;
+
+  /* Footer */
+  --ifm-footer-background-color: #f0ede8;
+  --ifm-footer-color: #7a6f62;
+  --ifm-footer-link-color: #4f473d;
+  --ifm-footer-title-color: #d17817;
+
+  /* Breadcrumbs */
+  --ifm-breadcrumb-color-active: #d17817;
+  --ifm-breadcrumb-item-background-active: rgba(209, 120, 23, 0.1);
+
+  /* Pagination */
+  --ifm-pagination-color-active: #d17817;
+  --ifm-pagination-background-active: rgba(209, 120, 23, 0.1);
+
+  /* Tabs */
+  --ifm-tabs-color: #7a6f62;
+  --ifm-tabs-color-active: #d17817;
+  --ifm-tabs-color-active-border: #d17817;
+
+  /* Dropdown */
+  --ifm-dropdown-background-color: #ffffff;
+  --ifm-dropdown-border-color: #e3ddd6;
+
+  /* Hero Banner */
+  --ifm-hero-background-color: linear-gradient(135deg, #fff5e6 0%, #faf8f5 100%);
+  --ifm-hero-text-color: #2e2720;
+
+  /* Custom Kashi Variables */
+  --kashi-trishul-opacity: 0.02;
+  --kashi-glow-color: rgba(209, 120, 23, 0.1);
+  --kashi-accent-warm: #e4ad69;
+  --kashi-accent-cool: #7bc2ea;
+}
+
+
+
+[data-theme="dark"] {
+  /* Primary Colors - Sacred Saffron */
+  --ifm-color-primary: #e67e22;
+  --ifm-color-primary-dark: #d17817;
+  --ifm-color-primary-darker: #c36a1d;
+  --ifm-color-primary-darkest: #a15718;
+  --ifm-color-primary-light: #ea8b38;
+  --ifm-color-primary-lighter: #ed984e;
+  --ifm-color-primary-lightest: #f2b170;
+  --ifm-color-primary-contrast-background: #2b1e0c;
+  --ifm-color-primary-contrast-foreground: #fdf2e9;
+
+  /* Secondary Colors - Temple Stone */
+  --ifm-color-secondary: #6b5b54;
+  --ifm-color-secondary-dark: #60524b;
+  --ifm-color-secondary-darker: #5a4d47;
+  --ifm-color-secondary-darkest: #4a403b;
+  --ifm-color-secondary-light: #76645d;
+  --ifm-color-secondary-lighter: #806d66;
+  --ifm-color-secondary-lightest: #95827a;
+  --ifm-color-secondary-contrast-background: #1f1a17;
+  --ifm-color-secondary-contrast-foreground: #f5f2ef;
+
+  /* Success - Sacred Tulsi Green */
+  --ifm-color-success: #4a7c59;
+  --ifm-color-success-dark: #427050;
+  --ifm-color-success-darker: #3e6a4b;
+  --ifm-color-success-darkest: #33573e;
+  --ifm-color-success-light: #558862;
+  --ifm-color-success-lighter: #60946b;
+  --ifm-color-success-lightest: #7aab82;
+  --ifm-color-success-contrast-background: #1a2b1f;
+  --ifm-color-success-contrast-foreground: #e8f5ea;
+
+  /* Info - Ganga River Blue */
+  --ifm-color-info: #2980b9;
+  --ifm-color-info-dark: #2573a7;
+  --ifm-color-info-darker: #236d9c;
+  --ifm-color-info-darkest: #1d5a81;
+  --ifm-color-info-light: #3498db;
+  --ifm-color-info-lighter: #48a7e0;
+  --ifm-color-info-lightest: #7bc2ea;
+  --ifm-color-info-contrast-background: #0f1d2b;
+  --ifm-color-info-contrast-foreground: #e3ecf5;
+
+  /* Warning - Marigold Orange */
+  --ifm-color-warning: #f39c12;
+  --ifm-color-warning-dark: #db8c10;
+  --ifm-color-warning-darker: #ce840f;
+  --ifm-color-warning-darkest: #ab6d0c;
+  --ifm-color-warning-light: #f5a623;
+  --ifm-color-warning-lighter: #f6af35;
+  --ifm-color-warning-lightest: #f8c258;
+  --ifm-color-warning-contrast-background: #2b1e0c;
+  --ifm-color-warning-contrast-foreground: #fdf2e9;
+
+  /* Danger - Sindoor Red */
+  --ifm-color-danger: #c0392b;
+  --ifm-color-danger-dark: #ad3326;
+  --ifm-color-danger-darker: #a23024;
+  --ifm-color-danger-darkest: #86281e;
+  --ifm-color-danger-light: #c9483a;
+  --ifm-color-danger-lighter: #d25649;
+  --ifm-color-danger-lightest: #de7267;
+  --ifm-color-danger-contrast-background: #26100e;
+  --ifm-color-danger-contrast-foreground: #fdeaea;
+
+  /* Base Colors */
+  --ifm-color-white: #faf8f5;
+  --ifm-color-black: #1a1611;
+
+  /* Gray Scale - Ancient Stone Palette */
+  --ifm-color-gray-0: #faf8f5;
+  --ifm-color-gray-100: #f5f3f0;
+  --ifm-color-gray-200: #ebe7e2;
+  --ifm-color-gray-300: #d6cfc6;
+  --ifm-color-gray-400: #c2b8ab;
+  --ifm-color-gray-500: #a99c8b;
+  --ifm-color-gray-600: #7a6f62;
+  --ifm-color-gray-700: #4f473d;
+  --ifm-color-gray-800: #2e2720;
+  --ifm-color-gray-900: #1a1611;
+
+  /* Background Colors */
+  --ifm-background-color: #1a1611;
+  --ifm-background-surface-color: #2e2720;
+  --ifm-global-border-width: 1px;
+  --ifm-global-radius: 0.5rem;
+
+  /* Text Colors */
+  --ifm-font-color-base: #f5f3f0;
+  --ifm-font-color-secondary: #c2b8ab;
+  --ifm-font-color-base-inverse: #1a1611;
+
+  /* Link Colors */
+  --ifm-link-color: #e67e22;
+  --ifm-link-decoration: none;
+  --ifm-link-hover-color: #f39c12;
+  --ifm-link-hover-decoration: underline;
+
+  /* Navbar */
+  --ifm-navbar-background-color: #2e2720;
+  --ifm-navbar-shadow: 0 2px 4px 0 rgba(212, 168, 89, 0.1);
+  --ifm-navbar-item-padding-vertical: 0.25rem;
+  --ifm-navbar-item-padding-horizontal: 0.75rem;
+  --ifm-navbar-link-color: #f5f3f0;
+  --ifm-navbar-link-hover-color: #e67e22;
+
+  /* Sidebar */
+  --ifm-sidebar-background-color: #2e2720;
+  --ifm-menu-color: #c2b8ab;
+  --ifm-menu-color-background-active: rgba(230, 126, 34, 0.15);
+  --ifm-menu-color-background-hover: rgba(230, 126, 34, 0.1);
+  --ifm-menu-color-active: #e67e22;
+
+  /* Code Blocks */
+  --ifm-code-background: #4f473d;
+  --ifm-code-color: #f5f3f0;
+  --ifm-pre-background: #4f473d;
+  --ifm-pre-color: #f5f3f0;
+
+  /* Cards and Content */
+  --ifm-card-background-color: #2e2720;
+  --ifm-card-border-radius: 0.5rem;
+
+  /* Tables */
+  --ifm-table-background: transparent;
+  --ifm-table-border-color: #4f473d;
+  --ifm-table-head-background: rgba(230, 126, 34, 0.1);
+  --ifm-table-row-hover-background: rgba(230, 126, 34, 0.05);
+
+  /* Alerts */
+  --ifm-alert-background-color: rgba(230, 126, 34, 0.1);
+  --ifm-alert-border-color: rgba(230, 126, 34, 0.3);
+  --ifm-alert-border-width: 1px;
+  --ifm-alert-border-left-width: 4px;
+
+  /* Footer */
+  --ifm-footer-background-color: #1a1611;
+  --ifm-footer-color: #a99c8b;
+  --ifm-footer-link-color: #c2b8ab;
+  --ifm-footer-title-color: #e67e22;
+
+  /* Breadcrumbs */
+  --ifm-breadcrumb-color-active: #e67e22;
+  --ifm-breadcrumb-item-background-active: rgba(230, 126, 34, 0.1);
+
+  /* Pagination */
+  --ifm-pagination-color-active: #e67e22;
+  --ifm-pagination-background-active: rgba(230, 126, 34, 0.1);
+
+  /* Tabs */
+  --ifm-tabs-color: #c2b8ab;
+  --ifm-tabs-color-active: #e67e22;
+  --ifm-tabs-color-active-border: #e67e22;
+
+  /* Dropdown */
+  --ifm-dropdown-background-color: #2e2720;
+  --ifm-dropdown-border-color: #4f473d;
+
+  /* Hero Banner */
+  --ifm-hero-background-color: linear-gradient(
+    135deg,
+    #2e2720 0%,
+    #1a1611 100%
+  );
+  --ifm-hero-text-color: #f5f3f0;
+
+  /* Custom Kashi Variables */
+  --kashi-trishul-opacity: 0.03;
+  --kashi-glow-color: rgba(230, 126, 34, 0.2);
+  --kashi-accent-warm: #d4a859;
+  --kashi-accent-cool: #5a7a8a;
 }

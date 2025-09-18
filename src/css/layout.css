@@ -1,5 +1,206 @@
-/* Heading Layout Css */
+/* Subtle Trishul Background Pattern */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%23d17817' stroke-width='0.5' opacity='0.1'%3E%3Cpath d='M40 10 L40 70 M30 20 L50 20 M25 30 L55 30 M40 15 L35 20 L40 25 L45 20 Z'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 80px 80px;
+  opacity: var(--kashi-trishul-opacity);
+}
 
-/* Navbar Css */
+/* Enhanced Headers with Spiritual Touch */
+h1, h2, h3 {
+  position: relative;
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
 
-/* Footer Css */
+h1::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--ifm-color-primary), var(--kashi-accent-warm));
+  border-radius: 1px;
+}
+
+/* Sacred Glow Effect for Important Elements */
+.navbar__brand:hover,
+.menu__link--active,
+.pagination-nav__link--active {
+  box-shadow: 0 0 10px var(--kashi-glow-color);
+  border-radius: var(--ifm-global-radius);
+}
+
+/* Spiritual Card Styling */
+.card {
+  border: 1px solid var(--ifm-color-gray-300);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px var(--kashi-glow-color);
+}
+
+/* Sacred Button Styling */
+.button--primary {
+  background: linear-gradient(135deg, var(--ifm-color-primary), var(--kashi-accent-warm));
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.button--primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px var(--kashi-glow-color);
+}
+
+/* Enhanced Code Blocks with Temple Stone Feel */
+.prism-code {
+  border: 1px solid var(--ifm-color-gray-300);
+  border-radius: var(--ifm-global-radius);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Sacred Table Styling */
+.table-wrapper table {
+  border: 1px solid var(--ifm-color-gray-300);
+  border-radius: var(--ifm-global-radius);
+  overflow: hidden;
+}
+
+/* Spiritual Alert Enhancements */
+.alert {
+  border-radius: var(--ifm-global-radius);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.alert--info {
+  background-color: rgba(41, 128, 185, 0.1);
+  border-color: var(--ifm-color-info);
+}
+
+.alert--warning {
+  background-color: rgba(243, 156, 18, 0.1);
+  border-color: var(--ifm-color-warning);
+}
+
+.alert--danger {
+  background-color: rgba(192, 57, 43, 0.1);
+  border-color: var(--ifm-color-danger);
+}
+
+.alert--success {
+  background-color: rgba(39, 174, 96, 0.1);
+  border-color: var(--ifm-color-success);
+}
+
+/* Navbar with Temple Architecture Feel */
+.navbar {
+  border-bottom: 2px solid var(--ifm-color-primary);
+  background: var(--ifm-navbar-background-color);
+}
+
+.navbar__title {
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+/* Sidebar with Sacred Hierarchy */
+.menu__list .menu__list {
+  border-left: 2px solid var(--ifm-color-gray-300);
+  margin-left: 0.5rem;
+}
+
+.menu__link--active {
+  background: linear-gradient(90deg, var(--ifm-menu-color-background-active), transparent);
+  border-right: 3px solid var(--ifm-color-primary);
+}
+
+/* Footer with Sacred Ground Feel */
+.footer {
+  border-top: 2px solid var(--ifm-color-primary);
+  background: var(--ifm-footer-background-color);
+}
+
+/* Pagination with Sacred Flow */
+.pagination-nav__item {
+  border: 1px solid var(--ifm-color-gray-300);
+  border-radius: var(--ifm-global-radius);
+  transition: all 0.3s ease;
+}
+
+.pagination-nav__item:hover {
+  box-shadow: 0 2px 8px var(--kashi-glow-color);
+}
+
+/* Breadcrumb with Pilgrimage Path Feel */
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+.breadcrumbs__item:not(:last-child):after {
+  color: var(--ifm-color-primary);
+}
+
+/* Search Bar Enhancement */
+.DocSearch-Button {
+  border: 1px solid var(--ifm-color-gray-300);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+}
+
+.DocSearch-Button:hover {
+  box-shadow: 0 2px 8px var(--kashi-glow-color);
+}
+
+/* Mobile Responsive Enhancements */
+@media (max-width: 768px) {
+  body::before {
+    background-size: 60px 60px;
+  }
+  
+  .card {
+    margin: 0.5rem 0;
+  }
+  
+  h1::after {
+    width: 30px;
+  }
+}
+
+/* Accessibility Enhancements */
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .button--primary,
+  .pagination-nav__item {
+    transition: none;
+  }
+  
+  .card:hover,
+  .button--primary:hover {
+    transform: none;
+  }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+  :root {
+    --kashi-trishul-opacity: 0.05;
+    --ifm-link-color: #b8860b;
+  }
+  
+  [data-theme='dark'] {
+    --ifm-link-color: #ffd700;
+  }
+}
