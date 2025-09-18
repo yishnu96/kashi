@@ -23,7 +23,7 @@ const sidebars: SidebarsConfig = {
         "narad-keshav",
         "prachand-narsimha",
         "prahlad-keshav",
-        "praygg-madhav",
+        "prayag-madhav",
         "shwet-madhav",
         "tamra-varaha",
         "tribhuwan-keshav",
