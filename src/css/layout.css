@@ -8,9 +8,13 @@ body::before {
   height: 100%;
   pointer-events: none;
   z-index: -1;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%23d17817' stroke-width='0.5' opacity='0.1'%3E%3Cpath d='M40 10 L40 70 M30 20 L50 20 M25 30 L55 30 M40 15 L35 20 L40 25 L45 20 Z'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("/img/background_image_light.svg");
   background-size: 80px 80px;
   opacity: var(--kashi-trishul-opacity);
+}
+
+[data-theme='dark'] body::before {
+  background-image: url("/img/background_image_dark.svg");
 }
 
 /* Enhanced Headers with Spiritual Touch */
@@ -36,7 +40,7 @@ h1::after {
 .menu__link--active,
 .pagination-nav__link--active {
   box-shadow: 0 0 10px var(--kashi-glow-color);
-  border-radius: var(--ifm-global-radius);
+  /* border-radius: var(--ifm-global-radius); */
 }
 
 /* Spiritual Card Styling */
@@ -117,13 +121,11 @@ h1::after {
 
 /* Sidebar with Sacred Hierarchy */
 .menu__list .menu__list {
-  border-left: 2px solid var(--ifm-color-gray-300);
   margin-left: 0.5rem;
 }
 
 .menu__link--active {
   background: linear-gradient(90deg, var(--ifm-menu-color-background-active), transparent);
-  border-right: 3px solid var(--ifm-color-primary);
 }
 
 /* Footer with Sacred Ground Feel */
