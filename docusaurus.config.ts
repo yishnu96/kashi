@@ -44,6 +44,10 @@ const config: Config = {
         path: "temples",
         routeBasePath: "temples",
         sidebarPath: require.resolve("./temples/templesSidebar.js"),
+        admonitions: {
+          keywords: ["shloka"],
+          extendDefaults: true,
+        },
       },
     ],
     [
@@ -53,6 +57,10 @@ const config: Config = {
         path: "about-kashi",
         routeBasePath: "about-kashi",
         sidebarPath: require.resolve("./about-kashi/sidebars.js"),
+        admonitions: {
+          keywords: ["shloka"],
+          extendDefaults: true,
+        },
       },
     ],
   ],
@@ -72,6 +80,10 @@ const config: Config = {
           feedOptions: {
             type: ["rss", "atom"],
             xslt: true,
+          },
+          admonitions: {
+            keywords: ["shloka"],
+            extendDefaults: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.

@@ -1,0 +1,125 @@
+.admonition {
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(135deg, 
+    rgba(209, 120, 23, 0.03) 0%, 
+    rgba(230, 126, 34, 0.08) 100%);
+  box-shadow: 
+    0 4px 20px rgba(209, 120, 23, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  margin: 2rem 0;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.admonition:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 8px 30px rgba(209, 120, 23, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+/* Subtle trishul pattern */
+.admonition::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 60px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23d17817' stroke-width='0.5' opacity='0.1'%3E%3Cpath d='M12 2v20M6 8h12M4 12h16M12 6l-2 2 2 2 2-2z'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.1;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Dark theme */
+:global([data-theme='dark']) .admonition {
+  background: linear-gradient(135deg, 
+    rgba(230, 126, 34, 0.05) 0%, 
+    rgba(35, 209, 120, 0.08) 100%);
+  box-shadow: 
+    0 4px 20px rgba(230, 126, 34, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* Override default admonition header */
+.admonition :global(.admonition-heading) {
+  background: linear-gradient(135deg, var(--ifm-color-primary), #d4a859);
+  color: white;
+  padding: 1rem 1.5rem;
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.admonition :global(.admonition-heading)::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='0.3' opacity='0.1'%3E%3Cpath d='M20 5 L20 35 M10 15 L30 15 M8 20 L32 20'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 40px 40px;
+  pointer-events: none;
+  opacity: 0.1;
+}
+
+.shlokaContent {
+  position: relative;
+  z-index: 2;
+}
+
+/* Remove default admonition content padding */
+.admonition :global(.admonition-content) {
+  padding: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .admonition :global(.admonition-heading) {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+  
+  .admonition::before {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .admonition:hover {
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (prefers-contrast: high) {
+  .admonition {
+    border: 2px solid var(--ifm-color-primary);
+  }
+}
+
+/* Print styles */
+@media print {
+  .admonition {
+    background: white !important;
+    box-shadow: none !important;
+    border: 2px solid #d17817 !important;
+    break-inside: avoid;
+  }
+  
+  .admonition :global(.admonition-heading) {
+    background: #d17817 !important;
+    color: white !important;
+  }
+}

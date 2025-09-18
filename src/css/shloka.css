@@ -1,0 +1,271 @@
+/* Custom Shloka Admonition */
+.admonition-shloka {
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(135deg, 
+    rgba(209, 120, 23, 0.03) 0%, 
+    rgba(230, 126, 34, 0.08) 100%);
+  box-shadow: 
+    0 4px 20px rgba(209, 120, 23, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  margin: 2rem 0;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Subtle trishul pattern for shloka background */
+.admonition-shloka::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60px;
+  height: 60px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23d17817' stroke-width='0.5' opacity='0.1'%3E%3Cpath d='M12 2v20M6 8h12M4 12h16M12 6l-2 2 2 2 2-2z'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.1;
+  pointer-events: none;
+}
+
+[data-theme='dark'] .admonition-shloka {
+  background: linear-gradient(135deg, 
+    rgba(230, 126, 34, 0.05) 0%, 
+    rgba(35, 209, 120, 0.08) 100%);
+  box-shadow: 
+    0 4px 20px rgba(230, 126, 34, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.admonition-shloka .admonition-heading {
+  background: linear-gradient(135deg, var(--ifm-color-primary), var(--kashi-accent-warm, #d4a859));
+  color: white;
+  padding: 1rem 1.5rem;
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.admonition-shloka .admonition-heading::before {
+  content: '🕉️';
+  font-size: 1.2em;
+  opacity: 0.9;
+}
+
+.admonition-shloka .admonition-heading::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='0.3' opacity='0.1'%3E%3Cpath d='M20 5 L20 35 M10 15 L30 15 M8 20 L32 20'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 40px 40px;
+  pointer-events: none;
+  opacity: 0.1;
+}
+
+.admonition-shloka .admonition-content {
+  padding: 0;
+  margin: 0;
+}
+
+/* Sanskrit Text Styling */
+.shloka-verse {
+  background: rgba(255, 255, 255, 0.5);
+  border-left: 4px solid var(--ifm-color-primary);
+  margin: 0;
+  padding: 1.5rem 2rem;
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Mangal', 'Sanskrit 2003', serif;
+  font-size: 1.2rem;
+  line-height: 1.8;
+  text-align: center;
+  color: var(--ifm-font-color-base);
+  position: relative;
+  background-image: linear-gradient(45deg, transparent 49%, rgba(209, 120, 23, 0.05) 50%, transparent 51%);
+}
+
+[data-theme='dark'] .shloka-verse {
+  background: rgba(0, 0, 0, 0.2);
+  border-left-color: var(--ifm-color-primary);
+}
+
+.shloka-verse p {
+  margin: 0.5rem 0;
+  font-weight: 500;
+}
+
+.shloka-verse p:last-child {
+  margin-bottom: 0;
+}
+
+/* Multiple verses separator */
+.shloka-separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  margin: 0;
+  background: linear-gradient(90deg, transparent, rgba(209, 120, 23, 0.2), transparent);
+}
+
+.shloka-separator::before {
+  content: '• • • •';
+  color: var(--ifm-color-primary);
+  font-size: 1.2rem;
+  letter-spacing: 0.5rem;
+  opacity: 0.7;
+}
+
+/* Source Styling */
+.shloka-source {
+  background: rgba(209, 120, 23, 0.1);
+  padding: 0.75rem 1.5rem;
+  margin: 0;
+  font-style: italic;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+  font-size: 0.95rem;
+  border-top: 1px solid rgba(209, 120, 23, 0.2);
+  position: relative;
+}
+
+.shloka-source::before {
+  content: '📜 ';
+  margin-right: 0.5rem;
+}
+
+[data-theme='dark'] .shloka-source {
+  background: rgba(230, 126, 34, 0.15);
+  border-top-color: rgba(230, 126, 34, 0.3);
+}
+
+/* Translation Styling */
+.shloka-translation {
+  padding: 1.5rem 2rem 2rem;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ifm-font-color-secondary);
+  background: linear-gradient(180deg, transparent 0%, rgba(209, 120, 23, 0.02) 100%);
+}
+
+.shloka-translation p {
+  margin: 0.75rem 0;
+}
+
+.shloka-translation p:first-child::before {
+  content: '"';
+  font-size: 1.5em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  margin-right: 0.2rem;
+  vertical-align: top;
+  line-height: 0.8;
+}
+
+.shloka-translation p:last-child::after {
+  content: '"';
+  font-size: 1.5em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  margin-left: 0.2rem;
+  vertical-align: top;
+  line-height: 0.8;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .admonition-shloka .admonition-heading {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+  
+  .shloka-verse {
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    line-height: 1.7;
+  }
+  
+  .shloka-source {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .shloka-translation {
+    padding: 1rem 1.5rem 1.5rem;
+    font-size: 0.95rem;
+  }
+  
+  .admonition-shloka::before {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .shloka-verse {
+    font-size: 1rem;
+    text-align: left;
+    padding: 1rem;
+  }
+  
+  .shloka-translation {
+    padding: 1rem;
+  }
+  
+  .shloka-source {
+    padding: 0.5rem 1rem;
+  }
+}
+
+/* Hover Effects */
+.admonition-shloka:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 8px 30px rgba(209, 120, 23, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease;
+}
+
+/* Print Styles */
+@media print {
+  .admonition-shloka {
+    background: white !important;
+    box-shadow: none !important;
+    border: 2px solid #d17817 !important;
+    break-inside: avoid;
+  }
+  
+  .admonition-shloka .admonition-heading {
+    background: #d17817 !important;
+    color: white !important;
+  }
+  
+  .shloka-verse {
+    background: #f9f7f4 !important;
+  }
+}
+
+/* Accessibility Enhancements */
+@media (prefers-reduced-motion: reduce) {
+  .admonition-shloka:hover {
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (prefers-contrast: high) {
+  .admonition-shloka {
+    border: 2px solid var(--ifm-color-primary);
+  }
+  
+  .shloka-verse {
+    border-left-width: 6px;
+  }
+}
