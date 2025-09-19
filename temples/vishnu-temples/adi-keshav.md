@@ -47,21 +47,14 @@ Adi Keshav stands at the sacred confluence of the Ganga and Varuna, where Lord V
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka [Skanda Purana, Kashi Khanda, Chapter 97, Shloka 15]
 
-<Verse>
-“वेदेश्वरादुदीच्यां तु क्षेत्रज्ञश्चादिकेशवः । <br/>
-दृष्टं त्रिभुवनं सर्वं तस्य संदर्शनाद्ध्रुवम् ॥”
-</Verse>
+वेदेश्वरादुदीच्यां तु क्षेत्रज्ञश्चादिकेशवः । <br/>
+दृष्टं त्रिभुवनं सर्वं तस्य संदर्शनाद्ध्रुवम् ॥
 
-<Source>
-<em> Kashi Khanda (Skanda Purana), Chapter 97, Shloka 15 </em>
-</Source>
-
-<Translation>
-    To the north of Vedeshwar stands Adi Keshav; by beholding Him, one surely attains the merit of beholding all the three worlds.
-</Translation>
+To the north of Vedeshwar stands Adi Keshav; by beholding Him, one surely attains the merit of beholding all the three worlds.
 :::
+
 
 ## History of the Mandir
 

@@ -1,125 +1,494 @@
+/* Remove default admonition styling for scroll effect */
 .admonition {
   border: none;
-  border-radius: 12px;
-  background: linear-gradient(135deg, 
-    rgba(209, 120, 23, 0.03) 0%, 
-    rgba(230, 126, 34, 0.08) 100%);
-  box-shadow: 
-    0 4px 20px rgba(209, 120, 23, 0.1),
-    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  background: none;
+  box-shadow: none;
   margin: 2rem 0;
-  overflow: hidden;
+  padding: 0;
+}
+
+/* Om icon styling */
+.omIcon {
+  fill: currentColor;
+  width: 24px;
+  height: 24px;
+}
+
+/* Hide default header since we're creating scroll effect */
+.admonition :global(.admonition-heading) {
+  display: none;
+}
+
+.admonition :global(.admonition-content) {
+  padding: 0;
+  margin: 0;
+}
+
+/* Main scroll container - horizontal layout */
+.scrollContainer {
   position: relative;
-  transition: all 0.3s ease;
-}
-
-.admonition:hover {
-  transform: translateY(-2px);
+  background: linear-gradient(135deg, 
+    var(--ifm-color-warning),
+    var(--ifm-color-warning-light)
+  );
+  border-radius: 0;
+  padding: 2rem;
+  margin: 1.5rem 2rem;
   box-shadow: 
-    0 8px 30px rgba(209, 120, 23, 0.15),
-    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    0 12px 40px rgba(0, 0, 0, 0.2),
+    inset 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow: visible;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Subtle trishul pattern */
-.admonition::before {
+[data-theme='dark'] .scrollContainer {
+  background: linear-gradient(135deg, 
+    var(--ifm-color-warning-darker),
+    var(--ifm-color-warning-darkest)
+  );
+  box-shadow: 
+    0 12px 40px rgba(0, 0, 0, 0.4),
+    inset 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Left wooden rod */
+.scrollContainer::before {
   content: '';
   position: absolute;
-  top: 0;
-  right: 0;
-  width: 60px;
-  height: 60px;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23d17817' stroke-width='0.5' opacity='0.1'%3E%3Cpath d='M12 2v20M6 8h12M4 12h16M12 6l-2 2 2 2 2-2z'/%3E%3C/svg%3E");
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.1;
-  pointer-events: none;
-  z-index: 1;
-}
-
-/* Dark theme */
-:global([data-theme='dark']) .admonition {
-  background: linear-gradient(135deg, 
-    rgba(230, 126, 34, 0.05) 0%, 
-    rgba(35, 209, 120, 0.08) 100%);
+  top: -15px;
+  bottom: -15px;
+  left: -40px;
+  width: 50px;
+  background: linear-gradient(180deg, 
+    var(--ifm-color-warning-darkest),
+    var(--ifm-color-warning-darker),
+    var(--ifm-color-warning-darkest)
+  );
+  border-radius: 25px;
   box-shadow: 
-    0 4px 20px rgba(230, 126, 34, 0.15),
-    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    0 6px 20px rgba(0, 0, 0, 0.3),
+    inset 2px 0 6px rgba(255, 255, 255, 0.1);
 }
 
-/* Override default admonition header */
-.admonition :global(.admonition-heading) {
-  background: linear-gradient(135deg, var(--ifm-color-primary), #d4a859);
-  color: white;
-  padding: 1rem 1.5rem;
-  margin: 0;
-  font-weight: 600;
-  font-size: 1.1rem;
+/* Right wooden rod */
+.scrollContainer::after {
+  content: '';
+  position: absolute;
+  top: -15px;
+  bottom: -15px;
+  right: -40px;
+  width: 50px;
+  background: linear-gradient(180deg, 
+    var(--ifm-color-warning-darkest),
+    var(--ifm-color-warning-darker),
+    var(--ifm-color-warning-darkest)
+  );
+  border-radius: 25px;
+  box-shadow: 
+    0 6px 20px rgba(0, 0, 0, 0.3),
+    inset -2px 0 6px rgba(255, 255, 255, 0.1);
+}
+
+/* Paper content area with torn edges */
+.scrollContent {
   position: relative;
-  overflow: hidden;
   z-index: 2;
+  background: var(--ifm-background-color);
+  padding: 2.5rem 3rem;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 
+    inset 0 3px 12px rgba(0, 0, 0, 0.1),
+    0 2px 8px rgba(0, 0, 0, 0.05);
+  width: 100%;
+  /* Enhanced torn paper edges */
+  clip-path: polygon(
+    2% 0%, 98% 0%, 100% 2%, 98% 4%, 100% 8%, 99% 12%,
+    100% 16%, 98% 20%, 100% 24%, 99% 28%, 100% 32%,
+    98% 36%, 100% 40%, 99% 44%, 100% 48%, 98% 52%,
+    100% 56%, 99% 60%, 100% 64%, 98% 68%, 100% 72%,
+    99% 76%, 100% 80%, 98% 84%, 100% 88%, 99% 92%,
+    100% 96%, 98% 100%, 2% 100%, 0% 98%, 2% 94%,
+    0% 90%, 1% 86%, 0% 82%, 2% 78%, 0% 74%,
+    1% 70%, 0% 66%, 2% 62%, 0% 58%, 1% 54%,
+    0% 50%, 2% 46%, 0% 42%, 1% 38%, 0% 34%,
+    2% 30%, 0% 26%, 1% 22%, 0% 18%, 2% 14%,
+    0% 10%, 1% 6%, 0% 2%
+  );
 }
 
-.admonition :global(.admonition-heading)::after {
+/* Sanskrit verse styling with automatic quotes */
+.scrollContent p:first-child {
+  font-family: 'Noto Sans Devanagari', 'Siddhanta', 'Mangal', 'Sanskrit 2003', serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--ifm-font-color-base);
+  margin: 0 0 2rem 0;
+  text-align: center;
+  position: relative;
+}
+
+.scrollContent p:first-child::before {
+  content: '"';
+  font-size: 2em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  position: absolute;
+  left: -0.5em;
+  top: -0.2em;
+  line-height: 1;
+}
+
+.scrollContent p:first-child::after {
+  content: '"';
+  font-size: 2em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  position: absolute;
+  right: -0.5em;
+  bottom: -0.2em;
+  line-height: 1;
+}
+
+/* Translation styling with automatic quotes */
+.scrollContent p:nth-child(2) {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: var(--ifm-font-color-secondary);
+  margin: 0;
+  font-style: italic;
+  text-align: center;
+  position: relative;
+}
+
+.scrollContent p:nth-child(2)::before {
+  content: '"';
+  font-size: 1.8em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  position: absolute;
+  left: -0.4em;
+  top: -0.1em;
+  line-height: 1;
+}
+
+.scrollContent p:nth-child(2)::after {
+  content: '"';
+  font-size: 1.8em;
+  color: var(--ifm-color-primary);
+  opacity: 0.6;
+  position: absolute;
+  right: -0.4em;
+  bottom: -0.1em;
+  line-height: 1;
+}
+
+/* Wrapper for the entire shloka with source */
+.shlokaWrapper {
+  position: relative;
+  margin: 2rem 0 4rem 0;
+}
+
+/* Main admonition styling */
+.admonition {
+  border: none;
+  background: none;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hide default header */
+.admonition :global(.admonition-heading) {
+  display: none;
+}
+
+.admonition :global(.admonition-content) {
+  padding: 0;
+  margin: 0;
+}
+
+/* Om icon styling */
+.omIcon {
+  fill: currentColor;
+  width: 24px;
+  height: 24px;
+}
+
+/* Source container positioned below scroll */
+.sourceContainer {
+  position: absolute;
+  bottom: -50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--ifm-color-primary);
+  color: var(--ifm-background-color);
+  padding: 0.6rem 1.5rem;
+  border-radius: 25px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  white-space: nowrap;
+  z-index: 10;
+}
+
+[data-theme='dark'] .sourceContainer {
+  background: var(--ifm-color-primary-light);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Aged paper texture effect */
+.scrollContent::before {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='0.3' opacity='0.1'%3E%3Cpath d='M20 5 L20 35 M10 15 L30 15 M8 20 L32 20'/%3E%3C/g%3E%3C/svg%3E");
-  background-size: 40px 40px;
+  background: 
+    radial-gradient(circle at 20% 80%, rgba(139, 69, 19, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(139, 69, 19, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(160, 82, 45, 0.02) 0%, transparent 50%);
   pointer-events: none;
-  opacity: 0.1;
 }
 
-.shlokaContent {
-  position: relative;
-  z-index: 2;
+/* Hover effect */
+.scrollContainer:hover {
+  transform: translateY(-2px);
+  box-shadow: 
+    0 12px 35px rgba(0, 0, 0, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  transition: all 0.3s ease;
 }
 
-/* Remove default admonition content padding */
-.admonition :global(.admonition-content) {
-  padding: 0;
+[data-theme='dark'] .scrollContainer:hover {
+  box-shadow: 
+    0 12px 35px rgba(0, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-  .admonition :global(.admonition-heading) {
-    padding: 0.75rem 1rem;
-    font-size: 1rem;
+/* Responsive design for tablets */
+@media (max-width: 1024px) {
+  .scrollContainer {
+    padding: 35px 60px 50px;
+    min-height: 180px;
   }
   
-  .admonition::before {
+  .scrollContainer::before,
+  .scrollContainer::after {
+    top: -12px;
+    bottom: -12px;
     width: 40px;
-    height: 40px;
+  }
+  
+  .scrollContainer::before {
+    left: -30px;
+  }
+  
+  .scrollContainer::after {
+    right: -30px;
+  }
+  
+  .scrollContent {
+    padding: 2rem 2.5rem;
+  }
+  
+  .scrollContent p:first-child {
+    font-size: 1.3rem;
+    line-height: 1.7;
+  }
+  
+  .scrollContent p:nth-child(2) {
+    font-size: 1.1rem;
+  }
+}
+
+/* Responsive design for mobile - vertical scroll */
+@media (max-width: 768px) {
+  .scrollContainer {
+    padding: 1rem;
+    min-height: 16rem;
+    flex-direction: column;
+    background: linear-gradient(45deg, 
+      var(--ifm-color-warning),
+      var(--ifm-color-warning-light)
+    );
+  }
+  
+  [data-theme='dark'] .scrollContainer {
+    background: linear-gradient(45deg, 
+      var(--ifm-color-warning-darker),
+      var(--ifm-color-warning-darkest)
+    );
+  }
+  
+  /* Top wooden rod for mobile */
+  .scrollContainer::before {
+    top: -25px;
+    left: -15px;
+    right: -15px;
+    bottom: auto;
+    width: auto;
+    height: 35px;
+    background: linear-gradient(90deg, 
+      var(--ifm-color-warning-darkest),
+      var(--ifm-color-warning-darker),
+      var(--ifm-color-warning-darkest)
+    );
+    border-radius: 17px;
+    box-shadow: 
+      0 6px 20px rgba(0, 0, 0, 0.3),
+      inset 0 2px 6px rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Bottom wooden rod for mobile */
+  .scrollContainer::after {
+    top: auto;
+    bottom: -25px;
+    left: -15px;
+    right: -15px;
+    width: auto;
+    height: 35px;
+    background: linear-gradient(90deg, 
+      var(--ifm-color-warning-darkest),
+      var(--ifm-color-warning-darker),
+      var(--ifm-color-warning-darkest)
+    );
+    border-radius: 17px;
+    box-shadow: 
+      0 6px 20px rgba(0, 0, 0, 0.3),
+      inset 0 -2px 6px rgba(255, 255, 255, 0.1);
+  }
+  
+  .scrollContent {
+    padding: 1.5rem;
+    /* Simplified torn edges for mobile */
+    clip-path: polygon(
+      3% 0%, 97% 0%, 100% 3%, 97% 6%, 100% 12%,
+      98% 18%, 100% 24%, 97% 30%, 100% 36%,
+      98% 42%, 100% 48%, 97% 54%, 100% 60%,
+      98% 66%, 100% 72%, 97% 78%, 100% 84%,
+      98% 90%, 100% 96%, 97% 100%, 3% 100%,
+      0% 97%, 3% 91%, 0% 85%, 2% 79%,
+      0% 73%, 3% 67%, 0% 61%, 2% 55%,
+      0% 49%, 3% 43%, 0% 37%, 2% 31%,
+      0% 25%, 3% 19%, 0% 13%, 2% 7%, 0% 3%
+    );
+  }
+  
+  .scrollContent p:first-child {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .scrollContent p:nth-child(2) {
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .sourceContainer {
+    bottom: -60px;
+    font-size: 0.8rem;
+    padding: 0.5rem 1.2rem;
+  }
+}
+
+/* Extra small mobile devices */
+@media (max-width: 480px) {
+  .shlokaWrapper {
+    margin: 1.5rem 0 5rem 0;
+  }
+  
+  .scrollContainer {
+    padding: 60px 20px 30px;
+    min-height: 250px;
+  }
+  
+  .scrollContainer::before,
+  .scrollContainer::after {
+    left: -10px;
+    right: -10px;
+    height: 30px;
+    border-radius: 15px;
+  }
+  
+  .scrollContainer::before {
+    top: -20px;
+  }
+  
+  .scrollContainer::after {
+    bottom: -20px;
+  }
+  
+  .scrollContent {
+    padding: 1rem;
+  }
+  
+  .scrollContent p:first-child {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    text-align: left;
+  }
+  
+  .scrollContent p:nth-child(2) {
+    font-size: 0.95rem;
+    text-align: left;
+  }
+  
+  /* Adjust quote positions for smaller text */
+  .scrollContent p:first-child::before,
+  .scrollContent p:first-child::after {
+    font-size: 1.5em;
+  }
+  
+  .scrollContent p:nth-child(2)::before,
+  .scrollContent p:nth-child(2)::after {
+    font-size: 1.4em;
+  }
+  
+  .sourceContainer {
+    bottom: -50px;
+    font-size: 0.75rem;
+    padding: 0.4rem 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .scrollContainer {
+    background: #fff8dc !important;
+    box-shadow: none !important;
+    border: 2px solid var(--ifm-color-primary) !important;
+    break-inside: avoid;
+  }
+  
+  .scrollContainer::before,
+  .scrollContainer::after {
+    background: var(--ifm-color-primary) !important;
   }
 }
 
 /* Accessibility */
 @media (prefers-reduced-motion: reduce) {
-  .admonition:hover {
+  .scrollContainer:hover {
     transform: none;
     transition: none;
   }
 }
 
 @media (prefers-contrast: high) {
-  .admonition {
+  .scrollContainer {
     border: 2px solid var(--ifm-color-primary);
   }
-}
-
-/* Print styles */
-@media print {
-  .admonition {
-    background: white !important;
-    box-shadow: none !important;
-    border: 2px solid #d17817 !important;
-    break-inside: avoid;
-  }
   
-  .admonition :global(.admonition-heading) {
-    background: #d17817 !important;
-    color: white !important;
+  .scrollContent p:first-child {
+    font-weight: 700;
   }
 }
