@@ -48,36 +48,21 @@ Kolahala Narasimha stands in the Narsimha Mutt precincts as the Lord who scatter
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Traditional Narasimha mantra]
 
-<Verse>
 “उग्रं वीरं महा-विश्णुं ज्वलन्तं सर्वतोमुखम्। <br/>
 नृसिंहं भीषणं भद्रं मृत्युर्मृत्युं नमाम्यहम्॥”
-</Verse>
 
-<Source>
-<em> Traditional Narasimha mantra cited in Puranic and stotra traditions </em>
-</Source>
-
-<Translation>
 “Salutations to the fierce, heroic Mahavishnu, blazing and all-faced, Narasimha who is both fearsome and auspicious, the death of death itself”.
-</Translation>
+
 :::
 
-:::shloka
 
-<Verse>
 “इतो नृसिंहः परतो नृसिंहः, यतो यतो याति पणिर्नृसिंहः। <br/>
 बहिर्नृसिंहो हृदये नृसिंहः, नृसिंहं आदिं शरणं प्रपद्ये॥”
-</Verse>
 
-<Source>
-<em> Narasimha stotra from the broader Puranic devotional corpus </em>
-</Source>
-
-<Translation>
 “Here is Narasimha, there is Narasimha; wherever one goes, there is Narasimha; outside is Narasimha and within the heart is Narasimha; to Narasimha, the origin, refuge is taken”.
-</Translation>
+
 :::
 
 ## History of the Mandir

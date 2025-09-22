@@ -47,36 +47,22 @@ In Kashi, Hayagreev Keshav stands as the manifest form of Vishnu who restores th
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Kashi Khand, Chapter 61, Shloka 23]
 
-<Verse>
 “हयग्रीवे महातीर्थे मां हयग्रीवकेशवम्, <br/>
 प्रणम्य प्राप्नुयान्नूनं तद्विष्णोः परमं पदम्”.
-</Verse>
 
-<Source>
-<em> Kashi Khand, Chapter 61, Shloka 23 </em>
-</Source>
-
-<Translation>
 “At the great Hayagriva Teerth, I am present as Hayagriva Keshava; by bowing here, a devotee surely attains the supreme abode of Vishnu”.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Skanda Purana, Hari Bhakti Vilasa 5/472–474]
 
-<Verse>
 “अजन्म कृत पापनां प्रायश्चित्तं य इच्छति, <br/>
 दामोदरकुण्डे शालिग्राम शिलावरी धारणामह पापहारी नमस्तुते”
-</Verse>
 
-<Source>
-<em> Hari Bhakti Vilasa 5/472–474 (citing Skanda Purana) </em>
-</Source>
-
-<Translation>
 Worship and contact with Shaligram with Tulsi, and bathing with Vishnu’s padodaka, remove sins, avert untimely death, cure disease, and grant Vaikuntha to the devoted.
-</Translation>
+
 :::
 
 ## History of the Mandir

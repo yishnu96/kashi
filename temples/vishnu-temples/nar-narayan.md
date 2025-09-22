@@ -53,36 +53,22 @@ Nar Narayan in Kashi stands at Badri Narayan Ghat as the living presence of the 
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Mahābhārata, Ādi Parva 1.1.20]
 
-<Verse>
 नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । <br/>
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत् ॥
-</Verse>
 
-<Source>
-<em> Mahābhārata, Ādi Parva 1.1.20; also cited as Śrīmad Bhāgavatam 1.2.4 </em>
-</Source>
-
-<Translation>
 “Having bowed to Nārāyaṇa and to Nara, the best of men, and to the goddess Sarasvatī and Vyāsa, then proclaim the victory (begin the sacred narration).”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Śrīmad Bhāgavatam, Canto 4, Chapter 1]
 
-<Verse>
 नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । <br/>
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत् ॥
-</Verse>
 
-<Source>
-<em> Śrīmad Bhāgavatam, Canto 4, Chapter 1 </em>
-</Source>
-
-<Translation>
 “Murti, the virtuous daughter of Daksha, became the wife of Dharma; in her the Supreme Lord appeared as the sages Nara and Nārāyaṇa.”
-</Translation>
+
 :::
 
 ## History of the Mandir

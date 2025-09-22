@@ -53,20 +53,13 @@ Prachand Narsimha is a fierce manifestation of Lord Vishnu in Kashi, installed t
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Kashi Khand, Chapter 61, Shloka 190]
 
-<Verse>
 “प्रचण्ड नरसिम्होऽहं चण्डभैरवपूर्वतः। <br/>
 प्रचण्डमप्यघं कृत्वा निष्पाप्मा स्यात्तदर्चनात्॥”
-</Verse>
 
-<Source>
-<em> Kashi Khand, Chapter 61, Shloka 190 </em>
-</Source>
-
-<Translation>
 Lord Vishnu declares, “To the east of Chanda Bhairava, I am present as Prachand Narasimha, and by worshipping here, even the most enormous sins are destroyed and the devotee becomes sinless”.
-</Translation>
+
 :::
 
 ## History of the Mandir

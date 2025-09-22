@@ -54,36 +54,23 @@ Shwet Madhav is the sacred form of Lord Vishnu established in Kashi near Vishala
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61]
 
-<Verse>
+
 “तीर्थे यज्ञवराहाख्ये यज्ञवाराहसंज्ञकः <br/>
 नरैः समर्चनीयोऽहं सर्वयज्ञफलेप्सुभि:”
-</Verse>
 
-<Source>
-<em> Kashi Khand (Skanda Purana), Chapter 61 </em>
-</Source>
-
-<Translation>
 “At the Tirtha named Yajna-Varaha, I abide as Yajna-Varaha; those who desire the fruits of all sacrifices should worship Me there.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Kashi Khand (Skanda Purana), Chapter 61, Shloka 26]
 
-<Verse>
 “वन्ध्यास्त्रिलोकसुन्दर्या याम्यां यो मां समर्चयेत् <br/>
 काश्यां ख्यातं त्रिभुवनकेशवं न स गर्भभाक्”
-</Verse>
 
-<Source>
-<em> Kashi Khand (Skanda Purana), Chapter 61, Shloka 26 </em>
-</Source>
-
-<Translation>
 “In Kashi, to the south of Trilokya Sundari, I am renowned as Tribhuvan Keshav; whoever worships Me there does not take birth again.”
-</Translation>
+
 :::
 
 ## History of the Mandir

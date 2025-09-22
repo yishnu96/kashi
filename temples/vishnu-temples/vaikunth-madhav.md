@@ -53,54 +53,30 @@ Vaikunth Madhav is the sacred Vishnu shrine in Kashi where worship yields the sa
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka [Srimad Bhagavatam, 1.2.4.]
 
-<Verse>
-“नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। <br/>
-देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥”
-</Verse>
+"नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। <br/>
+देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥"
 
-<Source>
-<em> Srimad Bhagavatam, 1.2.4. </em>
-</Source>
-
-<Translation>
-“After bowing to Narayana, to Nara the best of men, to Devi Sarasvati and to Vyasa, victory (spiritual success) is declared.”
-</Translation>
+"After bowing to Narayana, to Nara the best of men, to Devi Sarasvati and to Vyasa, victory (spiritual success) is declared."
 :::
 
-:::shloka
+:::shloka [Mahabharata, Anushasana Parva (Vishnu‑dhyāna)]
 
-<Verse>
-“शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं। <br/>
+"शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं। <br/>
 विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्॥ <br/>
 लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्। <br/>
-वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥”
-</Verse>
+वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥"
 
-<Source>
-<em> Mahabharata, Anushasana Parva (Vishnu‑dhyāna) </em>
-</Source>
-
-<Translation>
-“Salutations to Vishnu—peaceful in form, reclining on the serpent, lotus‑navel, Lord of the gods, support of the universe, sky‑like, cloud‑hued, auspicious‑limbed, beloved of Lakshmi, lotus‑eyed, accessible to yogis by meditation, remover of worldly fear, the one Lord of all worlds.”
-</Translation>
+"Salutations to Vishnu—peaceful in form, reclining on the serpent, lotus‑navel, Lord of the gods, support of the universe, sky‑like, cloud‑hued, auspicious‑limbed, beloved of Lakshmi, lotus‑eyed, accessible to yogis by meditation, remover of worldly fear, the one Lord of all worlds."
 :::
 
-:::shloka
+:::shloka [Bhagavad Gita, 18.66.]
 
-<Verse>
-“सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। <br/>
-अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥”
-</Verse>
+"सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। <br/>
+अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥"
 
-<Source>
-<em> Bhagavad Gita, 18.66. </em>
-</Source>
-
-<Translation>
-“Abandoning all duties, take refuge in Me alone; I shall free from all sins and grant liberation—do not grieve.”
-</Translation>
+"Abandoning all duties, take refuge in Me alone; I shall free from all sins and grant liberation—do not grieve."
 :::
 
 ## History of the Mandir

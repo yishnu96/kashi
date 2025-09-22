@@ -47,36 +47,22 @@ Tamra Varaha is the sacred Varaha form of Lord Vishnu established in Kashi, exto
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61]
 
-<Verse>
 “तीर्थे यज्ञवराहाख्ये यज्ञवाराहसंज्ञकः <br/>
 नरैः समर्चनीयोऽहं सर्वयज्ञफलेप्सुभिः।”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61 </em>
-</Source>
-
-<Translation>
 “At the Tirtha named Yajna-Varaha, I abide as Yajna-Varaha; those who desire the fruits of all sacrifices should worship Me there.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61, Shloka 200]
 
-<Verse>
 “त्रिविक्रमोऽस्म्यहं काश्यामुदीच्यां च त्रिलोचनात् <br/>
 ददामि पूजितो लक्ष्मीं हरामि वृजिनान्यपि।”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61, Shloka 200 </em>
-</Source>
-
-<Translation>
 “In Kashi, to the north of Trilochan, I am established as Trivikrama; when worshipped I grant Lakshmi and remove sins.”
-</Translation>
+
 :::
 
 ## History of the Mandir

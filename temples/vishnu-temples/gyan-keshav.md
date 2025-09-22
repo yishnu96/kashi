@@ -52,68 +52,36 @@ Gyan Keshav is a sacred Vishnu form enshrined within the Adi Keshav Temple at Ra
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka [Bhagavad Gita, Chapter 10, Shloka 10]
 
-<Verse>
-“तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्। <br/>
-ददामि बुद्धियोगं तं येन मामुपयान्ति ते॥”
-</Verse>
+"तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्। <br/>
+ददामि बुद्धियोगं तं येन मामुपयान्ति ते॥"
 
-<Source>
-<em> Bhagavad Gita, Chapter 10, Shloka 10 </em>
-</Source>
-
-<Translation>
 To those who are ever devoted and worship with love, the Lord grants buddhi-yoga by which they come to Him.
-</Translation>
 :::
 
-:::shloka
+:::shloka [Bhagavad Gita, Chapter 4, Shloka 39]
 
-<Verse>
-“श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः। <br/>
-ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥”
-</Verse>
+"श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः। <br/>
+ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥"
 
-<Source>
-<em> Bhagavad Gita, Chapter 4, Shloka 39 </em>
-</Source>
-
-<Translation>
 The disciplined and devoted attain knowledge; gaining knowledge, they swiftly attain supreme peace.
-</Translation>
 :::
 
-:::shloka
+:::shloka [Traditional Vaishnava guru-stotra (invocation to knowledge)]
 
-<Verse>
-“ज्ञानञ्जनशलाकया चक्षुरुन्मीलितं येन <br/>
-तस्मै श्रीगुरवे नमः।”
-</Verse>
+"ज्ञानञ्जनशलाकया चक्षुरुन्मीलितं येन <br/>
+तस्मै श्रीगुरवे नमः।"
 
-<Source>
-<em> Traditional Vaishnava guru-stotra (invocation to knowledge) </em>
-</Source>
-
-<Translation>
 Salutations to the revered Guru who opens the eyes with the collyrium-stick of knowledge.
-</Translation>
 :::
 
-:::shloka
+:::shloka [Mahabharata invocation (often recited before Gita study)]
 
-<Verse>
-“नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। <br/>
-देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥”
-</Verse>
+"नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। <br/>
+देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥"
 
-<Source>
-<em> Mahabharata invocation (often recited before Gita study) </em>
-</Source>
-
-<Translation>
 Having bowed to Narayana, Nara the supreme man, Devi Saraswati and Vyasa, victory is then proclaimed.
-</Translation>
 :::
 
 ## History of the Mandir

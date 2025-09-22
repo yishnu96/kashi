@@ -49,84 +49,49 @@ Lakshmi Narsimha in Kashi is a sacred Vishnu shrine where worship grants happine
 ## Scriptural Quote (Shloka)
 
 
-:::shloka
+:::shloka[Brahmāṇḍa Purāṇa, Narasimha‑Kavacham, verse 1]
 
-<Verse>
 “nṛsiṁha-kavachaṁ vakṣye prahlādenoditaṁ purā, <br/>
 sarva-rakṣā-karaṁ puṇyaṁ sarvopadrava-nāśanam”
-</Verse>
 
-<Source>
-<em> Brahmāṇḍa Purāṇa, Narasimha‑Kavacham, verse 1 </em>
-</Source>
-
-<Translation>
 “Now is recited the Narasimha‑kavacha taught formerly by Prahlāda; it grants all protection, is supremely pious, and destroys all obstacles”.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Brahmāṇḍa Purāṇa, Narasimha‑Kavacham, verse 2]
 
-<Verse>
 “sarva-sampat-karaṁ caiva svarga-mokṣa-pradāyakam, <br/>
 dhyātvā narasiṁhaṁ deveśaṁ hema-siṁhāsana-sthitam”
-</Verse>
 
-<Source>
-<em> Brahmāṇḍa Purāṇa, Narasimha‑Kavacham, verse 2 </em>
-</Source>
-
-<Translation>
 “It bestows every opulence and confers heaven or liberation; meditate on Lord Narasimha, the Lord of gods, seated upon a golden throne”.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Śrīmad‑Bhāgavatam, Canto 7, Chapter 8, Verse 6]
 
-<Verse>
 “trayo lokāḥ saheśvarāḥ tasya me ’bhīta-van mūḍha <br/>
 śāsanaṁ kiṁ balo ’tyagāḥ”
-</Verse>
 
-<Source>
-<em> Śrīmad‑Bhāgavatam, Canto 7, Chapter 8, Verse 6 </em>
-</Source>
-
-<Translation>
 “O fool, when angered, all three worlds and their rulers tremble before my command; by whose power has one become fearless and overstepped my rule?”—Hiraṇyakaśipu to Prahlāda.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Śrīmad‑Bhāgavatam 7.8.17]
 
-<Verse>
 “satyaṁ vidhātuṁ nija-bhṛtya-bhāṣitaṁ vyāptiṁ ca bhūteṣv akhileṣu cātmanaḥ, <br/>
 adṛśyatātyadbhuta-rūpam udvahan stambhe sabhāyāṁ na mṛgaṁ na mānuṣam”
-</Verse>
 
-<Source>
-<em> Śrīmad‑Bhāgavatam 7.8.17 </em>
-</Source>
-
-<Translation>
 “To make true His devotee’s words and show His all‑pervasion, the Lord manifested a most wondrous form from the pillar in the assembly—neither beast nor man”.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Śrīmad‑Bhāgavatam 7.8.42]
 
-<Verse>
 “śrī‑indra uvāca: … muktiḥ teṣāṁ na hi bahumatā <br/>
 nārasiṁhāparaiḥ kim”
-</Verse>
 
-<Source>
-<em> Śrīmad‑Bhāgavatam 7.8.42 </em>
-</Source>
-
-<Translation>
 “Indra said: By the protection of Nārasiṁha, the devas regained their shares; for those intent on His worship, what value is heaven—when liberation stands near?”.
-</Translation>
+
 :::
 
 ## History of the Mandir

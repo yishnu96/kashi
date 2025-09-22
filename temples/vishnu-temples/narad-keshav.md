@@ -54,67 +54,39 @@ Narad Keshav in Kashi is the sacred form of Shri Vishnu established at the ancie
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Bhagavata Purana, Skandha 1, Adhyaya 5, Shloka 11]
 
-<Verse>
 “तद्वाग् विसर्गो जनताघ-विप्लवो यस्मिन् प्रतिश्लोकम् अबद्धवत्यपि। <br/>
 नामान्यनन्तस्य यशोऽङ्कितानि यत् श‍ृण्वन्ति गायन्ति गिरः साधवः॥”
-</Verse>
 
-<Source>
-<em> Bhagavata Purana, Skandha 1, Adhyaya 5, Shloka 11 </em>
-</Source>
-
-<Translation>
 Even if imperfectly composed, speech that bears the names and glories of the Infinite purifies the world; the noble hear and sing it, and sins are washed away.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Rig Veda 1.22.20]
 
-<Verse>
 “एतद् धि विष्णोः परमं पदं सदा पश्यन्ति सूरयो दिवीव चक्षुराततम्।”
-</Verse>
 
-<Source>
-<em> Rig Veda 1.22.20 </em>
-</Source>
-
-<Translation>
 This indeed is the supreme abode of Vishnu; the seers behold it always, like an ever-shining eye in the heavens.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Vaishnava paddhatis]
 
-<Verse>
 “नारदः परमो भक्तो नारायणपरायणः। <br/>
 तस्मिन्स्थितोऽविचालो हि सर्वलोकहिते रतः॥”
-</Verse>
 
-<Source>
-<em> Hari-bhakti traditions (attributed in Vaishnava paddhatis; devotional verse) </em>
-</Source>
-
-<Translation>
 Narada is the supreme devotee, wholly surrendered to Narayana; firmly established in Him, he delights in the welfare of all worlds.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Narada Bhakti Sutra]
 
-<Verse>
 “भक्तियोगोऽथवा प्राह नारदो नारदः प्रिये। <br/>
 साधनं परमं ज्ञेयं प्रेमणः परमं पदम्॥”
-</Verse>
 
-<Source>
-<em> Narada Bhakti Sutra (gist verse; traditional recensional reading varies) </em>
-</Source>
-
-<Translation>
 Narada declares bhakti-yoga as the supreme means; know divine love as the highest goal.
-</Translation>
+
 :::
 
 ## History of the Mandir

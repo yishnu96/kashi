@@ -62,52 +62,32 @@ Prayag Madhav in Kashi is the sacred Vishnu shrine associated with Prayag Tirtha
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Bhagavad Gita, Chapter 18, Verse 78]
 
-<Verse>
+
 “यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। <br/>
 तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥ 18.78॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita, Chapter 18, Verse 78 </em>
-</Source>
-
-<Translation>
 Wherever Lord Krishna, the master of yoga, stands with Arjuna, the wielder of the bow, there certainly abide opulence, victory, prosperity, and firm righteousness—this is the conviction.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Mahabharata, Anushasana Parva]
 
-<Verse>
 “विश्वं विष्णुर्वषट्कारो भूतभव्यभवत्प्रभुः। <br/>
 भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः॥”
-</Verse>
 
-<Source>
-<em> Mahabharata, Anushasana Parva (Vishnu Sahasranama, opening verse) </em>
-</Source>
-
-<Translation>
 He is the universe, Vishnu, the utterer of the Vaṣaṭ; Lord of past, present, and future; creator of beings, sustainer of beings, pure being; the Self of all beings and their nurturer.
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Bhagavad Gita, Chapter 18, Verse 66]
 
-<Verse>
 “सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज। <br/>
 अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥ 18.66॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita, Chapter 18, Verse 66 </em>
-</Source>
-
-<Translation>
 Abandon all other dharmas and take refuge in Me alone. I shall liberate from all sins; do not grieve.
-</Translation>
+
 :::
 
 ## History of the Mandir

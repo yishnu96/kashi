@@ -52,67 +52,44 @@ Gyan Madhav is the sacred Vishnu form established in front of the Gyan Vapi (Wel
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Bhagavad Gita, Chapter 10, Shloka 10]
 
-<Verse>
+
 “तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्। <br/>
 ददामि बुद्धियोगं तं येन मामुपयान्ति ते॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita, Chapter 10, Shloka 10 </em>
-</Source>
-
-<Translation>
 “To those ever-devoted who worship with love, the Lord grants the yoga of intelligence by which they come to Him.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Bhagavad Gita, Chapter 4, Shloka 39]
 
-<Verse>
+
 “श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः। <br/>
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita, Chapter 4, Shloka 39 </em>
-</Source>
 
-<Translation>
 “The disciplined, faithful seeker gains knowledge; attaining knowledge, one swiftly reaches supreme peace.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Srimad Bhagavatam, Skandha 10, Gopi Geet, 10.31.9]
 
-<Verse>
+
 “न खलु गोपिका-नन्दनो भवानखिल-देहिनामन्तरात्मा दृशि।”
-</Verse>
 
-<Source>
-<em> Srimad Bhagavatam, Skandha 10, Gopi Geet, 10.31.9 </em>
-</Source>
-
-<Translation>
 “You are not merely Nanda’s son; You are the indwelling Self of all beings, visible to eyes of bhakti.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Mahabharata invocation]
 
-<Verse>
 “नारायणं नमस्कृत्य नरं चैव नरोत्तमम्। <br/>
 देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥”
-</Verse>
 
-<Source>
-<em> Mahabharata invocation </em>
-</Source>
 
-<Translation>
 “Having bowed to Narayana, Nara the Supreme Man, Devi Saraswati and Vyasa, one then proclaims victory.”
-</Translation>
+
 :::
 
 ## History of the Mandir

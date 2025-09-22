@@ -49,36 +49,20 @@ Gopi Govind is a sacred Vishnu shrine at Lal Ghat in Kashi, celebrated in the Ka
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka [Srimad Bhagavatam, Skandha 10 (Gopi Geet), Chapter 31, Shloka 1]
 
-<Verse>
-“जयति तेऽधिकं जन्मना व्रजः <br/>
-श्रयत इन्दिरा शश्वदत्र हि”
-</Verse>
+"जयति तेऽधिकं जन्मना व्रजः <br/>
+श्रयत इन्दिरा शश्वदत्र हि"
 
-<Source>
-<em> Srimad Bhagavatam, Skandha 10 (Gopi Geet), Chapter 31, Shloka 1 </em>
-</Source>
-
-<Translation>
-“Vraja shines supremely because of the birth of Govinda there, for Lakshmi ever resides in that land sanctified by his presence”.
-</Translation>
+"Vraja shines supremely because of the birth of Govinda there, for Lakshmi ever resides in that land sanctified by his presence".
 :::
 
-:::shloka
+:::shloka [Srimad Bhagavatam, Skandha 10 (Gopi Geet), Chapter 31, Shloka 9]
 
-<Verse>
-“न खलु गोपिका-नन्दनो भवन् <br/>
-अखिल-देहिनामन्तरात्मा दृशि”
-</Verse>
+"न खलु गोपिका-नन्दनो भवन् <br/>
+अखिल-देहिनामन्तरात्मा दृशि"
 
-<Source>
-<em> Srimad Bhagavatam, Skandha 10 (Gopi Geet), Chapter 31, Shloka 9 </em>
-</Source>
-
-<Translation>
-“You are not merely the son of Nanda; you are the indwelling soul of all beings, visible to eyes steeped in devotion”.
-</Translation>
+"You are not merely the son of Nanda; you are the indwelling soul of all beings, visible to eyes steeped in devotion".
 :::
 
 ## History of the Mandir

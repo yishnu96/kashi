@@ -52,20 +52,13 @@ Yagya Varaha is the sacred Varaha presence of Lord Vishnu in Kashi, where worshi
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61, Shloka 17]
 
-<Verse>
 “तीर्थे यज्ञवराहाख्ये यज्ञवाराहसंज्ञकः <br/>
 नरैः समर्चनीयोऽहं सर्वयज्ञफलेप्सुभिः”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61, Shloka 17 </em>
-</Source>
-
-<Translation>
 “At the Tirtha named Yajna-Varaha, I am present as Yajna-Varaha; those desiring the fruits of all Yajnas should worship Me there.”
-</Translation>
+
 :::
 
 ## History of the Mandir

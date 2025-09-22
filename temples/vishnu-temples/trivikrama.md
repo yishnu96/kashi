@@ -49,20 +49,13 @@ Trivikrama is a sacred form of Lord Vishnu established in Kashi near Trilochan M
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61, Shloka 200]
 
-<Verse>
 “त्रिविक्रमोऽस्म्यहं काश्यामुदीच्यां च त्रिलोचनात्<br/>
 ददामि पूजितो लक्ष्मीं हरामि वृजिनान्यपि।”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61, Shloka 200 </em>
-</Source>
-
-<Translation>
 “In Kashi, to the north of Trilochan, I am established as Trivikrama; when worshipped I grant Lakshmi and remove sins.”
-</Translation>
+
 :::
 
 ## History of the Mandir

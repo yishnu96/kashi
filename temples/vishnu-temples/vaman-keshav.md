@@ -54,54 +54,34 @@ Vaman Keshav is the sacred Vamana form of Lord Vishnu in Kashi, established at T
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shlokap-[Mahabharata, Anushasana Parva (Vishnu‑dhyāna)]
 
-<Verse>
 “शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम्। <br/>
 विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्॥ <br/>
 लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्। <br/>
 वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥”
-</Verse>
 
-<Source>
-<em> Mahabharata, Anushasana Parva (Vishnu‑dhyāna) </em>
-</Source>
 
-<Translation>
 “Salutations to Vishnu—peaceful in form, reclining on the serpent, lotus‑navel, Lord of gods, support of the universe, sky‑like, cloud‑hued, auspicious‑limbed, beloved of Lakshmi, lotus‑eyed, reachable by yogis in meditation, remover of fear, the one Lord of all worlds.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61]
 
-<Verse>
 “त्रिविक्रमोऽस्म्यहं काश्यामुदीच्यां च त्रिलोचनात्। <br/>
 ददामि पूजितो लक्ष्मीं हरामि वृजिनान्यपि॥”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61 </em>
-</Source>
-
-<Translation>
 “In Kashi, to the north of Trilochan, I am present as Trivikrama; when worshipped I grant Lakshmi and remove sins.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Bhagavad Gita 18.66]
 
-<Verse>
 “सर्वधर्मान् परित्यज्य मामेकं शरणं व्रज। <br/>
 अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita 18.66 </em>
-</Source>
-
-<Translation>
 “Abandoning all duties, take refuge in Me alone; I shall free from all sins and grant liberation—do not grieve.”
-</Translation>
+
 :::
 
 ## History of the Mandir

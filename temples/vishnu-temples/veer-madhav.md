@@ -55,36 +55,22 @@ Veer Madhav is the courageous Madhav form of Lord Vishnu established in Kashi to
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Vaishnava stotra]
 
-<Verse>
 “वसुदेवसुतं देवं कंसचाणूरमर्दनम्। <br/>
 देवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम्॥”
-</Verse>
 
-<Source>
-<em> Traditional Vaishnava stotra </em>
-</Source>
-
-<Translation>
 “Salutations to Krishna, son of Vasudeva, destroyer of Kamsa and Chanura, supreme joy of Devaki, the world’s teacher.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Bhagavad Gita 18.66]
 
-<Verse>
 “सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। <br/>
 अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita 18.66 </em>
-</Source>
-
-<Translation>
 “Abandon all duties and take refuge in Me alone; I shall free from all sins and grant liberation—do not grieve.”
-</Translation>
+
 :::
 
 ## History of the Mandir

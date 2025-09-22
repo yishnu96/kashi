@@ -55,20 +55,13 @@ Tribhuwan Keshav is the sacred Keshava form of Lord Vishnu established to the so
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Skanda Purana, Kashi Khand, Chapter 61, Shloka 26]
 
-<Verse>
 “वन्ध्यास्त्रिलोकसुन्दर्या याम्यां यो मां समर्चयेत् <br/>
 काश्यां ख्यातं त्रिभुवनकेशवं न स गर्भभाक्”
-</Verse>
 
-<Source>
-<em> Skanda Purana, Kashi Khand, Chapter 61, Shloka 26 </em>
-</Source>
-
-<Translation>
 “To the south of Trilokya Sundari in Kashi, I am renowned as Tribhuvan Keshava; whoever worships Me here does not enter the womb again.”
-</Translation>
+
 :::
 
 ## History of the Mandir

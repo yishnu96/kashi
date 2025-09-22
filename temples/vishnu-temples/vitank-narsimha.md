@@ -53,52 +53,31 @@ Vitank Narsimha is the fierce, protective form of Lord Vishnu established at Ked
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Nṛsiṁha Stotra]
 
-<Verse>
 “उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्। <br/>
 नृसिंहं भीषणं भद्रं मृत्योर् मृत्युँ नमाम्यहम्॥”
-</Verse>
 
-<Source>
-<em> Nṛsiṁha Stotra (Vaishnava tradition) </em>
-</Source>
-
-<Translation>
 “Obeisance to Narasimha—terrible and heroic, the great Vishnu, blazing, all‑faced, both fearsome and auspicious, the death of Death.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Nṛsiṁha Stuti]
 
-<Verse>
 “नमस्ते नरसिंहाय प्रह्लादहलाददायिने। <br/>
 हिरण्यकशिपोर्वक्षःशिला टङ्क नखालये॥”
-</Verse>
 
-<Source>
-<em> Nṛsiṁha Stuti (Vaishnava tradition) </em>
-</Source>
-
-<Translation>
 “Salutations to Narasimha, giver of joy to Prahlada, whose nails split the stone‑hard chest of Hiranyakashipu.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Bhagavad Gita 8.5]
 
-<Verse>
 “अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्। <br/>
 यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः॥”
-</Verse>
 
-<Source>
-<em> Bhagavad Gita 8.5 </em>
-</Source>
-
-<Translation>
 “One who, at the end, remembers Me alone and departs the body attains My state; of this there is no doubt.”
-</Translation>
+
 :::
 
 ## History of the Mandir

@@ -54,54 +54,33 @@ Vidar Narsimha is the fierce and protective form of Lord Vishnu established at P
 
 ## Scriptural Quote (Shloka)
 
-:::shloka
+:::shloka[Nṛsiṁha Stuti]
 
-<Verse>
 “नमस्ते नरसिंहाय प्रह्लादहलाददायिने। <br/>
 हिरण्यकशिपोर्वक्षःशिला टङ्क नखालये॥”
-</Verse>
 
-<Source>
-<em> Nṛsiṁha Stuti (Vaishnava tradition) </em>
-</Source>
-
-<Translation>
 “Salutations to Narasimha, the giver of joy to Prahlada, whose nails tore the stone‑hard chest of Hiranyakashipu.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Nṛsiṁha Stotra]
 
-<Verse>
 “उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्। <br/>
 नृसिंहं भीषणं भद्रं मृत्योर् मृत्युँ नमाम्यहम्॥”
-</Verse>
 
-<Source>
-<em> Nṛsiṁha Stotra (Vaishnava tradition) </em>
-</Source>
-
-<Translation>
 “I bow to Narasimha—terrible and heroic, the great Vishnu, blazing and all‑faced, both fierce and auspicious, the death of Death.”
-</Translation>
+
 :::
 
-:::shloka
+:::shloka[Narasimha hymns]
 
-<Verse>
 “सत्यं विदधतं निजभृत्यभाषितं <br/>
 व्याप्तं स्वभूतेषु जगत् त्रयम् पुरा। <br/>
 भूभृत् च भूदर्युदयं ददत् विभो <br/>
 त्वं नक्खरैर्दैत्यरुधिरं मनोहरम्॥”
-</Verse>
 
-<Source>
-<em> Prahlada’s praise (Narasimha hymns, Puranic tradition) </em>
-</Source>
-
-<Translation>
 “Fulfilling the words of Your devotee, sustaining the three worlds within Yourself, O Lord, with Your nails You made the Daitya’s blood a wondrous sight, upholding dharma’s rise on earth.”
-</Translation>
+
 :::
 
 ## History of the Mandir
