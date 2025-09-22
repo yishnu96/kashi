@@ -72,3 +72,10 @@ vaishnava:
   label: Vaishnava Tradition
   permalink: /vaishnava-tradition
   description: Centered on Lord Vishnu and his avatars like Krishna and Rama as the Supreme God, the Vaishnava tradition is a major path in Hinduism that also venerates his consort Lakshmi.
+
+
+# Vinayak Temples tags
+
+vinayak:
+  label: Vinayak
+  description: Temples dedicated to Lord Ganesha, the remover of obstacles and god of beginnings.

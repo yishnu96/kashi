@@ -1,11 +1,11 @@
 ---
 id: 
 sidebar_label: 
-title: Strictly between 35 to 40 char which should be SEO Friendly Don't user Kashi here
+title: Strictly between 35 to 40 char which should be SEO Friendly Don't user Kashi or Varanashi here
 description: SEO Friendly Description in 130 to 140 char
 keywords: [ Few SEO Friendly Keywords 5 to 10 including primary and Secondly ]
 tags:
-  - vaishnava
+  - vinayak
   - temple
 ---
 
@@ -30,7 +30,7 @@ A small Paragraph eg: Adi Keshav stands at the sacred confluence of the Ganga an
 #### Worship
 
 - **Significance of Worship**: Darshan of Adi Keshav cleanses sadness, bestows happiness, and grants mukti. Worship integrates Sangameshwar at the Varuna–Ganga Sangam, conferring moksha as per Kashi Khanda.
-- **Pooja Procedure**: Perform snan or achamana at Padodaka Tirtha (Varuna–Ganga confluence), take darshan of Sangameshwar in the complex, and then offer prayers to Adi Keshav as per Vaishnava paddhati within the temple timings.
+- **Pooja Procedure**: Perform snan or achamana at Padodaka Tirtha (Varuna–Ganga confluence), take darshan of Sangameshwar in the complex, and then offer prayers to Adi Keshav as per Vaishnava paddhati within the temple timings. (Keep things Crisp)
  
 #### Location
 
