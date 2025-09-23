@@ -79,3 +79,13 @@ vaishnava:
 vinayak:
   label: Vinayak
   description: Temples dedicated to Lord Ganesha, the remover of obstacles and god of beginnings.
+
+ashta_pradhan:
+  label: Ashta Pradhan
+  permalink: /ashta-pradhan
+  description: The Ashta Pradhan are the eight principal ministers in the court of Lord Ganesha, each overseeing a specific aspect of governance and administration. They symbolize the various facets of wisdom and leadership that support Ganesha's role as the remover of obstacles and the god of beginnings.
+
+chappan:
+  label: Chappan Vinayak
+  permalink: /chappan-vinayak
+  description: The Chappan Vinayak are a group of 56 sacred temples dedicated to Lord Ganesha, located in the holy city of Varanasi (Kashi). Each temple represents a unique aspect of Ganesha, and together they form a revered pilgrimage circuit for devotees seeking his blessings for wisdom, prosperity, and the removal of obstacles.

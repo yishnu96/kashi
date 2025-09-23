@@ -18,6 +18,9 @@ Temple List : https://docs.google.com/spreadsheets/d/1kwwqZEGb62EJ3_lBmndTFPboNY
 
 https://varanasitemples.in/
 
+https://kalyangeetha.wordpress.com/2021/05/12/divine-and-rare-varanasi-temples-darshan-part-1-of-4/
+
 https://kashiyatra.com/
 
 http://pawanpath.up.gov.in/
+
