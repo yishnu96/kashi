@@ -1,7 +1,7 @@
 ---
 
 id: nagesh-vinayak
-sidebar\_label: Nagesh Vinayak
+sidebar_label: Nagesh Vinayak
 title: Nagesh Vinayak - Naga Protector
 description: Nagesh Vinayak grants honor in Nagaloka and protection from serpent afflictions, making it a must-visit shrine for Ganesh and Naga worship.
 keywords: [Nagesh Vinayak, Ganesh, Nagaloka, protection, serpent, Bhosale Ghat]
