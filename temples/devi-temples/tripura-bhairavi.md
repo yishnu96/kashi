@@ -51,11 +51,12 @@ Tripura Bhairavi stands as one of the most ancient and revered Devi temples in K
 * **Prerequisites & Etiquette**: Wear red or pink-colored clothes. Face south during worship. Maintain ritual purity and a devotional attitude during darshan.
 
 ## Scriptural Quote (Shloka)
-> **ऐं ह्रीं श्रीं त्रिपुर सुंदरीयै नमः**
+:::shloka [Traditional Mahavidya Mantra from Tantra Shastra]
 
-Source: *Traditional Mahavidya Mantra from Tantra Shastra*
+ऐं ह्रीं श्रीं त्रिपुर सुंदरीयै नमः
 
-Translation: "I bow to Tripura Sundari (Bhairavi), the beautiful goddess of the three worlds, invoking her divine energy with the sacred seed syllables Aim, Hreem, and Shreem."
+"I bow to Tripura Sundari (Bhairavi), the beautiful goddess of the three worlds, invoking her divine energy with the sacred seed syllables Aim, Hreem, and Shreem."
+:::
 
 ## History of the Mandir
 * The temple finds detailed mention in the Kashi Khanda of Skanda Purana, establishing its ancient scriptural foundation.

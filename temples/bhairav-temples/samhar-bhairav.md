@@ -61,13 +61,15 @@ Samhar Bhairav stands as the seventh guardian among the sacred **[Ashta Bhairava
 
 ## Scriptural Quote (Shloka)
 
-> **संहारभैरवो देवो दशभुजो त्रिलोचनः।**<br/>
-> **ऊर्ध्वरेता महावीरो भैरवक्षेत्रवासकः॥**<br/>
-> **पापसंहारकर्ता च अष्टैश्वर्यप्रदायकः।**<br/>
-> **भक्तानां पापनाशार्थं काश्यां तिष्ठति सर्वदा॥**
+:::shloka [Skanda Purana, Kashi Khand, Chapter 69]
 
-Source: *Skanda Purana, Kashi Khand, Chapter 69*
-Translation: "Samhar Bhairav is the divine deity with ten arms and three eyes, the great warrior dwelling in Bhairav Kshetra. He destroys sins and grants the eight forms of divine wealth, residing eternally in Kashi for the spiritual purification of his devotees."
+संहारभैरवो देवो दशभुजो त्रिलोचनः।<br/>
+ऊर्ध्वरेता महावीरो भैरवक्षेत्रवासकः॥<br/>
+पापसंहारकर्ता च अष्टैश्वर्यप्रदायकः।<br/>
+भक्तानां पापनाशार्थं काश्यां तिष्ठति सर्वदा॥
+
+"Samhar Bhairav is the divine deity with ten arms and three eyes, the great warrior dwelling in Bhairav Kshetra. He destroys sins and grants the eight forms of divine wealth, residing eternally in Kashi for the spiritual purification of his devotees."
+:::
 
 ## History of the Mandir
 

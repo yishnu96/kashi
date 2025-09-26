@@ -51,11 +51,12 @@ Shringar Gauri, the divine embodiment of beauty and adornment, holds supreme sig
 * **Prerequisites & Etiquette**: Bathe in the Ganga before darshan. Dress modestly and remove shoes before entering temple premises. Maintain silence and avoid photography. Do not touch sacred objects directly. Follow clockwise circumambulation only.
 
 ## Scriptural Quote (Shloka)
-> **गौर्या: पूजां तु ये कुर्वन्ति श्रृंगारे च विशेषत:।**
+:::shloka [Kashi Khand, Chapter 100]
 
-Source: *Kashi Khand, Chapter 100*
+गौर्या: पूजां तु ये कुर्वन्ति श्रृंगारे च विशेषत:।
 
-Translation: "Those who worship Gauri, especially in her Shringar form, undoubtedly receive the fulfillment of all their desires and wishes."
+"Those who worship Gauri, especially in her Shringar form, undoubtedly receive the fulfillment of all their desires and wishes."
+:::
 
 ## History of the Mandir
 * **1170-1189 AD**: Maharaja Jayachandra of Kanauj constructed the original grand Shiva temple at this site.

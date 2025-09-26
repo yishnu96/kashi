@@ -57,12 +57,13 @@ Mangala Gauri Temple in Kashi stands as one of the nine sacred Nav Gauri shrines
 
 ## Scriptural Quote (Shloka)
 
-> **नवगौरी काशीपुरे यात्रिणो ये नराः सदा**<br/>
-> **ते लभन्ते सुखं सर्वं पापं नश्यति तत्क्षणम्॥**
+:::shloka [Skanda Purana, Kashi Khanda]
 
-Source: *Skanda Purana, Kashi Khanda*
+नवगौरी काशीपुरे यात्रिणो ये नराः सदा<br/>
+ते लभन्ते सुखं सर्वं पापं नश्यति तत्क्षणम्॥
 
-Translation: "Those devotees who undertake the pilgrimage to the Nav Gauri temples in Kashipuri always obtain complete happiness, and their sins are destroyed instantly."
+"Those devotees who undertake the pilgrimage to the Nav Gauri temples in Kashipuri always obtain complete happiness, and their sins are destroyed instantly."
+:::
 
 ## History of the Mandir
 - The Mangala Gauri Temple is mentioned in ancient scriptures including the Skanda Purana's Kashi Khanda, establishing its antiquity as one of Kashi's oldest religious sites.

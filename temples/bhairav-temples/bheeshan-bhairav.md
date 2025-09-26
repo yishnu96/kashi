@@ -55,12 +55,13 @@ Bheeshan Bhairav Temple stands as one of the eight sacred Ashta Bhairav shrines 
 
 ## Scriptural Quote (Shloka)
 
-> **भैरवस्य प्रसादेन सर्वसिद्धिर्भविष्यति ।** <br/>
-> **रक्षां करोति भक्तानां भूतप्रेतपिशाचकाः ॥**
+:::shloka [Skanda Purana, Kashi Khanda]
 
-Source: *Kashi Khanda, Skanda Purana*
+भैरवस्य प्रसादेन सर्वसिद्धिर्भविष्यति । <br/>
+रक्षां करोति भक्तानां भूतप्रेतपिशाचकाः ॥
 
-Translation: "By the grace of Bhairav, all accomplishments shall be achieved. He protects his devotees from ghosts, spirits, and demons."
+By the grace of Bhairav, all accomplishments shall be achieved. He protects his devotees from ghosts, spirits, and demons.
+:::
 
 ## History of the Mandir
 

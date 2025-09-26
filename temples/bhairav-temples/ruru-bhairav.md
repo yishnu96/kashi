@@ -58,14 +58,15 @@ Ruru Bhairav stands as the second guardian among the sacred **[Ashta Bhairava](/
 
 ## Scriptural Quote (Shloka)
 
-> **रुरुभैरवो गुरुर्देवो ज्ञानविद्याप्रदायकः।**<br/>
-> **त्रिनेत्रो श्वेतवर्णश्च दक्षिणोत्तरदिक्पालः॥**<br/>
-> **वीणापुस्तकहस्तश्च रत्नमाल्यविभूषितः।**<br/>
-> **भक्तानां सर्वविद्यासु सिद्धिदः परमेश्वरः॥**
+:::shloka [Skanda Purana, Kashi Khand]
 
-Source: *Skanda Purana, Kashi Khand*
+रुरुभैरवो गुरुर्देवो ज्ञानविद्याप्रदायकः।<br/>
+त्रिनेत्रो श्वेतवर्णश्च दक्षिणोत्तरदिक्पालः॥<br/>
+वीणापुस्तकहस्तश्च रत्नमाल्यविभूषितः।<br/>
+भक्तानां सर्वविद्यासु सिद्धिदः परमेश्वरः॥
 
-Translation: "Ruru Bhairav is the divine guru who bestows knowledge and learning. He is three-eyed, fair-complexioned, and guardian of the South-North direction. Holding veena and book in his hands, adorned with gem-studded ornaments, he is the Supreme Lord who grants mastery in all forms of knowledge to his devotees."
+"Ruru Bhairav is the divine guru who bestows knowledge and learning. He is three-eyed, fair-complexioned, and guardian of the South-North direction. Holding veena and book in his hands, adorned with gem-studded ornaments, he is the Supreme Lord who grants mastery in all forms of knowledge to his devotees."
+:::
 
 ## History of the Mandir
 

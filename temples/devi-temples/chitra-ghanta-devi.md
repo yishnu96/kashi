@@ -59,21 +59,23 @@ Chitra Ghanta Devi Temple in Kashi stands as one of the most powerful Devi shrin
 
 ## Scriptural Quote (Shloka)
 
-> **चित्रकूपे स्नानं कृत्वा चित्रगुप्तेश्वरं नत्वा।** <br/>
-> **चित्रघण्टां समाराध्य न लिख्यते चित्रगुप्तके॥**
+:::shloka [Kashi Khand, Chapter 70]
 
-Source: *Kashi Khand, Chapter 70*
+चित्रकूपे स्नानं कृत्वा चित्रगुप्तेश्वरं नत्वा। <br/>
+चित्रघण्टां समाराध्य न लिख्यते चित्रगुप्तके॥
 
-Translation: "By bathing in Chitra Koop, bowing to Chitra Gupteshwar, and worshipping Chitra Ghanta Devi, one's name shall never be written in the books of Chitra Gupta."
+"By bathing in Chitra Koop, bowing to Chitra Gupteshwar, and worshipping Chitra Ghanta Devi, one's name shall never be written in the books of Chitra Gupta."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **पिण्डज प्रवररूढा चण्डकोपास्त्रकैर्युता।** <br/>
-> **प्रसादं तनुते मह्यं चन्द्रघण्टेति विश्रुता॥**
 
-Source: *Skanda Purana, Kashi Khand*
+:::shloka [Skanda Purana, Kashi Khand]
 
-Translation: "She who rides upon the excellent lion, armed with weapons of fierce anger, may she who is renowned as Chandraghanta bestow her grace upon me."
+पिण्डज प्रवररूढा चण्डकोपास्त्रकैर्युता। <br/>
+प्रसादं तनुते मह्यं चन्द्रघण्टेति विश्रुता॥
+
+"She who rides upon the excellent lion, armed with weapons of fierce anger, may she who is renowned as Chandraghanta bestow her grace upon me."
+:::
 
 ## History of the Mandir
 

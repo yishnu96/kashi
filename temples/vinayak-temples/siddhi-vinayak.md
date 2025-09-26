@@ -7,6 +7,7 @@ keywords: [Siddhivinayak, Mumbai, Ganesha, Prabhadevi, wish-fulfilling, success,
 tags:
   - vinayak
   - temple
+  - ashta_vinayak
 ---
 
 # Shree Siddhivinayak Temple, Mumbai

@@ -54,11 +54,13 @@ Vishwa Bhuja Gauri, the twenty-armed manifestation of the Divine Mother, stands 
 
 ## Scriptural Quote (Shloka)
 
-> **विश्वभुजा गौरी सर्वलोकप्रिया सदा।** <br/>
-> **सर्वविघ्नहरी देवी भक्तानां मनोरथप्रदा॥**
+:::shloka [Skanda Purana, Kashi Khand, Chapter 70]
 
-Source: *Skanda Purana, Kashi Khand, Chapter 70*
-Translation: "Vishwa Bhuja Gauri is always beloved by all worlds. This divine goddess removes all obstacles and fulfills the heartfelt desires of her devotees."
+विश्वभुजा गौरी सर्वलोकप्रिया सदा। <br/>
+सर्वविघ्नहरी देवी भक्तानां मनोरथप्रदा॥
+
+"Vishwa Bhuja Gauri is always beloved by all worlds. This divine goddess removes all obstacles and fulfills the heartfelt desires of her devotees."
+:::
 
 ## History of the Mandir
 

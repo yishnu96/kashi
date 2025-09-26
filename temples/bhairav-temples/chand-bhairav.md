@@ -51,12 +51,14 @@ Chand Bhairav stands as the third guardian among the sacred Ashta Bhairav shrine
 * **Prerequisites & Etiquette**: No specific prerequisites are required. Devotees should maintain respectful behavior within the temple premises and follow general temple etiquette while offering prayers to both Chand Bhairav and the other deities in the complex.
 
 ## Scriptural Quote (Shloka)
-> **चण्डो भैरवः दक्षिणदिक्पालो गुरुर्महान्।** <br/>
-> **त्रिनेत्रो नीलवर्णश्च शत्रुजित्प्रदायकः॥**
 
-Source: *Kashi Khand, Skanda Purana*
+:::shloka [Skanda Purana, Kashi Khand]
 
-Translation: "Chand Bhairav is the great guardian of the southern direction, the revered guru. He is three-eyed, blue-complexioned, and grants victory over enemies."
+चण्डो भैरवः दक्षिणदिक्पालो गुरुर्महान्। <br/>
+त्रिनेत्रो नीलवर्णश्च शत्रुजित्प्रदायकः॥
+
+Chand Bhairav is the great guardian of the southern direction, the revered guru. He is three-eyed, blue-complexioned, and grants victory over enemies.
+:::
 
 ## History of the Mandir
 

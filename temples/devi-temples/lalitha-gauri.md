@@ -53,12 +53,13 @@ Devotees who worship Lalitha Gauri with sincere devotion receive all wealth and 
 * **Prerequisites & Etiquette**: Taking a holy bath in the Ganga at Lalita Ghat before visiting the temple is considered spiritually beneficial. Dress modestly and maintain temple sanctity. Photography is restricted inside the sanctum.
 
 ## Scriptural Quote (Shloka)
-> **“ललिता तीर्थे स्नानं कृत्वा ललिता गौरी पूजयेत्।** <br/>
-> **सर्व सम्पत्ति लाभश्च मोक्षश्च न संशयः॥”**
+:::shloka [Kashi Khand, Chapter 70]
 
-Source: *Kashi Khand, Chapter 70*
+“ललिता तीर्थे स्नानं कृत्वा ललिता गौरी पूजयेत्। <br/>
+सर्व सम्पत्ति लाभश्च मोक्षश्च न संशयः॥”
 
-Translation: "One who takes bath in Lalita Teerth and worships Lalita Gauri will surely be blessed with all prosperity and ultimate liberation, there is no doubt about this."
+"One who takes bath in Lalita Teerth and worships Lalita Gauri will surely be blessed with all prosperity and ultimate liberation, there is no doubt about this."
+:::
 
 ## History of the Mandir
 - Built between 1800-1804 during the early 19th century

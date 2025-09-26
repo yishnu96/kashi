@@ -56,21 +56,23 @@ The Chamunda Devi Temple in Kashi is a revered spiritual site, dedicated to the 
 
 ## Scriptural Quote (Shloka)
 
-> **त्वया यदा रक्षिता चण्डमुण्डौ विनाशितौ ।** <br/>
-> **तेन त्वं चामुण्डा देवी प्रसिद्धा सुरादिभिः ॥**
+:::shloka [Devi Mahatmya, Chapter 8, Shloka 57]
 
-Source: *Devi Mahatmya, Chapter 8, Shloka 57*
+त्वया यदा रक्षिता चण्डमुण्डौ विनाशितौ । <br/>
+तेन त्वं चामुण्डा देवी प्रसिद्धा सुरादिभिः ॥
 
-Translation: "O Devi! When you protected and destroyed Chanda and Munda, you became well-known among the gods as Chamunda."
+"O Devi! When you protected and destroyed Chanda and Munda, you became well-known among the gods as Chamunda."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **चामुण्डायै च विद्महे महादेव्या धीमहि ।** <br/>
-> **तन्नो देवी प्रचोदयात् ॥**
 
-Source: *Chamunda Devi Stotra*
+:::shloka [Chamunda Devi Stotra]
 
-Translation: "Let us meditate upon Chamunda, the Great Goddess. May that Devi grant us inspiration."
+चामुण्डायै च विद्महे महादेव्या धीमहि । <br/>
+तन्नो देवी प्रचोदयात् ॥
+
+"Let us meditate upon Chamunda, the Great Goddess. May that Devi grant us inspiration."
+:::
 
 ## History of the Mandir
 

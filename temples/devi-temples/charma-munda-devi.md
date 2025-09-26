@@ -57,19 +57,23 @@ Charma Munda Devi Temple in Kashi is the sacred protector shrine where the godde
 
 ## Scriptural Quote (Shloka)
 
-> **अहो विश्वं निग्रहणाय, सहस्त्रबाहु: शूलचर्मकपालधृता।** <br/>
-> **धर्मपथरक्षकायै नमः चरममुण्डायै॥**
+:::shloka [Kashi Khanda, Chapter 70, Shloka 12]
 
-Source: *Kashi Khanda, Chapter 70, Shloka 12*
-Translation: "Behold, the thousand-armed Goddess, wielder of trident, with skin and skull in hand, who devours the universe—salutations to Charma Munda Devi, the guardian of the path of dharma."
+अहो विश्वं निग्रहणाय, सहस्त्रबाहु: शूलचर्मकपालधृता। <br/>
+धर्मपथरक्षकायै नमः चरममुण्डायै॥
 
-<div align="center"> ● ● ● ● </div>
+"Behold, the thousand-armed Goddess, wielder of trident, with skin and skull in hand, who devours the universe—salutations to Charma Munda Devi, the guardian of the path of dharma."
+:::
 
-> **कर्मदोषनाशाय चरममुण्डा देवी काशीपुरी निवासिनी।** <br/>
-> **शरणागतस्य रक्षां करोतु सदा॥**
 
-Source: *Kashi Khanda, Chapter 70, Shloka 17*
-Translation: "Charma Munda Devi, resident of Kashi, destroys the effects of bad actions—may she always protect those who surrender at her feet."
+
+:::shloka [Kashi Khanda, Chapter 70, Shloka 17]
+
+कर्मदोषनाशाय चरममुण्डा देवी काशीपुरी निवासिनी। <br/>
+शरणागतस्य रक्षां करोतु सदा॥
+
+"Charma Munda Devi, resident of Kashi, destroys the effects of bad actions—may she always protect those who surrender at her feet."
+:::
 
 ## History of the Mandir
 

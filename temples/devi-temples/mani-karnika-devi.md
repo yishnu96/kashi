@@ -53,12 +53,13 @@ Mani Karnika Devi stands as one of Kashi's most sacred Shakti temples, revered f
 
 ## Scriptural Quote (Shloka)
 
-> **सर्वतीर्थेषु संस्नानाद्यत्पुण्यं समवाप्यते**<br/>
-> **तत्पुण्यमाप्यते सम्यङ्ग मणिकर्णयेकमज्जनात्**
+:::shloka [Kashi Khand, Chapter 26, Shloka 117]
 
-Source: *Kashi Khand, Chapter 26, Shloka 117*
+सर्वतीर्थेषु संस्नानाद्यत्पुण्यं समवाप्यते<br/>
+तत्पुण्यमाप्यते सम्यङ्ग मणिकर्णयेकमज्जनात्
 
-Translation: The merit gained from bathing in all the holy places combined can be achieved by a single dip in Manikarnika.
+"The merit gained from bathing in all the holy places combined can be achieved by a single dip in Manikarnika."
+:::
 
 ## History of the Mandir
 - The temple exists at one of the most ancient sacred sites in Kashi, with references dating back to the Gupta period (4th-5th century CE)

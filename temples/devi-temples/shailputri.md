@@ -57,12 +57,13 @@ The sacred Shailputri Temple stands as Kashi's most revered shrine dedicated to 
 
 ## Scriptural Quote (Shloka)
 
-> **वन्दे वाञ्छितलाभाय चन्द्रार्धकृतशेखराम्।** <br/>
-> **वृषारुढां शूलधरां शैलपुत्रीं यशस्विनीम्॥**
+:::shloka [Traditional Shailputri Stotra]
 
-Source: *Traditional Shailputri Stotra*
+वन्दे वाञ्छितलाभाय चन्द्रार्धकृतशेखराम्। <br/>
+वृषारुढां शूलधरां शैलपुत्रीं यशस्विनीम्॥
 
-Translation: "I bow to the illustrious Shailputri, who grants desired benefits, whose forehead is adorned with the crescent moon, who rides the bull and holds the trident."
+"I bow to the illustrious Shailputri, who grants desired benefits, whose forehead is adorned with the crescent moon, who rides the bull and holds the trident."
+:::
 
 ## History of the Mandir
 

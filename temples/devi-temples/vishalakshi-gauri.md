@@ -60,19 +60,23 @@ The sacred Vishalakshi Gauri Temple stands as one of Kashi's most powerful Shakt
 
 ## Scriptural Quote (Shloka)
 
-> **विशालाक्षी महादेवी कुंकुमाद्रि निवासिनी।**<br/>
-> **गंगातीरे महामाये सर्वकामफलप्रदे॥**
+:::shloka [Skanda Purana, Kashi Khand, Chapter 70]
 
-Source: *Skanda Purana, Kashi Khand, Chapter 70*
-Translation: "O Vishalakshi, the Great Goddess who resides on the saffron mountain, O Great Maya dwelling on the banks of Ganga, you are the grantor of all desired fruits and wishes."
+विशालाक्षी महादेवी कुंकुमाद्रि निवासिनी।<br/>
+गंगातीरे महामाये सर्वकामफलप्रदे॥
 
-<div align="center"> ● ● ● ● </div>
+"O Vishalakshi, the Great Goddess who resides on the saffron mountain, O Great Maya dwelling on the banks of Ganga, you are the grantor of all desired fruits and wishes."
+:::
 
-> **नवगौरी यात्रा पुण्या सर्वपापप्रणाशिनी।**<br/>
-> **विशालाक्षी समायुक्ता मोक्षदा परमेश्वरी॥**
 
-Source: *Kashi Khand, Chapter 100 (Nav Gauri Yatra reference)*
-Translation: "The pilgrimage of nine Gauris is most sacred and destroys all sins. Vishalakshi, united with the Supreme Lord, grants liberation."
+
+:::shloka [Kashi Khand, Chapter 100 (Nav Gauri Yatra reference)]
+
+नवगौरी यात्रा पुण्या सर्वपापप्रणाशिनी।<br/>
+विशालाक्षी समायुक्ता मोक्षदा परमेश्वरी॥
+
+"The pilgrimage of nine Gauris is most sacred and destroys all sins. Vishalakshi, united with the Supreme Lord, grants liberation."
+:::
 
 ## History of the Mandir
 

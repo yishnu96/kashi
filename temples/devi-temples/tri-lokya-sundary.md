@@ -57,11 +57,13 @@ Located near the sacred Pita Maheshwar in Kashmiri Mal ki Haveli, Tri Lokya Sund
 
 ## Scriptural Quote (Shloka)
 
-> **नलकूपेश्वरस्यासे कुब्जाम्बेश्वरलिङ्गकम्।**<br/>
-> **तत्र त्रिलोक्यसुन्दरीं पूजयेत् भक्तिमानसः॥**
+:::shloka [Kashi Khand, Chapter 70]
 
-Source: *Kashi Khand, Chapter 70*
-Translation: "Near Nal Koopeshwar, one can find Kubjambeshwar Linga. In that vicinity, the devoted devotee should worship Tri Lokya Sundari."
+नलकूपेश्वरस्यासे कुब्जाम्बेश्वरलिङ्गकम्।<br/>
+तत्र त्रिलोक्यसुन्दरीं पूजयेत् भक्तिमानसः॥
+
+"Near Nal Koopeshwar, one can find Kubjambeshwar Linga. In that vicinity, the devoted devotee should worship Tri Lokya Sundari."
+:::
 
 ## History of the Mandir
 

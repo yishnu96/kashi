@@ -52,11 +52,13 @@ This ancient underground temple in Kashi is dedicated to Varahi Devi, the fierce
 
 ## Scriptural Quote (Shloka)
 
-> **वाराही रक्षति सदा काशीं रात्रौ विशेषतः।** <br/>
-> **प्रातःकाले निवर्तन्ती मन्दिरे शयनं करोति॥**
+:::shloka [Skanda Purana, Kashi Khand]
 
-Source: *Skanda Purana, Kashi Khand*
-Translation: "Varahi always protects Kashi, especially during the night. At dawn, she returns and rests in her temple."
+वाराही रक्षति सदा काशीं रात्रौ विशेषतः। <br/>
+प्रातःकाले निवर्तन्ती मन्दिरे शयनं करोति॥
+
+"Varahi always protects Kashi, especially during the night. At dawn, she returns and rests in her temple."
+:::
 
 ## History of the Mandir
 

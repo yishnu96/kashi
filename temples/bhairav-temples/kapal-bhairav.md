@@ -61,14 +61,15 @@ Kapal Bhairav stands as the fourth guardian among the sacred **[Ashta Bhairava](
 
 ## Scriptural Quote (Shloka)
 
-> **कपालं ब्रह्मणो यस्माद्भैरवस्य करे स्थितम्।** <br/>
-> **काश्यां पतितमेवास्य कपालभैरव: स्मृत:॥** <br/>
-> **ब्रह्महत्यादिपापेभ्यो मुक्तिदो भक्तवत्सल:।** <br/>
-> **कपालभैरवो देव: काश्यां तिष्ठति सर्वदा॥**
+:::shloka [Skanda Purana, Kashi Khand]
 
-Source: *Skanda Purana, Kashi Khand*
+कपालं ब्रह्मणो यस्माद्भैरवस्य करे स्थितम्। <br/>
+काश्यां पतितमेवास्य कपालभैरव: स्मृत:॥ <br/>
+ब्रह्महत्यादिपापेभ्यो मुक्तिदो भक्तवत्सल:। <br/>
+कपालभैरवो देव: काश्यां तिष्ठति सर्वदा॥
 
-Translation: "Because Brahma's skull remained attached to Bhairav's hand and fell in Kashi, he is remembered as Kapal Bhairav. The compassionate deity Kapal Bhairav, who grants liberation from Brahma Hatya and other grave sins, resides eternally in Kashi."
+Because Brahma's skull remained attached to Bhairav's hand and fell in Kashi, he is remembered as Kapal Bhairav. The compassionate deity Kapal Bhairav, who grants liberation from Brahma Hatya and other grave sins, resides eternally in Kashi.
+:::
 
 ## History of the Mandir
 

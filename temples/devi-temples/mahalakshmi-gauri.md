@@ -65,11 +65,13 @@ Mahalakshmi Gauri stands as the most powerful Shakti Peeth in all of Kashi, wher
 
 ## Scriptural Quote (Shloka)
 
-> **सन्ति पीठान्यनेकानि काश्यां सिद्धिकराण्यपि**<br/> > **महालक्ष्मीपीठसमं नान्यल्लक्ष्मीकरं परम्**
+:::shloka [Kashi Khand, Chapter 70, Shlok 60]
 
-Source: _Kashi Khand, Chapter 70, Shlok 60_
+सन्ति पीठान्यनेकानि काश्यां सिद्धिकराण्यपि<br/>
+महालक्ष्मीपीठसमं नान्यल्लक्ष्मीकरं परम्
 
-Translation: "Although there are many Peethas in Kashipuri that give accomplishment (attainment), but there is no one else who is capable of giving ultimate prosperity like Mahalakshmi-peet."
+"Although there are many Peethas in Kashipuri that give accomplishment (attainment), but there is no one else who is capable of giving ultimate prosperity like Mahalakshmi-peet."
+:::
 
 ## History of the Mandir
 

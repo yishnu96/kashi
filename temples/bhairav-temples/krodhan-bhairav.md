@@ -58,14 +58,15 @@ Krodhan Bhairav stands as the fifth guardian among the sacred **[Ashta Bhairava]
 
 ## Scriptural Quote (Shloka)
 
-> **क्रोधभैरवो महावीरो दक्षिणपश्चिमदिक्पालः।**<br/>
-> **त्रिनेत्रो नीलवर्णश्च शक्तिवीर्यप्रदायकः॥**<br/>
-> **आदिभैरव इति ख्यातो योद्धवीरप्रदायकः।**<br/>
-> **भक्तानां सर्वकार्येषु सिद्धिदः परमेश्वरः॥**
+:::shloka [Skanda Purana, Kashi Khand]
 
-Source: *Skanda Purana, Kashi Khand*
- 
-Translation: "Krodhan Bhairav is the great warrior, guardian of the South-West direction. He is three-eyed, blue-complexioned, and bestows strength and power. Known as Aadi Bhairav, he grants warrior-like courage. The Supreme Lord who fulfills all desires of his devotees in their endeavors."
+क्रोधभैरवो महावीरो दक्षिणपश्चिमदिक्पालः।<br/>
+त्रिनेत्रो नीलवर्णश्च शक्तिवीर्यप्रदायकः॥<br/>
+आदिभैरव इति ख्यातो योद्धवीरप्रदायकः।<br/>
+भक्तानां सर्वकार्येषु सिद्धिदः परमेश्वरः॥
+
+Krodhan Bhairav is the great warrior, guardian of the South-West direction. He is three-eyed, blue-complexioned, and bestows strength and power. Known as Aadi Bhairav, he grants warrior-like courage. The Supreme Lord who fulfills all desires of his devotees in their endeavors.
+:::
 
 ## History of the Mandir
 

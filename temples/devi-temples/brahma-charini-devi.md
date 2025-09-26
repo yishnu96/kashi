@@ -59,21 +59,23 @@ Nestled close to Durga Ghat on the sacred banks of the Ganga, the Brahma Charini
 
 ## Scriptural Quote (Shloka)
 
-> **तपःपूतात्मा ब्रह्मचारिणी त्रैलोक्यपूजिता।** <br/>
-> **अध्यात्मज्ञानदायिनी शुभदा योगमातृका॥**
+:::shloka [Kashi Khanda, Chapter 70, Shloka 18]
 
-Source: *Kashi Khanda, Chapter 70, Shloka 18*
+तपःपूतात्मा ब्रह्मचारिणी त्रैलोक्यपूजिता। <br/>
+अध्यात्मज्ञानदायिनी शुभदा योगमातृका॥
 
-Translation: "Brahmacharini, sanctified by intense penance, revered across all three worlds, bestows higher knowledge and auspiciousness, serving as the divine mother of yoga."
+"Brahmacharini, sanctified by intense penance, revered across all three worlds, bestows higher knowledge and auspiciousness, serving as the divine mother of yoga."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **शिवप्राप्त्यर्हा तपसा हिमालयसुतात्मजा।** <br/>
-> **ब्रह्मचारिणी सर्वसिद्धिदा सर्वसौभाग्यदायिनी॥**
 
-Source: *Devi Bhagavata Purana, Adhyaya 23*
+:::shloka [Devi Bhagavata Purana, Adhyaya 23]
 
-Translation: "By her penance, the daughter of Himalaya, Brahmacharini, enables attainment of Shiva, grants all success and every good fortune."
+शिवप्राप्त्यर्हा तपसा हिमालयसुतात्मजा। <br/>
+ब्रह्मचारिणी सर्वसिद्धिदा सर्वसौभाग्यदायिनी॥
+
+"By her penance, the daughter of Himalaya, Brahmacharini, enables attainment of Shiva, grants all success and every good fortune."
+:::
 
 ## History of the Mandir
 

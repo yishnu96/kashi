@@ -57,21 +57,23 @@ Located within the sacred Adi Vishwanath temple complex near Gyanvapi, Sowbhagya
 
 ## Scriptural Quote (Shloka)
 
-> **या देवी सौभाग्यमयी सदानन्दकरी शुभा।**<br/>
-> **गौरी त्रिनेत्रा वरदा पावती जगदम्बिका॥**
+:::shloka [Gauri Stotram from various Puranic texts]
 
-Source: *Gauri Stotram from various Puranic texts*
+या देवी सौभाग्यमयी सदानन्दकरी शुभा।<br/>
+गौरी त्रिनेत्रा वरदा पावती जगदम्बिका॥
 
-Translation: "Salutations to that Goddess who is the embodiment of good fortune, who always brings joy and auspiciousness, who is Gauri with three eyes, the giver of boons, Parvati the Mother of the Universe."
+"Salutations to that Goddess who is the embodiment of good fortune, who always brings joy and auspiciousness, who is Gauri with three eyes, the giver of boons, Parvati the Mother of the Universe."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **सौभाग्यं सुखसम्पत्तिं पुत्रपौत्रादि वर्धनम्।**<br/>
-> **सर्वकामार्थसिद्धिं च गौरी दत्ते सदा प्रिये॥**
 
-Source: *Kashi Khand, Chapter 100*
+:::shloka [Kashi Khand, Chapter 100]
 
-Translation: "Dear devotee, Gauri always grants good fortune, happiness and wealth, increase in children and grandchildren, and the fulfillment of all desires."
+सौभाग्यं सुखसम्पत्तिं पुत्रपौत्रादि वर्धनम्।<br/>
+सर्वकामार्थसिद्धिं च गौरी दत्ते सदा प्रिये॥
+
+"Dear devotee, Gauri always grants good fortune, happiness and wealth, increase in children and grandchildren, and the fulfillment of all desires."
+:::
 
 ## History of the Mandir
 

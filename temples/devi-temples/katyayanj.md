@@ -58,22 +58,24 @@ This sacred shrine of Katyayani—the sixth form of Navadurga—stands inside th
 
 ## Scriptural Quote (Shloka)
 
-> **“कात्यायनि महामाये महायोगिन्यधीश्वरि ।**
-> **नन्दगोपसुतं देवि पतिं मे कुरु ते नमः ॥”**
+:::shloka [Śrīmad-Bhāgavatam, Canto 10, Chapter 22, Verse 4]
 
-Source: *Śrīmad-Bhāgavatam, Canto 10, Chapter 22, Verse 4.*
+“कात्यायनि महामाये महायोगिन्यधीश्वरि ।
+नन्दगोपसुतं देवि पतिं मे कुरु ते नमः ॥”
 
-English: “O goddess Kātyāyanī, O great potency of the Lord, O possessor of great mystic power and mighty controller, please make the son of Nanda my husband; obeisances unto you.”
+“O goddess Kātyāyanī, O great potency of the Lord, O possessor of great mystic power and mighty controller, please make the son of Nanda my husband; obeisances unto you.”
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **“चन्द्रहासोज्ज्वलकरा शार्दूलवरवाहना कात्यायनी शुभं दद्याद् देवी दानवघातिनी ॥”**
 
-Source: *Katyayani Stotra (traditional Durga stuti collections).*
+:::shloka [Katyayani Stotra (traditional Durga stuti collections)]
 
-English: “She whose hand shines with the crescent sword, riding the noble tiger—Katyayani, the slayer of demons—may the Devi bestow auspiciousness.”
+“चन्द्रहासोज्ज्वलकरा शार्दूलवरवाहना कात्यायनी शुभं दद्याद् देवी दानवघातिनी ॥”
 
-<div align="center"> ● ● ● ● </div>
+“She whose hand shines with the crescent sword, riding the noble tiger—Katyayani, the slayer of demons—may the Devi bestow auspiciousness.”
+:::
+
+
 
 > **“Skanda Purana, Kāśī-khaṇḍa includes a dedicated chapter on the greatness of Katyayani, affirming her special grace in Kashi’s sacred circle of Shaktis.”**
 

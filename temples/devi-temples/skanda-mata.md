@@ -57,21 +57,23 @@ The sacred Skanda Mata temple in Jaitpura houses Goddess Durga's fifth divine fo
 
 ## Scriptural Quote (Shloka)
 
-> **सिंहासनगता नित्यं पद्माश्रितकरद्वया।**<br/>
-> **शुभदास्तु सदा देवी स्कन्दमाता यशस्विनी॥**
+:::shloka [Durga Saptashati, Chapter on Skanda Mata]
 
-Source: *Durga Saptashati, Chapter on Skanda Mata*
+सिंहासनगता नित्यं पद्माश्रितकरद्वया।<br/>
+शुभदास्तु सदा देवी स्कन्दमाता यशस्विनी॥
 
-Translation: "May the glorious Goddess Skanda Mata, who sits eternally on a lion throne with lotus flowers adorning her hands, always bestow auspiciousness upon us."
+"May the glorious Goddess Skanda Mata, who sits eternally on a lion throne with lotus flowers adorning her hands, always bestow auspiciousness upon us."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **या देवी सर्वभूतेषु मातृरूपेण संस्थिता।**<br/>
-> **नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥**
 
-Source: *Devi Mahatmya*
+:::shloka [Devi Mahatmya]
 
-Translation: "Salutations again and again to the Goddess who resides in all beings in the form of Mother."
+या देवी सर्वभूतेषु मातृरूपेण संस्थिता।<br/>
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+
+"Salutations again and again to the Goddess who resides in all beings in the form of Mother."
+:::
 
 ## History of the Mandir
 

@@ -63,21 +63,23 @@ Annapurna Mandir in Kashi is the sacred abode of Maa Annapurna, the goddess of n
 
 ## Scriptural Quote (Shloka)
 
-> **शिवस्य जठरं यो वै पूरयत्यन्नपूर्णया।**<br/>
-> **तस्य काशीपुरी स्वर्गं द्वारं नास्ति कदाचन।।**
+:::shloka [Skanda Purana, Kashi Khanda, Chapter 48, Shloka 98]
 
-Source: *Skanda Purana, Kashi Khanda, Chapter 48, Shloka 98*
+शिवस्य जठरं यो वै पूरयत्यन्नपूर्णया।<br/>
+तस्य काशीपुरी स्वर्गं द्वारं नास्ति कदाचन।।
 
-Translation: "One who fills Lord Shiva’s belly with food offered by Annapurna, for such a devotee, the city of Kashi always becomes a gateway to heaven."
+"One who fills Lord Shiva’s belly with food offered by Annapurna, for such a devotee, the city of Kashi always becomes a gateway to heaven."
+:::
 
-<div align="center">  ●   ●   ●   ●  </div>
 
-> **अन्नदानं परं दानं विद्या दानात् पुनः परम्।**<br/>
-> **अन्नदानात् परं दानं नास्ति काश्यां तु दुर्लभम्।।**
 
-Source: *Kashi Khanda, Skanda Purana, Chapter 48*
+:::shloka [Kashi Khanda, Skanda Purana, Chapter 48]
 
-Translation: "Food donation is the supreme charity; knowledge donation is supreme again. But in Kashi, there is no charity greater than food charity, and it is most rare."
+अन्नदानं परं दानं विद्या दानात् पुनः परम्।<br/>
+अन्नदानात् परं दानं नास्ति काश्यां तु दुर्लभम्।।
+
+"Food donation is the supreme charity; knowledge donation is supreme again. But in Kashi, there is no charity greater than food charity, and it is most rare."
+:::
 
 ## History of the Mandir
 

@@ -56,21 +56,23 @@ Chandi Devi Temple stands as one of Kashi's most powerful Shakti Peethas, revere
 
 ## Scriptural Quote (Shloka)
 
-> **सप्त मातृका देवीनां चण्डिका देवी सप्तमी।** <br/>
-> **पुत्र जीवन दायिनी या सिद्धि प्रदायिनी॥**
+:::shloka [Kashi Khand, Chapter 83]
 
-Source: *Kashi Khand, Chapter 83*
+सप्त मातृका देवीनां चण्डिका देवी सप्तमी। <br/>
+पुत्र जीवन दायिनी या सिद्धि प्रदायिनी॥
 
-Translation: "Among the seven Matrika Devis, Chandika Devi is the seventh. She is the giver of life to sons and the bestower of Siddhis (supernatural powers)."
+"Among the seven Matrika Devis, Chandika Devi is the seventh. She is the giver of life to sons and the bestower of Siddhis (supernatural powers)."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **काशी क्षेत्रे स्थिता देवी कौर्मी शक्तिः प्रकीर्तिता।** <br/>
-> **सर्व विघ्न निवारिणी या भक्त अभीष्ट दायिनी॥**
 
-Source: *Kashi Khand, Chapter 70*
+:::shloka [Kashi Khand, Chapter 70]
 
-Translation: "In the sacred region of Kashi, the Devi known as Kaurmi Shakti is celebrated. She removes all obstacles and fulfills the desires of her devotees."
+काशी क्षेत्रे स्थिता देवी कौर्मी शक्तिः प्रकीर्तिता। <br/>
+सर्व विघ्न निवारिणी या भक्त अभीष्ट दायिनी॥
+
+"In the sacred region of Kashi, the Devi known as Kaurmi Shakti is celebrated. She removes all obstacles and fulfills the desires of her devotees."
+:::
 
 ## History of the Mandir
 

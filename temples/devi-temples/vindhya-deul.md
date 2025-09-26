@@ -53,17 +53,21 @@ Vindhya Devi, also revered as Vindhya Vasini, stands as one of Kashi's most powe
 
 ## Scriptural Quote (Shloka)
 
-> **विन्ध्यवासिनी देवी सर्वसिद्धिप्रदायिनी।काशीक्षेत्रे स्थिता देवी भक्तानां मनोकामदा॥**
+:::shloka [Kashi Khand, Chapter 70]
 
-Source: *Kashi Khand, Chapter 70*
-English Translation: "Vindhya Vasini Devi, the granter of all spiritual accomplishments, residing in the sacred field of Kashi, fulfills all desires of her devotees."
+विन्ध्यवासिनी देवी सर्वसिद्धिप्रदायिनी।काशीक्षेत्रे स्थिता देवी भक्तानां मनोकामदा॥
 
-<div align="center"> ● ● ● ● </div>
+"Vindhya Vasini Devi, the granter of all spiritual accomplishments, residing in the sacred field of Kashi, fulfills all desires of her devotees."
+:::
 
-> **सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥**
 
-Source: *Devi Mahatmya*
-English Translation: "O auspicious one, who brings auspiciousness to all, who accomplishes all purposes, who is the refuge of all, O three-eyed Gauri Narayani, salutations to you."
+
+:::shloka [Devi Mahatmya]
+
+सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके।शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥
+
+"O auspicious one, who brings auspiciousness to all, who accomplishes all purposes, who is the refuge of all, O three-eyed Gauri Narayani, salutations to you."
+:::
 
 ## History of the Mandir
 

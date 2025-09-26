@@ -60,14 +60,15 @@ Unmat Bhairav stands as the eighth and final guardian among the sacred **[Ashta 
 
 ## Scriptural Quote (Shloka)
 
-> **उन्मत्तभैरवो देवो त्रिनेत्रो श्वेतवर्णकः।**<br/>
-> **खड्गकपालमुद्गरस्फटिकान्धकारे हस्तः॥**<br/>
-> **हंसवाहनसंयुक्तो पश्चिमस्यां दिशि स्थितः।**<br/>
-> **भक्तानां दुष्टनाशार्थं काश्यां तिष्ठति सर्वदा॥**
+:::shloka [Skanda Purana, Kashi Khand, Chapter 72]
 
-Source: *Skanda Purana, Kashi Khand, Chapter 72*
+उन्मत्तभैरवो देवो त्रिनेत्रो श्वेतवर्णकः।<br/>
+खड्गकपालमुद्गरस्फटिकान्धकारे हस्तः॥<br/>
+हंसवाहनसंयुक्तो पश्चिमस्यां दिशि स्थितः।<br/>
+भक्तानां दुष्टनाशार्थं काश्यां तिष्ठति सर्वदा॥
 
-Translation: "Unmat Bhairav is the divine three-eyed deity of bright complexion, holding sword, skull, pestle, and shield in his hands. Accompanied by his swan mount and positioned in the western direction, he resides eternally in Kashi to destroy all negative influences for his devotees."
+"Unmat Bhairav is the divine three-eyed deity of bright complexion, holding sword, skull, pestle, and shield in his hands. Accompanied by his swan mount and positioned in the western direction, he resides eternally in Kashi to destroy all negative influences for his devotees."
+:::
 
 ## History of the Mandir
 

@@ -49,12 +49,13 @@ Bandi Devi Temple in Kashi is the sacred abode of the liberator goddess, revered
 
 ## Scriptural Quote (Shloka)
 
-> **दूरस्थोऽपि हि यो बन्धु: सोऽपि क्षिप्रं समेष्यति।**<br/>
-> **बन्दीपदजुषां पुंसो श्रद्धया नाऽत्र संशय:॥**
+:::shloka [Kashi Khand, Chapter 70, Shlok 50]
 
-Source: *Kashi Khand, Chapter 70, Shlok 50*
+दूरस्थोऽपि हि यो बन्धु: सोऽपि क्षिप्रं समेष्यति।<br/>
+बन्दीपदजुषां पुंसो श्रद्धया नाऽत्र संशय:॥
 
-Translation: "In Kashi, those who are devotees of Bandi Devi, if a friend of theirs has been imprisoned in a far away place, then without a doubt he gets liberated through their faithful devotion."
+"In Kashi, those who are devotees of Bandi Devi, if a friend of theirs has been imprisoned in a far away place, then without a doubt he gets liberated through their faithful devotion."
+:::
 
 ## History of the Mandir
 

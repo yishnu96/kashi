@@ -57,12 +57,13 @@ The Jyeshta Gauri Temple stands as one of Kashi's revered Nine Gauri shrines, ho
 
 ## Scriptural Quote (Shloka)
 
-> **जयेष्ठेश्वरोऽर्च्य: प्रथमं काश्यां श्रेयोऽर्थिभिर्नरै: |** <br/>
-> **ज्येष्ठा गौरी ततोऽभ्यर्च्या सर्वज्येष्ठमभीप्सुभि: ||**
+:::shloka [Kashi Khand, Chapter 63, Shlok 20]
 
-Source: *Kashi Khand, Chapter 63, Shlok 20*
+जयेष्ठेश्वरोऽर्च्य: प्रथमं काश्यां श्रेयोऽर्थिभिर्नरै: | <br/>
+ज्येष्ठा गौरी ततोऽभ्यर्च्या सर्वज्येष्ठमभीप्सुभि: ||
 
-Translation: "People who want welfare should first of all worship Jyeshtheshwar in Kashi, and then by worshipping Jyeshtha Gauri, they will get the position of seniority among all."
+"People who want welfare should first of all worship Jyeshtheshwar in Kashi, and then by worshipping Jyeshtha Gauri, they will get the position of seniority among all."
+:::
 
 ## History of the Mandir
 

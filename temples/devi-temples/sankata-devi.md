@@ -56,21 +56,25 @@ Sankata Devi Mandir stands as the only temple in India exclusively dedicated to 
 
 ## Scriptural Quote (Shloka)
 
-> **संकटा प्रथमं नाम द्वितीयं विजया तथा।**<br/>
-> **तृतीयं कामदा प्रोक्तं चतुर्थं दुःखहारिणी॥**<br/>
-> **शर्वाणी पञ्चमं नाम षष्ठं कात्यायनी तथा।**<br/>
-> **सप्तमं भीमनयना सर्वरोगहराष्टमम्॥**
+:::shloka [Sankata Devi Namashtakam]
 
-Source: *Sankata Devi Namashtakam*
+संकटा प्रथमं नाम द्वितीयं विजया तथा।<br/>
+तृतीयं कामदा प्रोक्तं चतुर्थं दुःखहारिणी॥<br/>
+शर्वाणी पञ्चमं नाम षष्ठं कात्यायनी तथा।<br/>
+सप्तमं भीमनयना सर्वरोगहराष्टमम्॥
 
-Translation: "Sankata is her first name, Vijaya (victorious) is her second name. Kamada (fulfiller of desires) is her third name, Duhkhaharini (remover of sorrows) is her fourth name. Sharvani (consort of Shiva) is her fifth name, Katyayani is her sixth name. Bhimanayana (fierce-eyed) is her seventh name, and Sarvarogahara (curer of all diseases) is her eighth name."
+"Sankata is her first name, Vijaya (victorious) is her second name. Kamada (fulfiller of desires) is her third name, Duhkhaharini (remover of sorrows) is her fourth name. Sharvani (consort of Shiva) is her fifth name, Katyayani is her sixth name. Bhimanayana (fierce-eyed) is her seventh name, and Sarvarogahara (curer of all diseases) is her eighth name."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **नामाष्टकमिदं पुण्यं त्रिसन्ध्यं श्रद्धयान्वितः।**<br/>
-> **यः पठेत् पाठयेद्वापि नरो मुच्येत संकटात्॥**
 
-Translation: "Whoever reads these eight holy names with faith at dawn, noon, and dusk, or causes them to be read, shall be freed from all troubles."
+:::shloka
+
+नामाष्टकमिदं पुण्यं त्रिसन्ध्यं श्रद्धयान्वितः।<br/>
+यः पठेत् पाठयेद्वापि नरो मुच्येत संकटात्॥
+
+"Whoever reads these eight holy names with faith at dawn, noon, and dusk, or causes them to be read, shall be freed from all troubles."
+:::
 
 ## History of the Mandir
 

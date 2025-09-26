@@ -9,6 +9,7 @@ tags:
 
   - vinayak
   - temple
+  - ashta_vinayak
 
 ---
 

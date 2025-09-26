@@ -58,22 +58,24 @@ The Bhavani Gauri Temple in Kashi stands among the nine ancient shrines dedicate
 
 ## Scriptural Quote (Shloka)
 
-> **"त्रयोदश च गौरीषु या भवानी प्रकीर्तिता ।** <br/>
-> **तस्यां संयम्य य: प्रीत्या भक्त्या पूजयेत् सदैव ॥** <br/>
-> **सर्वान् कामान् आप्नोति सुखं सायणं प्राप्यते ||"**
+:::shloka [Kashi Khanda, Chapter 100, Shloka 13]
 
-Source: *Kashi Khanda, Chapter 100, Shloka 13*
+"त्रयोदश च गौरीषु या भवानी प्रकीर्तिता । <br/>
+तस्यां संयम्य य: प्रीत्या भक्त्या पूजयेत् सदैव ॥ <br/>
+सर्वान् कामान् आप्नोति सुखं सायणं प्राप्यते ||"
 
-Translation: "Among the thirteen forms of Gauri, Bhavani is renowned. Whoever worships her with guided devotion attains every desire, receives happiness, and finds peace."
+"Among the thirteen forms of Gauri, Bhavani is renowned. Whoever worships her with guided devotion attains every desire, receives happiness, and finds peace."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **"मम प्रियासि गौरी त्वं काश्यां संचार निर्भरम् ।** <br/>
-> **मम कार्यसिद्ध्यर्थं भवानीरूपेण संस्थिता ॥"**
 
-Source: *Devi Bhagavata Purana, Adhyaya 23*
+:::shloka [Devi Bhagavata Purana, Adhyaya 23]
 
-Translation: "You are dearest, O Gauri, ever established in Kashi. For the success of my task, you remain in the form of Bhavani."
+"मम प्रियासि गौरी त्वं काश्यां संचार निर्भरम् । <br/>
+मम कार्यसिद्ध्यर्थं भवानीरूपेण संस्थिता ॥"
+
+"You are dearest, O Gauri, ever established in Kashi. For the success of my task, you remain in the form of Bhavani."
+:::
 
 ## History of the Mandir
 

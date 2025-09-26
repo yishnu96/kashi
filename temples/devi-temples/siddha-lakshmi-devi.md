@@ -55,21 +55,23 @@ Located in the sacred vicinity of Pita Maheshwar at Manikarnika, Siddha Lakshmi 
 
 ## Scriptural Quote (Shloka)
 
-> **सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीस्सरस्वती ।**<br/>
-> **श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा ॥**
+:::shloka [Siddhi Lakshmi Stotram, as referenced in various Puranic texts]
 
-Source: *Siddhi Lakshmi Stotram, as referenced in various Puranic texts*
+सिद्धलक्ष्मीर्मोक्षलक्ष्मीर्जयलक्ष्मीस्सरस्वती ।<br/>
+श्रीलक्ष्मीर्वरलक्ष्मीश्च प्रसन्ना मम सर्वदा ॥
 
-Translation: May Siddhi Lakshmi (giver of mystical powers), Moksha Lakshmi (giver of liberation), Jaya Lakshmi (giver of victory), Saraswati (giver of knowledge), Shri Lakshmi (giver of wealth), and Vara Lakshmi (giver of boons) always be pleased with me.
+May Siddhi Lakshmi (giver of mystical powers), Moksha Lakshmi (giver of liberation), Jaya Lakshmi (giver of victory), Saraswati (giver of knowledge), Shri Lakshmi (giver of wealth), and Vara Lakshmi (giver of boons) always be pleased with me.
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **ॐकारं लक्ष्मी रुपं तु विष्णुं हृदयमव्ययम् ।**<br/>
-> **ध्यायन् सर्वार्थसिद्धिः स्यात् सिद्धिलक्ष्म्या प्रसादतः ॥**
 
-Source: *Siddhi Lakshmi Stotram from Brahmanda Purana*
+:::shloka [Siddhi Lakshmi Stotram from Brahmanda Purana]
 
-Translation: Meditating upon Om as the form of Lakshmi and Vishnu as the eternal heart, one attains fulfillment of all desires through the grace of Siddhi Lakshmi.
+ॐकारं लक्ष्मी रुपं तु विष्णुं हृदयमव्ययम् ।<br/>
+ध्यायन् सर्वार्थसिद्धिः स्यात् सिद्धिलक्ष्म्या प्रसादतः ॥
+
+Meditating upon Om as the form of Lakshmi and Vishnu as the eternal heart, one attains fulfillment of all desires through the grace of Siddhi Lakshmi.
+:::
 
 ## History of the Mandir
 

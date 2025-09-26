@@ -56,12 +56,13 @@ The Kalratri Temple in Kashi stands as one of the most powerful Shakti Peeths, d
 
 ## Scriptural Quote (Shloka)
 
-> **अष्टम्यां च चतुर्दश्यां भौमवारे विशेषतः।** <br/>
-> **सम्पूज्या सततं काश्यां दुर्गा देवी सदाशिवा॥**
+:::shloka [Kashi Khand, Chapter 72, Shloka 82]
 
-Source: *Kashi Khand, Chapter 72, Shloka 82*
+अष्टम्यां च चतुर्दश्यां भौमवारे विशेषतः। <br/>
+सम्पूज्या सततं काश्यां दुर्गा देवी सदाशिवा॥
 
-Translation: "On Ashtami and Chaturdashi, especially when combined with Tuesday, devotees should worship Durga Devi in Kashi. The Goddess will bless devotees with purity in thoughts and deeds."
+"On Ashtami and Chaturdashi, especially when combined with Tuesday, devotees should worship Durga Devi in Kashi. The Goddess will bless devotees with purity in thoughts and deeds."
+:::
 
 ## History of the Mandir
 

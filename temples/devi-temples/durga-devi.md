@@ -57,21 +57,23 @@ Durga Devi Temple, nestled beside Durga Kund in the heart of Kashi, stands as on
 
 ## Scriptural Quote (Shloka)
 
-> **दुर्गे त्वं दुर्गम पशुन्न्विह कृच्छ्रेषु चाप्रिये ।** <br/>
-> **त्वमन्तरिक्षेऽपि च सर्वविघ्न हन्त्री सदा जगताम् ॥**
+:::shloka [Devi-Bhagavata Purana, Adhyaya 23, Shloka 41]
 
-Source: *Devi-Bhagavata Purana, Adhyaya 23, Shloka 41*
+दुर्गे त्वं दुर्गम पशुन्न्विह कृच्छ्रेषु चाप्रिये । <br/>
+त्वमन्तरिक्षेऽपि च सर्वविघ्न हन्त्री सदा जगताम् ॥
 
-Translation: "O Durga! You remove all obstacles from the path of your devotees, and protect all beings across this world and the heavens."
+"O Durga! You remove all obstacles from the path of your devotees, and protect all beings across this world and the heavens."
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **सर्वमभ्युदयं देहि शत्रुभिः किं प्रयत्नतः ।** <br/>
-> **त्वदर्चनात् सर्वमायाति सुखं चाप्यभयं ततः ॥**
 
-Source: *Kashi Khanda, Adhyaya 51, Shloka 88*
+:::shloka [Kashi Khanda, Adhyaya 51, Shloka 88]
 
-Translation: "Bestow all success upon us, O Devi! Through worship of you, all happiness and fearlessness is attained by your children."
+सर्वमभ्युदयं देहि शत्रुभिः किं प्रयत्नतः । <br/>
+त्वदर्चनात् सर्वमायाति सुखं चाप्यभयं ततः ॥
+
+"Bestow all success upon us, O Devi! Through worship of you, all happiness and fearlessness is attained by your children."
+:::
 
 ## History of the Mandir
 

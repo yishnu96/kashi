@@ -56,11 +56,13 @@ Located in the heart of Kashi, Siddheshwari temple stands as one of the most pow
 
 ## Scriptural Quote (Shloka)
 
-> **सन्ति पीठान्यनेकानि क्षितौ साधकसिद्धये**<br/>
-> **परं योगीशवरीपीठाद् भूपृष्ठे नाशु सिद्धिदम्**
+:::shloka [Kashi Khand, Chapter 14, Shloka 68]
 
-Source: *Kashi Khand, Chapter 14, Shloka 68*
-Translation: "Although there are many Peeths on earth which give Siddhi to the seekers (ardent devotees), at present there is no other place like this Yogeshwari Peeth (Siddheshwari Peeth) on earth which will give Siddhi so quickly."
+सन्ति पीठान्यनेकानि क्षितौ साधकसिद्धये<br/>
+परं योगीशवरीपीठाद् भूपृष्ठे नाशु सिद्धिदम्
+
+"Although there are many Peeths on earth which give Siddhi to the seekers (ardent devotees), at present there is no other place like this Yogeshwari Peeth (Siddheshwari Peeth) on earth which will give Siddhi so quickly."
+:::
 
 ## History of the Mandir
 

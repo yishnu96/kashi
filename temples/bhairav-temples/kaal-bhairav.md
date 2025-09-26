@@ -58,59 +58,64 @@ The ancient Kaal Bhairav Temple stands as one of Kashi's most powerful and rever
 
 ## Scriptural Quote (Shloka)
 
-> **कृत्वा च विविधां पूजां महासम्भारविस्तरैः।** <br/>
-> **नरो मार्गाऽसिताऽष्टम्यां वार्षिकं विघ्नमुत्सृजेत॥**
+:::shloka [Kashi Khand, Chapter 31, Shloka 146]
 
-Source: *Kashi Khand, Chapter 31, Shloka 146*
+कृत्वा च विविधां पूजां महासम्भारविस्तरैः। <br/>
+नरो मार्गाऽसिताऽष्टम्यां वार्षिकं विघ्नमुत्सृजेत॥
 
-Translation: “On the Krishna Ashtami of Margashirsha (Kaal Bhairav Jayanti), one who performs various pujas of Kaal Bhairav with full materials is freed from obstacles for the entire year.”**
-
-
-
-<div align="center">  ●   ●   ●   ●  </div>
-
-
-> **अष्टम्यां च चतुर्दश्यां रविभूमिजवासरे:|** <br/> 
-> **यात्रां  च भैरवीं कृत्वा कृतै: पापै: प्रमुच्यते॥**
-
-Source : *Kashi Khand, Chapter 31, Shlok 147*
-
-Translation: If a devotee worships Kaal Bhairav on Sundays or Tuesdays as also on Ashtami and Chaturdasi days, he will get relief from all sins committed.
+On the Krishna Ashtami of Margashirsha (Kaal Bhairav Jayanti), one who performs various pujas of Kaal Bhairav with full materials is freed from obstacles for the entire year.
+:::
 
 
 
-<div align="center">  ●   ●   ●   ●  </div>
 
 
-> **देवराजसेव्यमानपावनांघ्रिपंकजं** <br/>
-> **व्यालयज्ञसूत्रमिन्दुशेखरं कृपाकरम्।** <br/>
-> **नारदादियोगिवृन्दवन्दितं दिगंबरं** <br/>
-> **काशिकापुराधिनाथकालभैरवं भजे॥१॥**
 
-Source: *Kalabhairava Ashtakam, Verse 1*
+:::shloka [Kashi Khand, Chapter 31, Shlok 147]
 
-Translation: I worship Kaal Bhairav, the lord of Kashi, whose lotus feet are served by the gods and which purify all who touch or remember them. He wears a serpent as his sacred thread, has the moon on his forehead, and is full of compassion. He is praised by Narada and other sages and yogis, and is Digambar (sky-clad), free from all attachments.
+अष्टम्यां च चतुर्दश्यां रविभूमिजवासरे:| <br/> 
+यात्रां  च भैरवीं कृत्वा कृतै: पापै: प्रमुच्यते॥
 
-<div align="center">  ●   ●   ●   ●  </div>
+If a devotee worships Kaal Bhairav on Sundays or Tuesdays as also on Ashtami and Chaturdasi days, he will get relief from all sins committed.
+:::
 
-> **भुक्तिमुक्तिदायकं प्रशस्तचारुविग्रहं** <br/>
-> **भक्तवत्सलं स्थितं समस्तलोकविग्रहम्।** <br/>
-> **विनिक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटिं** <br/>
-> **काशिकापुराधिनाथकालभैरवं भजे॥४॥** 
 
-Source: Kalabhairava Ashtakam, Verse 4
 
-Translation: I worship Kaal Bhairav, the supreme lord of Kashi, who bestows both worldly pleasures and liberation, who has a beautiful and auspicious form, who is loving towards his devotees, who is stable and takes various forms in the world, and whose waist is adorned with melodious golden bells.
 
-<div align="center">  ●   ●   ●   ●  </div>
 
-> **काशिवासलोकपुण्यपापशोधकं विभुम्।** <br/>
-> **नीतिमार्गकोविदं पुरातनं जगत्पतिम्** <br/>
-> **काशिकापुराधिनाथकालभैरवं भजे॥८॥** 
 
-Source: *Kalabhairava Ashtakam, Verse 8*
+:::shloka [Kalabhairava Ashtakam, Verse 1]
 
-Translation: I worship Kaal Bhairav, the supreme lord of Kashi, who purifies the sins and merits of all people living in Kashi, who is the omnipresent one, who is well-versed in the path of righteousness, who is the ancient lord of the universe.
+देवराजसेव्यमानपावनांघ्रिपंकजं <br/>
+व्यालयज्ञसूत्रमिन्दुशेखरं कृपाकरम्। <br/>
+नारदादियोगिवृन्दवन्दितं दिगंबरं <br/>
+काशिकापुराधिनाथकालभैरवं भजे॥१॥
+
+I worship Kaal Bhairav, the lord of Kashi, whose lotus feet are served by the gods and which purify all who touch or remember them. He wears a serpent as his sacred thread, has the moon on his forehead, and is full of compassion. He is praised by Narada and other sages and yogis, and is Digambar (sky-clad), free from all attachments.
+:::
+
+
+
+:::shloka [Kalabhairava Ashtakam, Verse 4]
+
+भुक्तिमुक्तिदायकं प्रशस्तचारुविग्रहं <br/>
+भक्तवत्सलं स्थितं समस्तलोकविग्रहम्। <br/>
+विनिक्वणन्मनोज्ञहेमकिङ्किणीलसत्कटिं <br/>
+काशिकापुराधिनाथकालभैरवं भजे॥४॥ 
+
+I worship Kaal Bhairav, the supreme lord of Kashi, who bestows both worldly pleasures and liberation, who has a beautiful and auspicious form, who is loving towards his devotees, who is stable and takes various forms in the world, and whose waist is adorned with melodious golden bells.
+:::
+
+
+
+:::shloka [Kalabhairava Ashtakam, Verse 8]
+
+काशिवासलोकपुण्यपापशोधकं विभुम्। <br/>
+नीतिमार्गकोविदं पुरातनं जगत्पतिम् <br/>
+काशिकापुराधिनाथकालभैरवं भजे॥८॥ 
+
+I worship Kaal Bhairav, the supreme lord of Kashi, who purifies the sins and merits of all people living in Kashi, who is the omnipresent one, who is well-versed in the path of righteousness, who is the ancient lord of the universe.
+:::
 
 
 ## Image

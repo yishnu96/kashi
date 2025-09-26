@@ -56,35 +56,39 @@ Kamakhya Devi in Kamachha, Varanasi is a revered Shakti Peeth in Kashi where the
 
 ## Scriptural Quote (Shloka)
 
-> **“जया कामेशि चामुण्डे जय भूतापहारिणि । जय सर्वगते देवि कामेश्वरी नमोऽस्तु ते ॥”**
+:::shloka [Kamakhya Stotram]
 
-Source: *Kamakhya Stotram*
+“जया कामेशि चामुण्डे जय भूतापहारिणि । जय सर्वगते देवि कामेश्वरी नमोऽस्तु ते ॥”
 
-Translation: “Victory to Kameshi and Chamunda, remover of spirits; salutation to the All‑pervading Goddess, O Kameshwari.”
+“Victory to Kameshi and Chamunda, remover of spirits; salutation to the All‑pervading Goddess, O Kameshwari.”
+:::
 
-<div align="center"> ● ● ● ● </div>
 
-> **“कामरूपसमुद्भूते कामपीठावतंसके । विश्वाधारे महामाये कामेश्वरि नमोऽस्तु ते ॥”**
 
-Source: *Kamakhya Stotram*
+:::shloka [Kamakhya Stotram]
 
-Translation: “O Great Maya, foundation of the universe, born in Kamarupa and adorned by Kama‑pitha, obeisance to you, O Kameshwari.”
+“कामरूपसमुद्भूते कामपीठावतंसके । विश्वाधारे महामाये कामेश्वरि नमोऽस्तु ते ॥”
 
-<div align="center"> ● ● ● ● </div>
+“O Great Maya, foundation of the universe, born in Kamarupa and adorned by Kama‑pitha, obeisance to you, O Kameshwari.”
+:::
 
-> **“या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥”**
 
-Source: *Devi Mahatmya, Markandeya Purana (Devi Saptashati)*
 
-Translation: “Salutations again and again to the Devi who abides in all beings as intellect.”
+:::shloka [Devi Mahatmya, Markandeya Purana (Devi Saptashati)]
 
-<div align="center"> ● ● ● ● </div>
+“या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥”
 
-> **“या देवी सर्वभूतेषु चेतनेत्यभिधीयते । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥”**
+“Salutations again and again to the Devi who abides in all beings as intellect.”
+:::
 
-Source: *Devi Mahatmya, Markandeya Purana (Devi Saptashati)*
 
-Translation: “Salutations again and again to the Devi who is called consciousness in all beings.”
+
+:::shloka [Devi Mahatmya, Markandeya Purana (Devi Saptashati)]
+
+“या देवी सर्वभूतेषु चेतनेत्यभिधीयते । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥”
+
+“Salutations again and again to the Devi who is called consciousness in all beings.”
+:::
 
 ## History of the Mandir
 
