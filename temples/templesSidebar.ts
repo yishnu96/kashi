@@ -42,10 +42,20 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Shiva Temples",
-      items:
+      items: (
         require("./shiva-temples/shivaSidebar.ts").shivaSidebar[0].items.map(
-          (item) => `shiva-temples/${item}`
-        ),
+          (item) => {
+            if (typeof item === 'string') {
+              return `shiva-temples/${item}`;
+            } else { // It's a category
+              return {
+                ...item,
+                items: item.items.map(subItem => `shiva-temples/${subItem}`),
+              };
+            }
+          }
+        )
+      ),
     },
     {
       type: "category",
